@@ -222,7 +222,7 @@ img { max-width: 100%; }
 <header class="hero">
   <div class="wrap">
     <img class="logo" src="img/logo-cream.png" alt="Good Magical Morning" width="800" height="511">
-    <p class="hello" id="hello">Good morning, Kalani.</p>
+    <p class="hello" id="hello">Good morning!</p>
     <p class="clock" id="clock" aria-live="off">7:00<small>AM</small></p>
     <p class="today" id="today">Today</p>
     <div class="wx" id="wx" hidden></div>
@@ -318,7 +318,7 @@ img { max-width: 100%; }
     $("today").textContent = n.toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
     const hr = n.getHours();
     const part = hr < 5 ? "Up late" : hr < 12 ? "Good morning" : hr < 17 ? "Good afternoon" : "Good evening";
-    $("hello").textContent = `${part}, Kalani.`;
+    $("hello").textContent = `${part}!`;
   }
   tick();
   setInterval(tick, 15000);
