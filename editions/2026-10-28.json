@@ -1,0 +1,402 @@
+{
+ "date": "2026-10-28",
+ "generatedAt": "2026-10-28T12:25-04:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-10-28T12:15",
+  "current": {
+   "temp": 57,
+   "feels": 53,
+   "code": 3,
+   "wind": 3
+  },
+  "today": {
+   "hi": 60,
+   "lo": 43,
+   "code": 3,
+   "rain": 1,
+   "sunrise": "2026-10-28T07:21",
+   "sunset": "2026-10-28T17:57"
+  },
+  "tomorrow": {
+   "hi": 67,
+   "lo": 44,
+   "code": 45,
+   "rain": 2
+  },
+  "hourly": [
+   {
+    "t": "2026-10-28T00:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T01:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T02:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T03:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T04:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T05:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T06:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T07:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T08:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T09:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T10:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T11:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T12:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T13:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T14:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T15:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T16:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T17:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T18:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-28T19:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-28T20:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-28T21:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-28T22:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T23:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T00:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T01:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T02:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T03:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T04:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T05:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T06:00",
+    "temp": 45,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T07:00",
+    "temp": 44,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T08:00",
+    "temp": 44,
+    "code": 45,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T09:00",
+    "temp": 48,
+    "code": 45,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T10:00",
+    "temp": 56,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T11:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T12:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T13:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T14:00",
+    "temp": 66,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T15:00",
+    "temp": 67,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T16:00",
+    "temp": 66,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T17:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-10-29T18:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T19:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T20:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T21:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T22:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-29T23:00",
+    "temp": 54,
+    "code": 1,
+    "rain": 1
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "GTA 6 Is So Big It Needs Its Own Zip Code",
+   "blurb": "Grand Theft Auto 6 clocks in at a whopping 210GB on PS5, according to a PlayStation Store sleuth. PC Gamer did the math: that's roughly 3,500 copies of Balatro. Pre-loading is coming up fast ahead of next month's launch, so now is the time to delete all those games you swore you'd finish.",
+   "quip": "Somewhere a PS5 just let out a very quiet sigh.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-is-a-210gb-download-says-playstation-store-sleuth/"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Hey! Listen! The Ocarina of Time Remake Lands Next Week",
+   "blurb": "Nintendo's Ocarina of Time remake for Switch 2 arrives November 5, and the Triforce-covered Zelda 40th Anniversary Switch 2 is already flying off shelves. Demand is so wild that Walmart reportedly canceled some pre-orders the day before they were supposed to arrive. Navi would like a word.",
+   "quip": "Start practicing Saria's Song on the kitchen recorder now.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/fans-cant-believe-walmart-canceled-zelda-ocarina-of-time-switch-2-pre-orders-the-day-before-they-were-meant-to-arrive-2000750478"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Dune: Part Three's Final Trailer Introduces Paul's Twins",
+   "blurb": "The last trailer before Dune: Part Three hits theaters December 18 gives us our first look at Paul and Chani's twins, Leto II and Ghanima. It also reveals Paul knows Chani was behind an attempt on his life, which is a lot for one marriage.",
+   "quip": "December 18 is stacked: Dune AND Avengers: Doomsday on the same day.",
+   "source": "/Film",
+   "url": "https://www.slashfilm.com/2298706/dune-part-three-paul-atreides-chani-children-first-look/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "The Rock Gets Eaten by a Hippo in the New Jumanji Trailer",
+   "blurb": "Jumanji: Open World brings back Dwayne Johnson, Kevin Hart, Karen Gillan and Jack Black, and this time the video game characters break out into the real world. Trailer highlights include The Rock getting scooped up by a hippo and, somehow, falling in love with Jack Black. It's billed as the final Jumanji and lands this Christmas.",
+   "quip": "Real-world Jumanji means Jack Black loose in a mall food court. Take our money.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/entertainment/adventure-movies/jumanji-open-world-new-trailer/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Cozy Witch-School Game Witchbrook Finally Has a Release Date",
+   "blurb": "Witchbrook was first announced back in 2018. Eight years later, the life sim where you attend witch school in the seaside town of Mossport is coming to Switch and Switch 2 on January 28, 2027. It was revealed at Nintendo's Indie World showcase, it hits PS5 at launch too, and there's a physical collector's edition.",
+   "quip": "Stardew Valley meets Hogwarts. Clear your entire January.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Taylor Swift Is the Youngest Nashville Songwriters Hall of Famer Ever",
+   "blurb": "At 36, Taylor Swift is now the youngest person ever inducted into the Nashville Songwriters Hall of Fame. Brad Paisley did the honors, Lainey Wilson played a bluegrass cover of \"Love Story,\" and Taylor called it joining \"this sacred club.\" She signed her first publishing deal at 14, so honestly, right on schedule.",
+   "quip": "Bluegrass \"Love Story\" needs to be on streaming immediately.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2515698/taylor-swift-nashville-songwriters-hall-of-fame-induction/news/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Skating Under the Brooklyn Bridge Is Back November 14",
+   "blurb": "Roebling Rink returns to Brooklyn Bridge Park for its third season on November 14, right under the bridge with the Manhattan skyline as your backdrop. The first two opening-day sessions have a limited number of free admissions. Then the party starts: crafts, holiday movies, the Brooklyn Museum's Museum on Wheels, and a skating performance by drag queen and figure skater Milk. After that it's $16 for New Yorkers, plus $8 for skates.",
+   "quip": "Finally, a way to fall on our butts with a view.",
+   "source": "Brooklyn Paper",
+   "url": "https://www.brooklynpaper.com/roebling-rink-brooklyn-bridge-park-2026/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Runaway Capybara Samba Is Still Living Her Best Life, 7 Months Later",
+   "blurb": "Back in March, two capybaras named Samba and Tango broke out of England's Marwell Zoo within a day of arriving. Tango was found quickly. Samba was not. She just turned up on a wildlife camera set by the search team, still free in the English countryside. The zoo says getting her back is \"a gradual, carefully-managed process.\"",
+   "quip": "Samba doesn't need a zoo. Samba needs a Netflix documentary.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/10/28/marwell-zoo-samba-capybara-sighting/1521793199576/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Japan's Funniest Halloween Costumes Are Just Mildly Annoying Moments",
+   "blurb": "In Japan, \"jimi\" Halloween means dressing up as painfully ordinary situations instead of zombies and witches. Think: someone who just opened a shaken-up soda, a person who missed trash day, or a guy who smiles at every dog that walks by. It started around 2014 with a group of adults from the website Daily Portal Z.",
+   "quip": "Costume idea: \"Person whose AirPod just fell onto the subway tracks.\" Brooklyn-approved.",
+   "source": "Upworthy",
+   "url": "https://www.upworthy.com/japans-jimi-halloween-costumes-are-meant-to-appear-mundane-theyre-actually-brilliant/"
+  }
+ ]
+}
