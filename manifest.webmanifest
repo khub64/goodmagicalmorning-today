@@ -1,0 +1,10 @@
+{
+  "name": "Good Magical Morning",
+  "short_name": "GMM",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff6e7",
+  "theme_color": "#0b557a",
+  "icons": [{ "src": "img/icon-180.png", "sizes": "180x180", "type": "image/png" }]
+}

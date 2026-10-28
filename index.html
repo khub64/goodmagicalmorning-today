@@ -13,6 +13,7 @@
 <meta property="og:image" content="img/logo-brown.png">
 <link rel="icon" href="img/icon-180.png">
 <link rel="apple-touch-icon" href="img/icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Yellowtail&display=swap">
@@ -273,6 +274,14 @@ img { max-width: 100%; }
       <div class="loc-row"><a class="btn btn-primary" href="submit/" target="_blank" rel="noopener" style="text-decoration:none">Send in a story</a></div>
       <span class="tiny">Anything you send in shows up in the next morning's edition.</span>
     </div>
+    <div class="foot-row" id="alert-row" hidden>
+      <span class="foot-label">Morning alert</span>
+      <div class="loc-row">
+        <button class="btn btn-primary" type="button" id="alert-on">Send me the 10:30 alert</button>
+        <button class="btn" type="button" id="alert-off" hidden>Turn it off</button>
+      </div>
+      <span class="tiny" id="alert-note">A little "hot news waitin' ☕️" nudge on your phone at 10:30 every morning.</span>
+    </div>
     <div class="foot-row">
       <span class="foot-label">Weather location</span>
       <div class="loc-row">
@@ -499,6 +508,57 @@ img { max-width: 100%; }
   if (place.auto && navigator.permissions) {
     navigator.permissions.query({ name: "geolocation" }).then((p) => { if (p.state === "granted") useLocation(true); }).catch(() => {});
   }
+
+  /* ---------------- 10:30 alert (web push) ---------------- */
+  const PUSH_KEY = "BFfAkSWk0KG0YiGLy9n6vT4nAYrC29WSRTfnWJrJEnrQu1EYXf9j2Gex-E8TrJU_SqNsml5gjU1jIreRBZ3Y5Zs", PUSH_ENDPOINT = "https://script.google.com/macros/s/AKfycbwPH7N7DAwtPd-dtFedy2hoBd7ReBp93bPGy_BXirZOqZPvBuL5tD5-sDhaLsIdG1-e/exec";
+  const pushOK = "serviceWorker" in navigator && "PushManager" in window && "Notification" in window;
+  const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
+  const isIOS = /iPhone|iPad|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  const swReady = pushOK ? navigator.serviceWorker.register("sw.js").then(() => navigator.serviceWorker.ready) : null;
+  const b64 = (s) => Uint8Array.from(atob((s + "=".repeat((4 - s.length % 4) % 4)).replace(/-/g, "+").replace(/_/g, "/")), (c) => c.charCodeAt(0));
+  const tellServer = (fields) => fetch(PUSH_ENDPOINT, { method: "POST", mode: "no-cors", body: new URLSearchParams(fields) });
+
+  async function alertState() {
+    const note = $("alert-note");
+    if (!pushOK) {
+      $("alert-on").hidden = true;
+      note.textContent = isIOS && !standalone
+        ? "To get the 10:30 alert on iPhone: tap Share → Add to Home Screen, open the paper from your home screen, then tap the button here."
+        : "This browser can't do notifications.";
+      return;
+    }
+    const sub = await (await swReady).pushManager.getSubscription();
+    const on = !!sub && Notification.permission === "granted";
+    $("alert-on").hidden = on;
+    $("alert-off").hidden = !on;
+    note.textContent = on
+      ? "You're all set. Hot news lands on your phone at 10:30 every morning."
+      : Notification.permission === "denied"
+        ? "Notifications are blocked for this site. Turn them on in Settings → Notifications, then try again."
+        : "A little \"hot news waitin' ☕️\" nudge on your phone at 10:30 every morning.";
+  }
+
+  $("alert-on").addEventListener("click", async () => {
+    $("alert-on").disabled = true;
+    try {
+      if (await Notification.requestPermission() !== "granted") return;
+      const reg = await swReady;
+      const sub = (await reg.pushManager.getSubscription()) || await reg.pushManager.subscribe({ userVisibleOnly: true, applicationServerKey: b64(PUSH_KEY) });
+      await tellServer({ type: "subscribe", sub: JSON.stringify(sub) });
+      store.set("gmm-alert", true);
+    } catch {
+      $("alert-note").textContent = "That didn't work. Check your connection and try again.";
+      return;
+    } finally { $("alert-on").disabled = false; }
+    alertState();
+  });
+  $("alert-off").addEventListener("click", async () => {
+    const sub = await (await swReady).pushManager.getSubscription();
+    if (sub) { tellServer({ type: "unsubscribe", endpoint: sub.endpoint }).catch(() => {}); await sub.unsubscribe(); }
+    store.set("gmm-alert", null);
+    alertState();
+  });
+  if (!$("alert-row").hidden) alertState().catch(() => {});
 
   /* ---------------- stories ---------------- */
   function storyHTML(s, cls) {
