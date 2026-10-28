@@ -1,0 +1,402 @@
+{
+ "date": "2026-10-27",
+ "generatedAt": "2026-10-27T06:08-04:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-10-27T06:00",
+  "current": {
+   "temp": 54,
+   "feels": 54,
+   "code": 0,
+   "wind": 4
+  },
+  "today": {
+   "hi": 63,
+   "lo": 48,
+   "code": 0,
+   "rain": 1,
+   "sunrise": "2026-10-27T07:20",
+   "sunset": "2026-10-27T17:58"
+  },
+  "tomorrow": {
+   "hi": 62,
+   "lo": 44,
+   "code": 3,
+   "rain": 1
+  },
+  "hourly": [
+   {
+    "t": "2026-10-27T00:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T01:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T02:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T03:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-27T04:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-27T05:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-27T06:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-27T07:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-27T08:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-27T09:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T10:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T11:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T12:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T13:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T14:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T15:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T16:00",
+    "temp": 63,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T17:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T18:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T19:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T20:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T21:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T22:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-27T23:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T00:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T01:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T02:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T03:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T04:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T05:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T06:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T07:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T08:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T09:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T10:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T11:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T12:00",
+    "temp": 58,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T13:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T14:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T15:00",
+    "temp": 61,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T16:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T17:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T18:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-28T19:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-28T20:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-28T21:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T22:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-28T23:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Jay-Z Is Headlining the 2027 Super Bowl Halftime Show",
+   "blurb": "The NFL made it official: Jay-Z headlines the Super Bowl halftime show at SoFi Stadium on February 14, 2027. The teaser shows him alone in an empty stadium with the line \"The GOAT's out of the bag.\" Fun twist: his company Roc Nation has produced every halftime show since 2020, so he basically got to pick himself.",
+   "quip": "Valentine's Day halftime with Hov. Somebody's date night just got upgraded.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2515671/jay-z-confirmed-for-super-bowl-2027-halftime-show/news/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Ryan Gosling's Star Wars Movie Is Reportedly a Family Affair",
+   "blurb": "Eva Mendes is reportedly joining her husband Ryan Gosling in Star Wars: Starfighter, playing the owner of an intergalactic cantina. Lucasfilm hasn't confirmed it yet. The Shawn Levy movie is set five years after The Rise of Skywalker and hits theaters May 28, 2027.",
+   "quip": "A Gosling-run cantina scene? We will be ordering the blue milk.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/starwars/news/ryan-goslings-new-star-wars-movie-will-reunite-him-with-wife-eva-mendes-we-know-who-shes-playing/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Ryan Gosling's Spooky Band Dead Man's Bones Is Back After 17 Years",
+   "blurb": "Speaking of Gosling: Dead Man's Bones, his band with Zach Shields, just dropped \"Lost in the Night,\" their first new music since 2009. It's a moody, reverb-soaked goth-rock track that landed right on time for Halloween week. No word yet on whether a full album is coming.",
+   "quip": "Ryan Gosling had a bigger Monday than most of us have all year.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2515664/dead-mans-bones-share-lost-in-the-night-first-new-music-in-17-years/music/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "KISS Is Taking You Behind the Scenes of Their Farewell Tour",
+   "blurb": "KISS: End of the Road, a documentary about the band's four-year farewell tour and that final Madison Square Garden show, premieres November 19 on KISSOnline. Virtual tickets are $16.79, and fans on the KISS Kruise get a sneak peek a week early. It also gets into the band's next era as digital avatars.",
+   "quip": "Rock and roll all nite, from the comfort of your couch.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/10/kiss-documentary-end-of-the-road/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "A New Pok\u00e9 Ball Lets You Raise Pikachu Like a Tamagotchi",
+   "blurb": "Takara Tomy's Pok\u00e9mon Friends Pok\u00e9 Ball+ is a virtual pet you can raise, bathe, feed and take on outings. Pick from seven partners including Pikachu, Gengar and Ditto, with around 170 more Pok\u00e9mon popping by as friends. Your Pok\u00e9mon can even visit a friend's ball. It launches in Japan on November 7.",
+   "quip": "Our childhood Tamagotchis are filing a formal complaint.",
+   "source": "Siliconera",
+   "url": "https://www.siliconera.com/pokemon-friends-poke-ball-virtual-pet-includes-new-features/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Assassin's Creed Black Flag Resynced Adds New Game+ and Nightmare Mode",
+   "blurb": "The final big update for Black Flag Resynced is out, and it's a good one. New Game+ lets you replay with your gear, ship upgrades and pets, all the way up to New Game+ 5. There's also a brutal new Nightmare difficulty, new outfits and sails, and six hidden community chests to hunt down.",
+   "quip": "Pirate season never ends. Hoist the colors one more time.",
+   "source": "Pure Xbox",
+   "url": "https://www.purexbox.com/news/2026/10/assassins-creed-black-flag-resynced-gets-new-gameplus-mode-in-final-major-update"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Two Brooklyn Legends Team Up: Li-Lac Chocolates Moves Into Sahadi's",
+   "blurb": "Li-Lac Chocolates, making handmade chocolates since 1923, just opened a permanent shop inside Sahadi's flagship at 187 Atlantic Avenue. Sahadi's has been a Brooklyn staple since moving to Atlantic Avenue in 1948, and the two celebrated with a ribbon-cutting yesterday.",
+   "quip": "Pistachios and chocolate under one roof. Atlantic Avenue just won Halloween.",
+   "source": "Brooklyn Paper",
+   "url": "https://www.brooklynpaper.com/sahadis-li-lac-chocolates-partnership-atlantic-avenue/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Bear Let Itself Into a Subaru, Got Stuck, and Trashed the Place",
+   "blurb": "In Juneau, Alaska, a black bear opened the unlocked door of a family's Subaru, climbed in, and the door slammed shut behind it. The bear completely wrecked the interior before police used a rope to pop a door open after midnight. As the owner put it: \"It couldn't get out.\"",
+   "quip": "Lock your car doors. Not for thieves. For bears.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/10/27/bear-subaru-juneau-alaska/2201793113056/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Scientists Think Spiders Might Dream",
+   "blurb": "Researchers at the University of Bonn found that a tiny Australian jumping spider, about the size of a one-euro coin, sleeps in two distinct stages. One of them looks a lot like human REM sleep, complete with eye movements and muscle twitches. The study was published in PNAS.",
+   "quip": "Just in time for Halloween: the spiders are dreaming. About what? We don't want to know.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/10/261026225555.htm"
+  }
+ ]
+}
