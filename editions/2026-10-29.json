@@ -1,0 +1,402 @@
+{
+ "date": "2026-10-29",
+ "generatedAt": "2026-10-29T11:53-04:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-10-29T11:45",
+  "current": {
+   "temp": 63,
+   "feels": 60,
+   "code": 0,
+   "wind": 7
+  },
+  "today": {
+   "hi": 66,
+   "lo": 48,
+   "code": 3,
+   "rain": 0,
+   "sunrise": "2026-10-29T07:22",
+   "sunset": "2026-10-29T17:55"
+  },
+  "tomorrow": {
+   "hi": 66,
+   "lo": 47,
+   "code": 0,
+   "rain": 5
+  },
+  "hourly": [
+   {
+    "t": "2026-10-29T00:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T01:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T02:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T03:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T04:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T05:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T06:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T07:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T08:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T09:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T10:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T11:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T12:00",
+    "temp": 63,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T13:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T14:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T15:00",
+    "temp": 65,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T16:00",
+    "temp": 66,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T17:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T18:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T19:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T20:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T21:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T22:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-29T23:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T00:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-30T01:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-30T02:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-10-30T03:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-10-30T04:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-10-30T05:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 5
+   },
+   {
+    "t": "2026-10-30T06:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-10-30T07:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-10-30T08:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-10-30T09:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-10-30T10:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T11:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T12:00",
+    "temp": 66,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T13:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T14:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T15:00",
+    "temp": 63,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T16:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T17:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T18:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T19:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T20:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T21:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T22:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T23:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "popculture",
+   "headline": "Skye Hoshi Is Back: Anime Syndicate Strikes Lands in the UK",
+   "blurb": "Skye Hoshi: Anime Syndicate Strikes, the sequel to Skye Hoshi: Anime Girl, is out now on digital in the UK through Miracle Media. Olivia Roldan returns as the anime heroine living in the real world, who has to get her powers back and team up with her old nemesis Kira to rescue a kidnapped cosplayer. Written and directed by Kalani Hubbard, it also has a battle-of-the-bands showdown on the side.",
+   "quip": "UK friends, go watch it. Everyone else, the countdown to the US release is on.",
+   "source": "OtakuKart",
+   "url": "https://otakukart.com/skye-hoshi-anime-syndicate-strikes-sets-uk-digital-release-for-october-26/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "First Reactions Call Sunrise on the Reaping The Hunger Games' Rogue One",
+   "blurb": "The first reactions to The Hunger Games: Sunrise on the Reaping are in, and they're glowing. Critics are calling it exhilarating, comparing it to Rogue One and Andor, and singling out Joseph Zada as a young Haymitch Abernathy. Francis Lawrence directs, and the prequel hits theaters November 20.",
+   "quip": "May the odds be ever in favor of us getting opening-night tickets.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/entertainment/action-movies/the-hunger-games-sunrise-on-the-reaping-first-reactions/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Weird Al's Grammy for Packaging Is the Long Game We Needed Today",
+   "blurb": "The Recording Academy just dusted off a classic: back at the 2019 Grammys, \"Weird Al\" Yankovic won Best Boxed or Special Limited Edition Package for Squeeze Box, his complete-works box set. He opened his speech by joking that a packaging Grammy had been his dream all along. The new GRAMMY Mic Drop clip is pure joy.",
+   "quip": "The hero we all need. Also the only man who can make a box set into a punchline.",
+   "source": "GRAMMYs on YouTube",
+   "url": "https://youtu.be/fHE4WHSO7Rs"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Justice and Gesaffelstein Drop a GTA 6 Song, With the Full Score Coming Soon",
+   "blurb": "Rockstar just released \"Pusher,\" a new track from French duo Justice featuring Gesaffelstein, from the Grand Theft Auto VI score. The full Original Score by Justice arrives December 11 with 30 tracks, on streaming, a two-disc CD, a three-LP vinyl, and a limited \"crystal clear\" vinyl edition. Pre-orders are open now.",
+   "quip": "Vice City night drives just got their soundtrack.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/the-official-grand-theft-auto-6-musical-score-by-justice-is-released-in-december-cd-and-vinyl-pre-orders-available-now/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Mike Myers Says Austin Powers 4 Is All About Dr. Evil",
+   "blurb": "On the Hollywood Insiders podcast, Mike Myers said he's writing the previously confirmed Austin Powers 4, and so far it's told from Dr. Evil's point of view. Fun fact: one of the first studio notes on the original movie was \"less Dr. Evil.\" Myers says fans are split about 50-50 on which character they love more.",
+   "quip": "One... million... views on the trailer. Minimum.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/austin-powers-4-confirmed-by-mike-myers-dr-evil-will-have-a-new-role/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "The Straw Hat Pirates Are Sailing Into Fortnite",
+   "blurb": "Fortnite's next season, \"Treasure Hunters,\" launches November 1, and the trailer confirms One Piece is in. Luffy, Zoro, Nami, Usopp, Sanji and Buggy the Clown all show up, along with the Going Merry and a pirate-themed Hatsune Miku. Epic also teased Nico Robin and Ace.",
+   "quip": "Gum-Gum Pistol versus a guy in a banana suit. We've waited our whole lives.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/interest/2026-10-28/new-fortnite-battle-royale-trailer-confirms-one-piece-straw-hat-pirates/.243286"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "The Subway Is Now the \"Boo York City Subway\" for Halloween",
+   "blurb": "Starting today through Saturday, the MTA is renaming two stations per borough with spooky signs, plus some on the LIRR and Metro-North. Think \"Slime Sq-42 Street,\" \"Chambers St of Horrors,\" \"Frighton Beach\" and \"Ghoul Central Terminal.\" Riders can also grab orange-and-black collector's maps and Halloween station sign stickers.",
+   "quip": "Stand clear of the closing trap doors, please.",
+   "source": "amNY",
+   "url": "https://www.amny.com/nyc-transit/mta-halloween-fun-spooky-station-signs-maps/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Meet Comando, the Chihuahua Who Joined Mexico's National Guard",
+   "blurb": "When his elderly owners couldn't care for him anymore, officers took in Comando, a 13-month-old Chihuahua who weighs under 15 pounds. Now he wears tiny tactical gear, trains with the big working dogs, and is learning scent detection. His real job: making people smile and promoting pet adoption.",
+   "quip": "Small dog. Big badge. Zero fear.",
+   "source": "Bored Panda",
+   "url": "https://www.boredpanda.com/tiny-chihuahua-joins-mexicos-national-guard/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Scientists Recreated Ancient Roman Color-Changing Glass",
+   "blurb": "The 4th-century Lycurgus Cup at the British Museum looks green in reflected light and glows red when light shines through it, thanks to tiny gold and silver particles in the glass. A team including the University of Sheffield and UCL finally recreated the effect using materials the Romans had, with glass artist Elliot Walker making the final piece.",
+   "quip": "The Romans had RGB before gamers did.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/romans-made-color-changing-glass-and-weve-just-replicated-after-1600-years/"
+  }
+ ]
+}
