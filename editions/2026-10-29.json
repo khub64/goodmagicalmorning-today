@@ -1,14 +1,14 @@
 {
  "date": "2026-10-29",
- "generatedAt": "2026-10-29T14:28-04:00",
+ "generatedAt": "2026-10-29T14:35-04:00",
  "weather": {
   "place": "Brooklyn, NY",
   "tz": "America/New_York",
-  "fetchedAt": "2026-10-29T14:15",
+  "fetchedAt": "2026-10-29T14:30",
   "current": {
    "temp": 67,
    "feels": 65,
-   "code": 0,
+   "code": 1,
    "wind": 8
   },
   "today": {
@@ -160,13 +160,13 @@
    },
    {
     "t": "2026-10-29T22:00",
-    "temp": 55,
+    "temp": 56,
     "code": 0,
     "rain": 0
    },
    {
     "t": "2026-10-29T23:00",
-    "temp": 54,
+    "temp": 55,
     "code": 0,
     "rain": 0
    },
@@ -178,7 +178,7 @@
    },
    {
     "t": "2026-10-30T01:00",
-    "temp": 53,
+    "temp": 54,
     "code": 0,
     "rain": 1
    },
@@ -196,7 +196,7 @@
    },
    {
     "t": "2026-10-30T04:00",
-    "temp": 54,
+    "temp": 53,
     "code": 0,
     "rain": 2
    },
@@ -338,11 +338,11 @@
   {
    "slot": "trending",
    "category": "trending",
-   "headline": "Twin Sisters' Double Pregnancy Reveal Is Everyone's Favorite Video",
-   "blurb": "Toronto twins Samantha and Madeleine Caleon, who post as @caleontwins, are both expecting. Samantha handed her already-pregnant sister two matching yellow onesies, one for each baby, then pulled out a positive test. Madeleine's tearful \"My baby's gonna have a cousin\" reaction has more than 38.9 million views on Instagram and 15.2 million on TikTok.",
-   "quip": "Matching onesies: the most powerful announcement format known to science.",
-   "source": "Know Your Meme",
-   "url": "https://trending.knowyourmeme.com/editorials/pregnant-woman-finds-out-her-twin-sister-is-pregnant-too-and-her-reaction-in-wholesome-viral-video-is-priceless"
+   "headline": "Firefox Got the Internet's Original Meme Stars Back Together",
+   "blurb": "Firefox's new \"Come Back to Firefox\" ad reunites early internet legends, including the Numa Numa guy, Overly Attached Girlfriend, Success Kid, Chuck Testa, Annoying Orange and Tay Zonday, to pitch its privacy features. It passed 8 million views within days, and plenty of viewers are calling it the best YouTube Rewind ever.",
+   "quip": "Nope. Chuck Testa. And also nope to being tracked.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/youtube/firefox-brings-back-numa-numa-guy-chuck-testa-more-in-ad-better-than-youtube-rewind-3422137/"
   },
   {
    "slot": "main",
