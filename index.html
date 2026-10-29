@@ -172,7 +172,12 @@ main .wrap { display: grid; gap: 36px; padding-block: 8px 48px; }
 .local .story .quip svg { color: var(--orange); }
 .local .story h3 { font-size: var(--step-1); }
 .local .story + .story { border-top: 1px solid rgba(255, 246, 231, .2); padding-top: 16px; }
-.local-sub { margin: -8px 0 0; font-size: .85rem; letter-spacing: .12em; text-transform: uppercase; opacity: .8; }
+.trend { background: var(--orange); color: var(--brown); border-radius: 24px; padding: 22px 18px; display: grid; gap: 14px; box-shadow: var(--shadow); }
+.trend .section-title, .trend .story .kicker, .trend .story .quip, .trend .story .src { color: var(--brown); }
+.trend .section-title svg, .trend .story .quip svg { color: #fff6e7; }
+.trend .story h3 { font-size: var(--step-2); color: #0b557a; }
+.trend .story .src:hover, .trend .story .src:focus-visible { color: #0b557a; }
+.local-sub, .trend-sub { margin: -8px 0 0; font-size: .85rem; letter-spacing: .12em; text-transform: uppercase; opacity: .8; }
 .odd { background: var(--odd-bg); color: var(--odd-ink); border-radius: 24px; padding: 22px 18px; display: grid; gap: 14px; }
 .odd .section-title { color: var(--odd-ink); }
 .odd .section-title svg { color: #fff6e7; }
@@ -245,6 +250,12 @@ img { max-width: 100%; }
       <div id="top" class="section"></div>
     </section>
 
+    <section class="trend" id="trend-sec" hidden>
+      <h2 class="section-title"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 0C13 8 16 11 24 12 16 13 13 16 12 24 11 16 8 13 0 12 8 11 11 8 12 0Z"/></svg>Trending</h2>
+      <p class="trend-sub">What everyone's watching on TikTok &amp; Instagram</p>
+      <div id="trend" class="section"></div>
+    </section>
+
     <section class="section" id="main-sec">
       <h2 class="section-title"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 0C13 8 16 11 24 12 16 13 13 16 12 24 11 16 8 13 0 12 8 11 11 8 12 0Z"/></svg>Also Brewing</h2>
       <div id="main" class="list"></div>
@@ -299,7 +310,7 @@ img { max-width: 100%; }
 (() => {
   const $ = (id) => document.getElementById(id);
   const SPARK = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 0C13 8 16 11 24 12 16 13 13 16 12 24 11 16 8 13 0 12 8 11 11 8 12 0Z"/></svg>';
-  const CATS = { games: "Games", music: "Music", fandom: "Fandom", popculture: "Pop Culture", tech: "Tech", food: "Food", offbeat: "Offbeat", holiday: "Holiday", local: "New York" };
+  const CATS = { games: "Games", music: "Music", fandom: "Fandom", popculture: "Pop Culture", tech: "Tech", food: "Food", offbeat: "Offbeat", holiday: "Holiday", local: "New York", trending: "Trending" };
   const BROOKLYN = { name: "Brooklyn, NY", lat: 40.6782, lon: -73.9442 };
   const store = {
     get(k) { try { return JSON.parse(localStorage.getItem(k)); } catch { return null; } },
@@ -599,7 +610,7 @@ img { max-width: 100%; }
     const notice = $("notice");
     if (!ed) {
       $("top").innerHTML = `<div class="empty"><h3>Coffee's brewing</h3><p>Your first edition lands here soon: two top stories, four more, and a couple of weird ones. A new edition is written every morning at 6.</p></div>`;
-      $("main-sec").hidden = $("odd-sec").hidden = $("local-sec").hidden = true;
+      $("main-sec").hidden = $("odd-sec").hidden = $("local-sec").hidden = $("trend-sec").hidden = true;
       $("daynav").hidden = true;
       notice.hidden = true;
       return;
@@ -612,6 +623,8 @@ img { max-width: 100%; }
     $("odd-sec").hidden = !s.some((x) => x.slot === "offbeat");
     $("local").innerHTML = s.filter((x) => x.slot === "local").map((x) => storyHTML(x, "")).join("");
     $("local-sec").hidden = !s.some((x) => x.slot === "local");
+    $("trend").innerHTML = s.filter((x) => x.slot === "trending").map((x) => storyHTML(x, "")).join("");
+    $("trend-sec").hidden = !s.some((x) => x.slot === "trending");
 
     const isToday = ed.date === todayKey;
     const label = parseKey(ed.date).toLocaleDateString(undefined, { weekday: "long", month: "long", day: "numeric" });
