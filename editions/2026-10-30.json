@@ -1,0 +1,411 @@
+{
+ "date": "2026-10-30",
+ "generatedAt": "2026-10-30T06:11-04:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-10-30T06:00",
+  "current": {
+   "temp": 55,
+   "feels": 52,
+   "code": 0,
+   "wind": 8
+  },
+  "today": {
+   "hi": 71,
+   "lo": 47,
+   "code": 1,
+   "rain": 0,
+   "sunrise": "2026-10-30T07:23",
+   "sunset": "2026-10-30T17:54"
+  },
+  "tomorrow": {
+   "hi": 57,
+   "lo": 40,
+   "code": 3,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-10-30T00:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T01:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T02:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T03:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T04:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T05:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T06:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T07:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T08:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T09:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T10:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T11:00",
+    "temp": 68,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T12:00",
+    "temp": 70,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T13:00",
+    "temp": 71,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T14:00",
+    "temp": 70,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T15:00",
+    "temp": 70,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T16:00",
+    "temp": 67,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T17:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T18:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T19:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T20:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T21:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T22:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-30T23:00",
+    "temp": 49,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T00:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T01:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T02:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T03:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T04:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T05:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T06:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T07:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T08:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T09:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T10:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T11:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T12:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T13:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T14:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T15:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T16:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T17:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T18:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T19:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T20:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T21:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T22:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-10-31T23:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "My Chemical Romance Drop a Black Parade Short Film With Billie Eilish",
+   "blurb": "My Chemical Romance teamed up with artist Lauren Tsai for Prelude to The End, a short film set to \"The End\" for The Black Parade's 20th anniversary. Billie Eilish, Phoebe Bridgers, Hideo Kojima and John C. McGinley all lend their voices. Tsai grew up making animated MCR fan videos, so this is the most full-circle fan glow-up imaginable. It'll also screen at the band's final US Black Parade Tour shows at the Hollywood Bowl.",
+   "quip": "Hideo Kojima voicing a teacher is the most Kojima sentence of the year.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/10/my-chemical-romance-prelude-to-the-end/"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "South Park Sneak-Debuts GTA 6 Gameplay, and It's Dog Poop",
+   "blurb": "Surprise! The latest South Park episode, \"Guinea Pig on a Stick,\" snuck in about 25 seconds of brand-new Grand Theft Auto 6 footage with zero warning. The big reveal: dogs in Vice City poop, and you can pick it up and throw it at people in a fight. Rockstar even got a special thanks in the credits. GTA 6 lands November 19.",
+   "quip": "Peak next-gen technology, and we mean that with our whole chest.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/grand-theft-auto-6-south-park-america-dog-poop-video-2000750987"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "The Internet Took Its War on Liberty Biberty to the Streets",
+   "blurb": "Liberty Mutual's fluffy yellow mascot, Liberty Biberty, has become the internet's favorite enemy. YouTuber Connor Harvey, 19, joked in his videos about protesting it, the videos racked up hundreds of thousands of views, and then dozens of people actually showed up outside Liberty Mutual's Boston HQ with \"Liberty from Biberty\" signs. One counter-protester came dressed as Biberty himself to defend the puffball.",
+   "quip": "Somewhere the LiMu Emu is quietly polishing its comeback speech.",
+   "source": "The Mary Sue",
+   "url": "https://www.themarysue.com/liberty-from-biberty-youtubers-joke-video-sparks-protest-against-liberty-mutuals-new-mascot/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Phantom Blade Zero Kung-Fu Kicks Its Way Onto Steam's All-Time Chart",
+   "blurb": "Phantom Blade Zero, the kungfupunk action RPG from Chinese studio S-Game, peaked at over 700,000 concurrent Steam players in less than 24 hours. That makes it the 15th most-played launch ever on Steam. Not bad for a studio that had only made mobile games before this.",
+   "quip": "Halloween weekend plans: stay inside and get parried.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/phantom-blade-zero-just-rocketed-onto-steam-with-700000-concurrent-players-2000751005"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Pokemon Cards Are Coming Back to Happy Meals",
+   "blurb": "It's official: Pokemon TCG cards are returning to McDonald's Happy Meals, starting next month in the US, Canada and more, then rolling out worldwide through February 2027. Boxes feature Pikachu, Umbreon and Torchic, each with a cute box-shaped Pokemon toy. There are 15 cards to collect, including seven holos.",
+   "quip": "Adults ordering Happy Meals \"for their nephew\" season is officially open.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/10/pokemon-cards-and-toys-are-officially-returning-to-mcdonalds-happy-meals-soon"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Tame Impala Covered \"Kiss From a Rose\" and Batman Forever Is Back",
+   "blurb": "Kevin Parker brought Tame Impala back to Australia's Like a Version for the fourth time, this time with Seal's 1994 classic \"Kiss from a Rose.\" It stays pretty faithful to the original, so it's basically Tame Impala filling in for Seal. Fun fact: that song blew up thanks to the Batman Forever soundtrack and won three Grammys.",
+   "quip": "There is so much 1995 in this, we can hear the dial-up modem.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/10/tame-impala-seal-kiss-from-a-rose-cover/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Donald Glover Is Making a Live-Action PUBG Show for Netflix",
+   "blurb": "Netflix is turning PUBG into a live-action series, and Donald Glover will write, direct, star in and executive produce it, with his brother Stephen Glover helping out. There's no cast or release window yet. The game barely has a story, which means the guy who made Atlanta gets a very big, very weird sandbox to play in.",
+   "quip": "Winner winner, Childish Gambino dinner.",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2301458/netflix-is-making-a-live-action-pubg-show-written-and-directed-by-donald-glover/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Bryant Park's Winter Village Is Open for Its 25th Season",
+   "blurb": "Winter Village at Bryant Park opened Wednesday, bringing back the city's only free-admission ice skating rink, a rinkside food hall and bar, and a holiday market with over 180 vendors. The rink is open daily 8 a.m. to 10 p.m. through March 1, 2027. Private igloos return November 5.",
+   "quip": "Halloween's not even over and Midtown already went full snow globe.",
+   "source": "6sqft",
+   "url": "https://www.6sqft.com/bryant-parks-winter-village-opens-for-the-2026-holiday-season/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Virginia Police Catch a Mystery Sheep After a High-Speed Food Pursuit",
+   "blurb": "Manassas Park police got a call about a sheep on the loose on Nancy Street. The woolly fugitive was detained after a \"brief food pursuit\" that ended in someone's backyard. No charges yet, but police say they suspect \"a few outstanding baaa-violations.\" They're still looking for the owner.",
+   "quip": "Lettuce pray this one gets off with a warning.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/10/29/manassas-park-sheep-escape-police/6071793292849/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Record Machine David Rush Moved 2 Pounds of Ice With Just His Mouth",
+   "blurb": "Idaho's David Rush, who holds more than 200 Guinness World Records titles, just added most ice moved by mouth in 30 seconds. He moved 991 grams of cubes between two trays. The hard part was temperature: too cold and the cubes stuck to his lips, too warm and they melted under the 25-gram limit.",
+   "quip": "Brain freeze is just the price of greatness.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/10/29/guinness-world-records/8391793293721/"
+  }
+ ]
+}
