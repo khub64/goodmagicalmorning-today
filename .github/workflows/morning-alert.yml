@@ -1,16 +1,17 @@
 name: Morning alert
 on:
   schedule:
-    # 8:50 New York in daylight time (UTC-4) and in standard time (UTC-5); the script waits until 9:00.
-    - cron: "50 12 * * *"
-    - cron: "50 13 * * *"
+    # 7:30 New York in daylight time (UTC-4) and in standard time (UTC-5); the script waits until 9:00.
+    # Starting early leaves room for GitHub's scheduled-run delays (often 40+ minutes).
+    - cron: "30 11 * * *"
+    - cron: "30 12 * * *"
   workflow_dispatch: {}
 permissions:
   contents: read
 jobs:
   send:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

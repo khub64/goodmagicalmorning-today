@@ -15,7 +15,7 @@ NY = ZoneInfo("America/New_York")
 TITLE = "hot news waitin' ☕️"
 URL = "https://today.goodmagicalmorning.com/"
 # Two cron lines cover daylight and standard time; only the one that lands near 9:00 in New York sends.
-SLOTS = {-4: "50 12 * * *", -5: "50 13 * * *"}
+SLOTS = {-4: "30 11 * * *", -5: "30 12 * * *"}
 
 
 def wait_for_send_time():
