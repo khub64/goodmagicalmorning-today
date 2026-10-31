@@ -14,11 +14,11 @@ from pywebpush import webpush, WebPushException
 NY = ZoneInfo("America/New_York")
 TITLE = "hot news waitin' ☕️"
 URL = "https://today.goodmagicalmorning.com/"
-# Two cron lines cover daylight and standard time; only the one that lands near 10:30 in New York sends.
-SLOTS = {-4: "20 14 * * *", -5: "20 15 * * *"}
+# Two cron lines cover daylight and standard time; only the one that lands near 9:00 in New York sends.
+SLOTS = {-4: "50 12 * * *", -5: "50 13 * * *"}
 
 
-def wait_for_1030():
+def wait_for_send_time():
     sched = os.environ.get("SCHEDULE", "")
     if not sched:
         return True  # manual run: send right away
@@ -26,15 +26,15 @@ def wait_for_1030():
     if SLOTS.get(int(now.utcoffset().total_seconds() // 3600)) != sched:
         print("other daylight-saving slot; nothing to do")
         return False
-    target = now.replace(hour=10, minute=30, second=0, microsecond=0)
+    target = now.replace(hour=9, minute=0, second=0, microsecond=0)
     if now < target:
-        print(f"waiting {int((target - now).total_seconds())}s until 10:30")
+        print(f"waiting {int((target - now).total_seconds())}s until 9:00")
         time.sleep((target - now).total_seconds())
     return True
 
 
 def main():
-    if not wait_for_1030():
+    if not wait_for_send_time():
         return
     endpoint, key = os.environ["PUSH_ENDPOINT"], os.environ["PUSH_KEY"]
     with open("vapid.pem", "w") as f:

@@ -1,9 +1,9 @@
 name: Morning alert
 on:
   schedule:
-    # 10:20 New York in daylight time (UTC-4) and in standard time (UTC-5); the script waits until 10:30.
-    - cron: "20 14 * * *"
-    - cron: "20 15 * * *"
+    # 8:50 New York in daylight time (UTC-4) and in standard time (UTC-5); the script waits until 9:00.
+    - cron: "50 12 * * *"
+    - cron: "50 13 * * *"
   workflow_dispatch: {}
 permissions:
   contents: read

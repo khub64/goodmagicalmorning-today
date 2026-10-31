@@ -288,10 +288,10 @@ img { max-width: 100%; }
     <div class="foot-row" id="alert-row" >
       <span class="foot-label">Morning alert</span>
       <div class="loc-row">
-        <button class="btn btn-primary" type="button" id="alert-on">Send me the 10:30 alert</button>
+        <button class="btn btn-primary" type="button" id="alert-on">Send me the 9 AM alert</button>
         <button class="btn" type="button" id="alert-off" hidden>Turn it off</button>
       </div>
-      <span class="tiny" id="alert-note">A little "hot news waitin' ☕️" nudge on your phone at 10:30 every morning.</span>
+      <span class="tiny" id="alert-note">A little "hot news waitin' ☕️" nudge on your phone at 9 every morning.</span>
     </div>
     <div class="foot-row">
       <span class="foot-label">Weather location</span>
@@ -520,7 +520,7 @@ img { max-width: 100%; }
     navigator.permissions.query({ name: "geolocation" }).then((p) => { if (p.state === "granted") useLocation(true); }).catch(() => {});
   }
 
-  /* ---------------- 10:30 alert (web push) ---------------- */
+  /* ---------------- 9 AM alert (web push) ---------------- */
   const PUSH_KEY = "BFfAkSWk0KG0YiGLy9n6vT4nAYrC29WSRTfnWJrJEnrQu1EYXf9j2Gex-E8TrJU_SqNsml5gjU1jIreRBZ3Y5Zs", PUSH_ENDPOINT = "https://script.google.com/macros/s/AKfycbwPH7N7DAwtPd-dtFedy2hoBd7ReBp93bPGy_BXirZOqZPvBuL5tD5-sDhaLsIdG1-e/exec";
   const pushOK = "serviceWorker" in navigator && "PushManager" in window && "Notification" in window;
   const standalone = matchMedia("(display-mode: standalone)").matches || navigator.standalone === true;
@@ -534,7 +534,7 @@ img { max-width: 100%; }
     if (!pushOK) {
       $("alert-on").hidden = true;
       note.textContent = isIOS && !standalone
-        ? "To get the 10:30 alert on iPhone: tap Share → Add to Home Screen, open the paper from your home screen, then tap the button here."
+        ? "To get the 9 AM alert on iPhone: tap Share → Add to Home Screen, open the paper from your home screen, then tap the button here."
         : "This browser can't do notifications.";
       return;
     }
@@ -543,10 +543,10 @@ img { max-width: 100%; }
     $("alert-on").hidden = on;
     $("alert-off").hidden = !on;
     note.textContent = on
-      ? "You're all set. Hot news lands on your phone at 10:30 every morning."
+      ? "You're all set. Hot news lands on your phone at 9 every morning."
       : Notification.permission === "denied"
         ? "Notifications are blocked for this site. Turn them on in Settings → Notifications, then try again."
-        : "A little \"hot news waitin' ☕️\" nudge on your phone at 10:30 every morning.";
+        : "A little \"hot news waitin' ☕️\" nudge on your phone at 9 every morning.";
   }
 
   $("alert-on").addEventListener("click", async () => {
