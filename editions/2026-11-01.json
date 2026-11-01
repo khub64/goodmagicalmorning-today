@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-01",
+ "generatedAt": "2026-11-01T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-01T06:00",
+  "current": {
+   "temp": 40,
+   "feels": 35,
+   "code": 0,
+   "wind": 5
+  },
+  "today": {
+   "hi": 59,
+   "lo": 40,
+   "code": 3,
+   "rain": 0,
+   "sunrise": "2026-11-01T06:26",
+   "sunset": "2026-11-01T16:52"
+  },
+  "tomorrow": {
+   "hi": 64,
+   "lo": 43,
+   "code": 3,
+   "rain": 3
+  },
+  "hourly": [
+   {
+    "t": "2026-11-01T00:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T01:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T02:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T03:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T04:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T05:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T06:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T07:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T08:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T09:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T10:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T11:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T12:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T13:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T14:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T15:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T16:00",
+    "temp": 58,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T17:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T18:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T19:00",
+    "temp": 49,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T20:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T21:00",
+    "temp": 48,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T22:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-01T23:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T00:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T01:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T02:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T03:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T04:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T05:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T06:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T07:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T08:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T09:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T10:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T11:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T12:00",
+    "temp": 61,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T13:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T14:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T15:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T16:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-02T17:00",
+    "temp": 58,
+    "code": 1,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-02T18:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T19:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T20:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T21:00",
+    "temp": 51,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T22:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T23:00",
+    "temp": 50,
+    "code": 2,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Happy Pikmin Day! Miyamoto Just Invented a Holiday",
+   "blurb": "In a surprise Pikmin Direct, Shigeru Miyamoto declared November 1 Pikmin Day, every year from now on. His logic: three Pikmin standing in a row look like 11.1. The Switch 2 Edition of Pikmin 4 lands November 12 with voice commands for Oatchi and a new Dandori Academy mode, and a free demo drops tomorrow. Pikmin Bloom is getting caves, too.",
+   "quip": "Leaf, bud, flower. Dress accordingly.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948"
+  },
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "My Chemical Romance Are Making a New Album. For Real This Time",
+   "blurb": "At the Hollywood Bowl on their Black Parade 20th anniversary tour, Gerard Way told the crowd the band wants to go make a record next year, and will probably skip shows to do it. It would be their first studio album since 2010's Danger Days. They also brought out openers The Used's Bert McCracken for a song, ending one of emo's great rivalries on stage.",
+   "quip": "2028 tour tickets: already emotionally purchased.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2516212/my-chemical-romance-bring-out-bert-mccracken-confirm-plans-for-new-album/news/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "RDJ and Pedro Pascal Swapped Marvel Roles for Halloween",
+   "blurb": "Robert Downey Jr. dressed as Pascal's Mr. Fantastic and Pedro Pascal dressed as Downey's Doctor Doom in a Halloween video on Instagram. Downey's caption: \"Costume swap!\" The two face off in Avengers: Doomsday, which hits theaters December 18.",
+   "quip": "Doctor Doom has never looked so huggable.",
+   "source": "Deadline",
+   "url": "https://deadline.com/2026/10/robert-downey-jr-pedro-pascal-mcu-role-reversal-halloween-1237210827/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Life Found a Way: The Lost Jurassic Park Cartoon Trailer Surfaced",
+   "blurb": "A pitch trailer for Escape From Jurassic Park, an animated series planned after the 1993 movie, has resurfaced after 33 years, shared on X by Jurassic Library along with old Kenner toy documents. The show would have pitted Alan Grant and Ian Malcolm's Dino Trackers against dino-poaching Dino Raiders. One planned episode had 20 Brachiosaurus snacking in Central Park.",
+   "quip": "Brachiosaurs on Broadway is the musical we deserve.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/jurassic-parks-cancelled-cartoon-trailer-finally-found-after-33-years-it-looked-great-watch/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Who You Gonna Call? The Ghostblasters, Apparently",
+   "blurb": "Dan Aykroyd dug up 43-year-old footage of the Ghostbusters cast filming their TV commercial as the \"Ghostblasters.\" Production started before Columbia owned the name, so they shot backup versions just in case. Aykroyd says the studio ended up paying $500,000 for the title.",
+   "quip": "Half a million dollars well spent. Ghostblasters sounds like a cereal.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/ghostbusters-star-reveals-43-year-old-ghostblasters-footage-the-incredible-story-behind-the-name-change/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Mega Man's Newest Boss Is a Kung-Fu Chef Named Cook Man",
+   "blurb": "Capcom revealed Cook Man, the fourth Robot Master in Mega Man: Dual Override. He's a wandering chef seeking recognition who fights with a Kung Fu Cooking style. He joins Tank Man, Twinkle Girl and Jet Man, and the game hits Switch and Switch 2 in 2027.",
+   "quip": "Finally, a boss fight that ends with a nice meal.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master"
+  },
+  {
+   "slot": "main",
+   "category": "tech",
+   "headline": "This Credit Card-Sized Handheld Is See-Through, Screen Included",
+   "blurb": "The Arduview claims to be the first fully transparent handheld: when it's off, the screen looks like glass, and when it's on, the pixels glow cyan. It was made by Babson College student Louis Huang on the open-source Arduboy platform and comes with 400 games built in. It already passed its Kickstarter goal, with early bird pledges starting around $75.",
+   "quip": "Game Boy Color in Atomic Purple walked so this could walk.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/the-arduview-is-the-worlds-first-fully-transparent-handheld-including-the-screen/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Harry Styles Re-Auditioned for X Factor at Madison Square Garden",
+   "blurb": "At the first of two Harryween shows at the Garden on October 30, Harry Styles came out as Elvis, then changed into the outfit from his 2010 X Factor audition and sang Stevie Wonder's \"Isn't She Lovely\" all over again. He even repeated his famous line, \"I work in a bakery.\" It's part of his 30-night MSG residency.",
+   "quip": "Sixteen years later, still working in that bakery. Respect.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/watch-harry-styles-recreate-x-factor-audition-stevie-wonder-harryween-3974732"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Saint Bernard Mascot Is Training His Own Tiny Replacement",
+   "blurb": "Baloo, Siena University's live Saint Bernard mascot since 2021, is retiring at the end of this year, so he's teaching three-month-old Baby Baloo the job. The pup goes to home games in a vest that says \"In Training, Do Not Pet\" and copies everything Baloo does. He's about 40 pounds now and could grow to around 190.",
+   "quip": "The most adorable succession plan in college sports.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/university-mascot-dog-trains-puppy-to-replace-him-before-retirement-3423507/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Firefly Nobody Had Seen Since 1983 Just Lit Up Again",
+   "blurb": "The similar firefly, Pyractomena similis, had been missing for over 40 years and was on Re:Wild's most wanted list of lost species. Scientist Kitt Heckscher's team found it in a meadow at Delaware's Brandywine Creek State Park, recognizing its unique flash pattern. There are at least 28 more lost firefly species out there.",
+   "quip": "Forty-three years of ghosting, and it just blinks back like nothing happened.",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/a-firefly-lost-for-43-years-is-back-and-its-far-from-the-only-one-missing-2000833227"
+  }
+ ]
+}
