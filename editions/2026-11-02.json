@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-02",
+ "generatedAt": "2026-11-02T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-02T06:00",
+  "current": {
+   "temp": 43,
+   "feels": 38,
+   "code": 0,
+   "wind": 5
+  },
+  "today": {
+   "hi": 64,
+   "lo": 43,
+   "code": 3,
+   "rain": 2,
+   "sunrise": "2026-11-02T06:27",
+   "sunset": "2026-11-02T16:50"
+  },
+  "tomorrow": {
+   "hi": 69,
+   "lo": 45,
+   "code": 3,
+   "rain": 4
+  },
+  "hourly": [
+   {
+    "t": "2026-11-02T00:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T01:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T02:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T03:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T04:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T05:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T06:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T07:00",
+    "temp": 43,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T08:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-02T09:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T10:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T11:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T12:00",
+    "temp": 61,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T13:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T14:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T15:00",
+    "temp": 64,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T16:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T17:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T18:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T19:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T20:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T21:00",
+    "temp": 50,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-02T22:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-02T23:00",
+    "temp": 49,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T00:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T01:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T02:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T03:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T04:00",
+    "temp": 46,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T05:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T06:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T07:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T08:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-03T09:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-03T10:00",
+    "temp": 60,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-03T11:00",
+    "temp": 64,
+    "code": 2,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T12:00",
+    "temp": 66,
+    "code": 1,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T13:00",
+    "temp": 68,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T14:00",
+    "temp": 69,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T15:00",
+    "temp": 68,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T16:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T17:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-03T18:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T19:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T20:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T21:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T22:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T23:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Who You Gonna Punch? Ghost Punchers Haunts Rhode Island Comic Con",
+   "blurb": "Ghost Punchers, the supernatural action-comedy directed by Kalani Hubbard, is screening for the first time at Rhode Island Comic Con this Sunday, November 8, at 2:30pm in Room 552 of the RI Convention Center. It follows a hotdog delivery boy mistaken for his secret-agent brother and drafted into the Ghost Punchers, with a literal nightmare as his partner. Bring your fists and your appetite.",
+   "quip": "Finally, a ghost movie where the answer is just punching. Respect.",
+   "source": "Rhode Island Comic Con",
+   "url": "https://conventions.leapevent.tech/schedule/RHODE_ISLAND_COMIC_CON_2026_VENDORS?search_term=Ghost+punchers"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Valve's Lost Portal Prequel F-Stop Is Finally Playable",
+   "blurb": "F-Stop, the Portal prequel Valve cancelled back in 2007, has leaked online and it's fully playable. Instead of portals, you used an Aperture Science camera to mess with perspective and solve puzzles. Fans stitched it together from three separate leaks, and players say it's about 99 percent complete. Bits of it were later reworked into Portal 2.",
+   "quip": "The cake was a lie. The camera, apparently, was real the whole time.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/valves-cancelled-portal-prequel-f-stop-has-leaked-2000752082"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Tony Hawk Recreated Pro Skater 3 IRL and Got Kicked Out",
+   "blurb": "To celebrate 25 years of Tony Hawk's Pro Skater 3, the Birdman went to Pershing Square, the real Los Angeles spot behind the game's LA level, to film himself skating it to Blitzkrieg Bop. Security showed up and shooed him out mid-shoot. Hawk called the whole thing \"very anticlimactic.\"",
+   "quip": "Even Tony Hawk can't get past the security guard level.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/tony-hawk-kicked-out-of-park-while-trying-to-recreate-pro-skater-3-2000752094"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "A Lost 1997 Daft Punk Mix Just Turned Up on a Moldy Tape",
+   "blurb": "UK DJ Ralph Lawson found an hour-long Daft Punk mix in his old tape collection, sent to him in 1997 for his radio show while the duo was promoting Homework. The tape was moldy and ripped when he played it, so he had it professionally restored. It's not the famous Essential Mix, and he's now released it for everyone.",
+   "quip": "Check your attic. There might be a robot in there.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/dj-uncovers-lost-daft-punk-mix/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Speedrunner Dressed as Mario Breaks the Super Mario Bros. World Record",
+   "blurb": "Record holder Niftski was streaming in a Mario costume for Halloween, fake mustache and all, when he shaved the any% Super Mario Bros. record down to 4:54.299. That beats his own 4:54.332 from August. He says doing the Mario voice made him \"not nervous at all.\"",
+   "quip": "Wahoo is now a legitimate speedrun strategy.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/mario-dressed-speedrunner-breaks-world-super-mario-bros-record-on-halloween-stream-can-i-please-break-character-2000752087"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "By the Power of Bluegrass! Billy Strings Played a He-Man Show",
+   "blurb": "Billy Strings dressed as He-Man for a Halloween show in Baltimore, with his band and guests in Masters of the Universe costumes. The set opened with He-Man theme songs and included 4 Non Blondes' \"What's Up?\" as a nod to the classic meme. He even wrote two new songs for the night.",
+   "quip": "HEYEAYEA has never sounded so twangy.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2516231/billy-strings-plays-he-man-themed-set-dressed-as-he-man/news/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Bocchi the Rock! Is Getting a Brand-New Movie in 2027",
+   "blurb": "A teaser just announced Bocchi the Rock! the Movie: Footprints of the Stars, opening in 2027. It adapts a special manga story about Nijika's older sister Seika. CloverWorks is animating, with Shin Wakabayashi directing and Erika Yoshida back on the script.",
+   "quip": "Kessoku Band is going on the big screen. Bocchi is already hiding in a box about it.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-01/bocchi-the-rock-manga-gets-anime-film-in-2027/.243417"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Brooklyn's Hottest Steakhouse Is Literally Some Guy's Window",
+   "blurb": "Some Guy's House in Brooklyn serves steak, potato and spinach for $25, lowered out of an apartment window on a custom pulley. It's open Thursdays and Fridays from 5 to 8, with just 72 plates on Thursday and 62 on Friday, so reserve online. Instagram has gone wild for it.",
+   "quip": "Finally, a restaurant where the dumbwaiter is the whole staff.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/viral-steak-restaurant-serves-customers-straight-out-of-their-apartment-window-3423854/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Dutch Cinema Will Hypnotize You to Forget The Matrix",
+   "blurb": "Path\u00e9's Buitenhof cinema in The Hague will hypnotize 30 moviegoers on November 9 so they can watch a favorite film like it's the first time. The group picks from The Matrix, Se7en, La La Land and Interstellar. A hypnotherapist with 30-plus years of experience runs the sessions.",
+   "quip": "Take the red pill, then forget you took the red pill.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/movie-theater-reveals-plans-to-hypnotize-viewers-so-they-can-reexperience-movies-for-the-first-time/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "An Entire Island Turned Off Its Lights for Baby Seabirds",
+   "blurb": "Every October, the 400-plus residents of Corvo in Portugal's Azores shut off public lighting from 9pm to 4am for five nights. That way young Cory's shearwaters heading out to sea at night don't get blinded and grounded. Volunteers help the lost ones back to sea, sometimes using cardboard boxes.",
+   "quip": "Lights out, birds out. Best curfew ever.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/islands-near-portugal-turn-off-lights-to-protect-seabird-fledglings-every-oct/"
+  }
+ ]
+}
