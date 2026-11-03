@@ -1,0 +1,402 @@
+{
+ "date": "2026-11-03",
+ "generatedAt": "2026-11-03T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-03T06:00",
+  "current": {
+   "temp": 47,
+   "feels": 44,
+   "code": 0,
+   "wind": 5
+  },
+  "today": {
+   "hi": 68,
+   "lo": 47,
+   "code": 3,
+   "rain": 3,
+   "sunrise": "2026-11-03T06:28",
+   "sunset": "2026-11-03T16:49"
+  },
+  "tomorrow": {
+   "hi": 68,
+   "lo": 50,
+   "code": 45,
+   "rain": 3
+  },
+  "hourly": [
+   {
+    "t": "2026-11-03T00:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T01:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T02:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T03:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T04:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T05:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T06:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T07:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-03T08:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T09:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T10:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T11:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T12:00",
+    "temp": 66,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T13:00",
+    "temp": 67,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-03T14:00",
+    "temp": 68,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-03T15:00",
+    "temp": 68,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-03T16:00",
+    "temp": 66,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-03T17:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T18:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T19:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T20:00",
+    "temp": 56,
+    "code": 1,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T21:00",
+    "temp": 55,
+    "code": 1,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T22:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-03T23:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T00:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T01:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T02:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T03:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T04:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T05:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T06:00",
+    "temp": 50,
+    "code": 45,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T07:00",
+    "temp": 52,
+    "code": 45,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T08:00",
+    "temp": 54,
+    "code": 45,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T09:00",
+    "temp": 58,
+    "code": 2,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T10:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T11:00",
+    "temp": 63,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T12:00",
+    "temp": 66,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T13:00",
+    "temp": 68,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-04T14:00",
+    "temp": 68,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-04T15:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-04T16:00",
+    "temp": 63,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-04T17:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-04T18:00",
+    "temp": 58,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-04T19:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-04T20:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T21:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T22:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T23:00",
+    "temp": 57,
+    "code": 45,
+    "rain": 1
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Welcome to the Black Parade... at No. 1, 20 Years Later",
+   "blurb": "My Chemical Romance just landed their first ever No. 1 album on the Billboard 200 with the 20th anniversary edition of The Black Parade. The original peaked at No. 2 back in 2006. The leap from No. 139 to No. 1 is the longest wait ever for an album to hit the top, and it scored the band their first UK No. 1 too.",
+   "quip": "Twenty years for a No. 1. Emo kids have always been patient people.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2516272/my-chemical-romance-land-first-1-album-with-the-black-parade-20-years-after-its-original-release/news/"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Google Pulled the Master Sword and Time-Traveled Back to 1998",
+   "blurb": "Search \"zelda\" on Google and the Master Sword shows up hovering over its pedestal. Click it, Link yells, and the results page warps back to how Google looked in 1998, the year Ocarina of Time first came out. It's a party trick for the Switch 2 remake, which lands this Thursday, November 5.",
+   "quip": "Finally, a version of Google with no AI summary and an I'm Feeling Lucky button. Truly a Temple of Time.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/googles-zelda-ocarina-of-time-easter-egg-transports-users-back-to-1998/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Borderlands Hits 100 Million Sold and Is Handing Out Golden Keys",
+   "blurb": "The Borderlands series has now sold more than 100 million copies since the first game in 2009. To celebrate, Gearbox is giving away 20 Golden Keys in every mainline game, from Borderlands 1 through 4, with one Shift code. The studio also says it's \"cooking hard\" on more Borderlands 4 content for next year.",
+   "quip": "Claptrap has been informed and will not stop talking about it.",
+   "source": "Push Square",
+   "url": "https://www.pushsquare.com/news/2026/11/borderlands-has-sold-100-million-units-across-the-series-and-theres-a-shift-key-to-celebrate"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Olivia Rodrigo Is Dropping Her First-Ever Christmas Song",
+   "blurb": "Olivia Rodrigo's first holiday single, \"take me home (4 christmas),\" arrives this Thursday, November 5. It was co-written with Dan Nigro and Amy Allen, and the music video stars Cynthia Nixon and SNL's Ben Marshall. There's even a 7-inch vinyl and a cassette.",
+   "quip": "It's November 3. Mariah has been notified that she has competition.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/olivia-rodrigo-take-me-home-4-christmas-holiday-song/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Gods vs. Titans: Percy Jackson Season 3 Brings the Big War",
+   "blurb": "A new trailer for Percy Jackson and the Olympians season 3 teases the showdown fans have waited for: the gods finally going to war with the Titans. The season adapts The Titan's Curse, a story never done in live action before. It premieres November 20.",
+   "quip": "Seventeen days to go. Start stocking up on blue food.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/tv-shows/news/percy-jackson-the-olympians-season-3-trailer-confirms-war-between-gods-titans-watch/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Bill Bailey Became a Dwarf to Narrate a WoW Nature Doc",
+   "blurb": "Comedian Bill Bailey stars as a Dwarven adventurer in World of Warcraft: Planet Azeroth, a three-part comedy nature documentary. Episodes one and two are up now on the official WoW YouTube channel, and the finale lands November 8. It's all a warmup for World of Warcraft: Forever, out this Wednesday, November 4.",
+   "quip": "And here we observe the wild Murloc in its natural habitat. Mrglglgl.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/gaming-news/bill-bailey-turned-into-dwarf-for-world-of-warcraft-nature-doc-parody-planet-azeroth-3974837"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Buzzer Beater: SoHo's Grand Canal Court Could Be Back by December",
+   "blurb": "The Grand Canal Court basketball court at Sixth Avenue has been torn up since 2022 so the MTA could build a new subway substation. Now the MTA and the parks department say it'll reopen by the end of November, with new benches, a water fountain, better lighting and fresh fencing. Right now it's still a pit, so it's going to be a full-court press.",
+   "quip": "Four years of construction, 30 days to finish. Somebody call a timeout.",
+   "source": "Gothamist",
+   "url": "https://gothamist.com/news/buzzer-beater-mta-vows-to-turn-this-soho-pit-into-a-basketball-court-in-30-days"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "This Hawk Couldn't Fly Because She Ate Too Many Chickens",
+   "blurb": "A red-shouldered hawk found grounded in a Roanoke, Virginia driveway had no injuries at all. Vets at the Southwest Virginia Wildlife Center said she was simply \"too darn fat to fly,\" weighing 2 pounds, nearly a full pound over normal. Turns out a neighbor's free-roaming chickens had been disappearing for weeks. She's now on a diet.",
+   "quip": "Same, honestly. Wake us up after Thanksgiving.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/02/red-shouldered-hawk-too-fat-to-fly/8221793653698/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "This Guy Saw 1,207 Movies in Theaters in One Year",
+   "blurb": "Glenwood Hoskin Jr., 60, of Pennsylvania just earned a Guinness World Record for most films seen in a cinema in one year: 1,207 screenings, about 3.3 movies a day. He smashed the old record of 777. His surprise favorite? The Wild Robot, which he called \"way better than expected.\"",
+   "quip": "We'd like to know his popcorn budget. Actually no, we wouldn't.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/02/guinness-world-records-movies-cinema-one-year/2311793639017/"
+  }
+ ]
+}
