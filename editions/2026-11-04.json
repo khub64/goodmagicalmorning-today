@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-04",
+ "generatedAt": "2026-11-04T06:12-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-04T06:00",
+  "current": {
+   "temp": 52,
+   "feels": 50,
+   "code": 0,
+   "wind": 4
+  },
+  "today": {
+   "hi": 69,
+   "lo": 52,
+   "code": 3,
+   "rain": 1,
+   "sunrise": "2026-11-04T06:29",
+   "sunset": "2026-11-04T16:48"
+  },
+  "tomorrow": {
+   "hi": 70,
+   "lo": 56,
+   "code": 51,
+   "rain": 36
+  },
+  "hourly": [
+   {
+    "t": "2026-11-04T00:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T01:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T02:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T03:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T04:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T05:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-04T06:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T07:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T08:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T09:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T10:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T11:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T12:00",
+    "temp": 67,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T13:00",
+    "temp": 68,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T14:00",
+    "temp": 68,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T15:00",
+    "temp": 66,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T16:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T17:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T18:00",
+    "temp": 59,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T19:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T20:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T21:00",
+    "temp": 57,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T22:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-04T23:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-05T00:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-05T01:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-05T02:00",
+    "temp": 57,
+    "code": 45,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-05T03:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-05T04:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-05T05:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-05T06:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-05T07:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-05T08:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 10
+   },
+   {
+    "t": "2026-11-05T09:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 11
+   },
+   {
+    "t": "2026-11-05T10:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 15
+   },
+   {
+    "t": "2026-11-05T11:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 18
+   },
+   {
+    "t": "2026-11-05T12:00",
+    "temp": 70,
+    "code": 3,
+    "rain": 17
+   },
+   {
+    "t": "2026-11-05T13:00",
+    "temp": 70,
+    "code": 3,
+    "rain": 20
+   },
+   {
+    "t": "2026-11-05T14:00",
+    "temp": 70,
+    "code": 3,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-05T15:00",
+    "temp": 70,
+    "code": 1,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-05T16:00",
+    "temp": 67,
+    "code": 3,
+    "rain": 13
+   },
+   {
+    "t": "2026-11-05T17:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 11
+   },
+   {
+    "t": "2026-11-05T18:00",
+    "temp": 65,
+    "code": 1,
+    "rain": 11
+   },
+   {
+    "t": "2026-11-05T19:00",
+    "temp": 64,
+    "code": 2,
+    "rain": 11
+   },
+   {
+    "t": "2026-11-05T20:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 36
+   },
+   {
+    "t": "2026-11-05T21:00",
+    "temp": 64,
+    "code": 51,
+    "rain": 36
+   },
+   {
+    "t": "2026-11-05T22:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 36
+   },
+   {
+    "t": "2026-11-05T23:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 36
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Elder Scrolls 6 Finally Has a Name: Sentinel",
+   "blurb": "Eight years after that famous 2018 tease, Bethesda has a second trailer and an official title: The Elder Scrolls 6: Sentinel. Todd Howard dropped it at the end of a video celebrating the studio's 40th anniversary, with a scroll getting pulled out of the sand. Sentinel is a major city in Hammerfell, which is believed to be the setting. There's still no release date, but hey, we've waited this long.",
+   "quip": "At this rate our kids will finally get to ask what's over that mountain.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/elder-scrolls-6-gets-a-new-teaser-confirming-its-name-but-still-no-release-date-2000752777"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Zelda's Boss Finally Turned In His Water Temple Homework",
+   "blurb": "The Ocarina of Time remake hits Switch 2 tomorrow, November 5, with a 96 on Metacritic as of this morning. Longtime Zelda boss Eiji Aonuma says fixing the Water Temple was \"overdue homework,\" 28 years in the making. Swapping items is much easier now, and some of the confusing walls became lattices you can see through. Goodbye, Iron Boots menu. We will not miss you.",
+   "quip": "Twenty-eight years late and still the most relatable homework story we've ever heard.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/original-zelda-ocarina-of-time-director-calls-the-infamous-water-temple-overdue-homework-for-the-remake-2000752762"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Blue Lock's Boys Are Dripped Out and Dancing All Over TikTok",
+   "blurb": "The \"Wassup In a Minute Wassup\" trend has anime characters in expensive streetwear dancing to a Jersey club remix of Drake and Jhene Aiko's \"From Time.\" It started October 23 with a Blue Lock video from @ristyisvalid that passed 2.6 million views in about a week, using art by @aka_zayy. A how-to video has over 1.8 million views, and someone already made a Roblox version.",
+   "quip": "Soccer anime fashion week is the crossover nobody asked for and everybody needed.",
+   "source": "Know Your Meme",
+   "url": "https://knowyourmeme.com/memes/wassup-in-a-minute-wassup"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Friday, I'm in Love: The Cure Promise New Songs and 2027 Shows",
+   "blurb": "Robert Smith says more Cure concerts are coming in 2027, and he's confident they'll be \"bursting with new songs.\" He dropped the news in a pre-recorded BBC Radio 6 Music segment for the band's Artist of the Year nomination. He's not allowed to say where or when yet. A follow-up to 2024's Songs from a Lost World has been teased for a while too.",
+   "quip": "Time to dust off the eyeliner and get the hair back up to regulation height.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/the-cures-robert-smith-promises-more-concerts-and-new-music-in-2027/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "King of the Bricks: Lego's First Godzilla Stands Over Two Feet Tall",
+   "blurb": "Lego's first Godzilla set is here, with 5,363 pieces, a height of over 27.5 inches and a swappable Heat Ray for his mouth. It lands November 27 for $449.99, and it's the largest Lego Ideas set ever, according to the Godzilla website. The whole thing started as a fan submission from builder Matthew Esposito. Black Friday buyers also get a free mini set with a tiny Mothra while supplies last.",
+   "quip": "Finally, something to step on that will fight back.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/lego/lego-reveals-massive-450-godzilla-set-with-over-5000-pieces-3424419/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "See You Later, Console: Xbox Stuffed a Series X Inside an Alligator",
+   "blurb": "Meet the Xbox Series X-BITE, a working console inside a five-foot animatronic gator, with a bite-marked controller in its jaws. It was built by John Nolan Studio, whose creature work includes Jurassic World Dominion. There's only one, and it's a US-only sweepstakes prize. Kotaku's theory: Sony has the GTA 6 marketing deal, so Xbox is just \"heading to Florida\" and saying nothing else.",
+   "quip": "Jeff Gerstmann's name for it, Big Florida Crime 6, has never had better hardware.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/xbox-isnt-allowed-to-market-gta-6-so-it-stuck-a-console-inside-of-an-alligator-instead-2000752847"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Nearly 30 Years Later, Fans Found a Secret Party Member in Tales of Destiny",
+   "blurb": "Everybody thought the 1997 PS1 RPG had nine party members. This week a fan named Azekura found a tenth: Lilith Aileron, the hero's frying-pan-wielding little sister. Other players have confirmed it, and so has one of the original developers, who apologized because recruiting her can softlock the original game. The steps are so convoluted that testers are still working out which ones really matter.",
+   "quip": "Somewhere a 1997 strategy guide is quietly updating its resume.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/someone-just-figured-out-how-to-recruit-a-previously-unrecruitable-party-member-in-a-nearly-30-year-old-rpg-2000752817"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "New Yorkers Rode the Subway to a Record Sunday on Marathon Day",
+   "blurb": "What a week underground. The subway hit its highest Sunday ridership on record during the NYC Marathon. Halloween Saturday brought 3.27 million riders, the most on a Saturday since 2016. And last Thursday's 4.72 million was the biggest single day since 2020. Yes, it felt like all of them were standing on your foot.",
+   "quip": "Twenty-six miles on foot, and we still celebrate by standing on the Q.",
+   "source": "Gothamist",
+   "url": "https://gothamist.com/news/mta-posts-record-riders-over-halloween-marathon-week"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "This Detroit Guy's Rubber Band Ball Now Weighs 11,578 Pounds",
+   "blurb": "Claude P. Moore of Detroit now holds the Guinness World Record for largest rubber band ball, at a staggering 11,578 pounds. Coworkers challenged him to go big back in 2015. It outgrew his garage, moved into a storage unit, and needed a crane to get out for the official weigh-in on Belle Isle. The old record was 9,032 pounds.",
+   "quip": "One office supply closet in Detroit has a lot of questions.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/guinness-world-records-largest-rubber-band-ball/4121793732579/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "In a While, Crocodile? This Gator Wanted a Bagel Right Now",
+   "blurb": "A 3-foot alligator wandered through an open back door at Bagel Dock Express in Southport, North Carolina, and security cameras caught the whole thing. It strolled through the stock room and the kitchen, then lurked behind the front counter until owner Jesse Driscoll spotted it and called 911. Police safely relocated the gator, and nobody got hurt. The shop's take: word of its fresh bagels must have reached the swamp.",
+   "quip": "That's two gators in one paper. Gator Wednesday is real and we're not sorry.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/03/alligator-bagel-store-southport-north-carolina/6751793729245/"
+  }
+ ]
+}
