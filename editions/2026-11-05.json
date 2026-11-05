@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-05",
+ "generatedAt": "2026-11-05T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-05T06:00",
+  "current": {
+   "temp": 62,
+   "feels": 63,
+   "code": 1,
+   "wind": 6
+  },
+  "today": {
+   "hi": 72,
+   "lo": 61,
+   "code": 51,
+   "rain": 53,
+   "sunrise": "2026-11-05T06:30",
+   "sunset": "2026-11-05T16:47"
+  },
+  "tomorrow": {
+   "hi": 66,
+   "lo": 59,
+   "code": 63,
+   "rain": 93
+  },
+  "hourly": [
+   {
+    "t": "2026-11-05T00:00",
+    "temp": 61,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-05T01:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-05T02:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-05T03:00",
+    "temp": 64,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-05T04:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-05T05:00",
+    "temp": 62,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-05T06:00",
+    "temp": 62,
+    "code": 1,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-05T07:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-05T08:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 11
+   },
+   {
+    "t": "2026-11-05T09:00",
+    "temp": 67,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-05T10:00",
+    "temp": 67,
+    "code": 51,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-05T11:00",
+    "temp": 67,
+    "code": 51,
+    "rain": 17
+   },
+   {
+    "t": "2026-11-05T12:00",
+    "temp": 66,
+    "code": 51,
+    "rain": 18
+   },
+   {
+    "t": "2026-11-05T13:00",
+    "temp": 70,
+    "code": 3,
+    "rain": 13
+   },
+   {
+    "t": "2026-11-05T14:00",
+    "temp": 71,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-05T15:00",
+    "temp": 71,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-05T16:00",
+    "temp": 68,
+    "code": 1,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-05T17:00",
+    "temp": 65,
+    "code": 1,
+    "rain": 16
+   },
+   {
+    "t": "2026-11-05T18:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-05T19:00",
+    "temp": 66,
+    "code": 2,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-05T20:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 11
+   },
+   {
+    "t": "2026-11-05T21:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 43
+   },
+   {
+    "t": "2026-11-05T22:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 43
+   },
+   {
+    "t": "2026-11-05T23:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 53
+   },
+   {
+    "t": "2026-11-06T00:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 54
+   },
+   {
+    "t": "2026-11-06T01:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 34
+   },
+   {
+    "t": "2026-11-06T02:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 62
+   },
+   {
+    "t": "2026-11-06T03:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 49
+   },
+   {
+    "t": "2026-11-06T04:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 32
+   },
+   {
+    "t": "2026-11-06T05:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 44
+   },
+   {
+    "t": "2026-11-06T06:00",
+    "temp": 65,
+    "code": 63,
+    "rain": 62
+   },
+   {
+    "t": "2026-11-06T07:00",
+    "temp": 64,
+    "code": 63,
+    "rain": 50
+   },
+   {
+    "t": "2026-11-06T08:00",
+    "temp": 65,
+    "code": 45,
+    "rain": 45
+   },
+   {
+    "t": "2026-11-06T09:00",
+    "temp": 64,
+    "code": 63,
+    "rain": 67
+   },
+   {
+    "t": "2026-11-06T10:00",
+    "temp": 64,
+    "code": 3,
+    "rain": 93
+   },
+   {
+    "t": "2026-11-06T11:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 89
+   },
+   {
+    "t": "2026-11-06T12:00",
+    "temp": 64,
+    "code": 53,
+    "rain": 83
+   },
+   {
+    "t": "2026-11-06T13:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 78
+   },
+   {
+    "t": "2026-11-06T14:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 81
+   },
+   {
+    "t": "2026-11-06T15:00",
+    "temp": 63,
+    "code": 53,
+    "rain": 59
+   },
+   {
+    "t": "2026-11-06T16:00",
+    "temp": 63,
+    "code": 51,
+    "rain": 68
+   },
+   {
+    "t": "2026-11-06T17:00",
+    "temp": 62,
+    "code": 61,
+    "rain": 37
+   },
+   {
+    "t": "2026-11-06T18:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 74
+   },
+   {
+    "t": "2026-11-06T19:00",
+    "temp": 60,
+    "code": 61,
+    "rain": 74
+   },
+   {
+    "t": "2026-11-06T20:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 22
+   },
+   {
+    "t": "2026-11-06T21:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 22
+   },
+   {
+    "t": "2026-11-06T22:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 22
+   },
+   {
+    "t": "2026-11-06T23:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 22
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Hey! Listen! Ocarina of Time Is Out Today, and It's a 96",
+   "blurb": "The Ocarina of Time remake lands on Switch 2 today, and critics are losing it. It holds a 96 on Metacritic from 81 reviews, making it the top-rated game of 2026 and the highest-rated Switch 2 game so far. It's already No. 27 on the site's all-time list, ahead of Skyrim and Half-Life. The 1998 original still sits at No. 1 with a 99, the only game ever to get one.",
+   "quip": "Nobody tell your boss, but you have a very bad cold coming on. It's called Dodongo's Cavern.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/ocarina-of-time-remake-tops-metacritics-goty-list-and-its-high-on-the-all-time-ranking"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Godzilla Minus Zero Stomps a Japanese Box Office Record",
+   "blurb": "Godzilla Minus Zero sold 590,000 tickets for 910 million yen on its opening day in Japan, about $5.75 million. That's the biggest opening day ever for a live-action film there, foreign or domestic, and it opened on Godzilla Day, November 3. Director Takashi Yamazaki and the Minus One cast are back, and it hits North American theaters tomorrow. It's also the first Japanese film allowed to advertise itself as \"filmed for IMAX.\"",
+   "quip": "Tokyo keeps getting flattened by this guy, and Japan just paid record money to watch it happen again. Respect.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-04/godzilla-minus-zero-earns-highest-ever-opening-day-for-live-action-film-in-japan/.243535"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "A24 Says NASA Asked to Screen Nathan Fielder's Hit Doc in Space",
+   "blurb": "A24 posted a cropped email on Instagram with the subject line \"NASA Request for Private Viewing,\" captioned \"Request granted\" and promising You Can See Everything is coming soon to the ISS. Nathan Fielder and Lance Oppenheim's Elizabeth Holmes documentary has gone full phenomenon: about $64.7 million domestic and No. 1 at the box office last weekend. It has also inspired a New York City lookalike contest and parodies from Jimmy Fallon, Jamie Lee Curtis, Daniel Radcliffe and Tracy Morgan.",
+   "quip": "Nearly three hours long, and for once nobody on board can sneak out to the lobby.",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/nathan-fielders-you-can-see-everything-is-headed-to-space-a24-says-2000835207"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Bend the Knee: Dave & Buster's Is Now Doom & Buster's",
+   "blurb": "Dave & Buster's is temporarily renaming itself Doom & Buster's for Avengers: Doomsday. Marvel games are rolling out now, with the full takeover running November 16 through January 31. Expect a Thor hammer strike, a four-player Marvel beat 'em up, and a Human Crane that straps you into a harness and lowers you into the prizes. There's also a DOOMHOUR with double tickets, and five themed drinks, two of them mocktails.",
+   "quip": "Victor Von Doom conquered the multiverse and still has to honor your Power Card.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/dave-busters-changes-its-name-to-doom-busters-with-new-marvel-games-and-drinks-3424901/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "WendyQuest Is a Real, Free RPG Starring Baconator and Sir Chicken",
+   "blurb": "Wendy's and developer 81monkeys just released WendyQuest: Legend of the Four Corner Stones, a free RPG on Steam for Windows PCs and Steam Decks. You play as Wendy herself, collecting the four Corner Stones to stop MechBorg's mechs from overrunning the land of Savoria. Your party members include Baconator, Frygor and Sir Chicken. We did not make up any of those names.",
+   "quip": "Four Corner Stones, from the chain that famously doesn't cut corners. We see you, Wendy.",
+   "source": "Siliconera",
+   "url": "https://www.siliconera.com/wendys-releases-free-wendyquest-rpg-on-steam/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Dave Grohl Sobbed Like a Baby After Jamming With AC/DC",
+   "blurb": "Dave Grohl played \"Highway to Hell\" with AC/DC last month at MetLife Stadium, and he just told New Zealand's The Rock he walked offstage and broke down \"sobbing like a baby.\" Seeing the concert film Let There Be Rock at age 11 changed his life, so he called it one of the most full-circle moments of his entire life. The Foos only got the gig by filling in for The Pretty Reckless. His review: AC/DC is the loudest band in the world, he thinks.",
+   "quip": "Louder than Mot\u00f6rhead, he says, which is the highest honor a human eardrum can bestow.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/dave-grohl-broke-down-in-tears-performing-ac-dc/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Bob Dylan Met the Pope in His Finest Black Hoodie",
+   "blurb": "Pope Leo XIV welcomed Bob Dylan to the Vatican on Wednesday for a brief meeting with \"a few lighthearted remarks.\" They swapped gifts: Dylan handed over a copy of his memoir, Chronicles: Volume One, and got a rosary in return. It's Dylan's second pope, too. He played songs for John Paul II back in 1997.",
+   "quip": "The times, they are a-hoodie.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/bob-dylan-meets-pope-leo/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "NYC's Only Sidewalk Clock Has a Guy Under the Street Who Loves It",
+   "blurb": "When daylight saving hits, jeweler Gilo Vintimilla climbs a ladder under the sidewalk at Maiden Lane to reset the only clock embedded in a New York City sidewalk, from below, while a colleague up on the street calls out directions by phone. William Barthman Jeweler installed it in 1899 as a novelty ad, and Vintimilla has been caring for it since 2001. About 50,000 people a day walk over its sapphire crystal cover, mostly without noticing.",
+   "quip": "Next time you're late in the Financial District, just look down. And apologize, you're standing on someone's baby.",
+   "source": "Gothamist",
+   "url": "https://gothamist.com/arts-entertainment/when-turning-back-the-clock-means-going-under-an-nyc-sidewalk"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Guy Grows a Tomato Jungle From Seeds Off a McDonald's Burger",
+   "blurb": "YouTube gardener James Prigioni pulled two seeds from the tomato slice on a Deluxe Quarter Pounder with cheese and planted them. Three months later, the plant in his garden was dripping with dozens of tomatoes, so many it struggled to ripen them all. He ended up harvesting pounds and pounds of fruit, all from a cheeseburger.",
+   "quip": "Next up: planting a McNugget and waiting for the chicken.",
+   "source": "Upworthy",
+   "url": "https://www.upworthy.com/man-plants-seeds-from-tomato-in-mcdonalds-burger-ex1/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Two Supermarket Robots Flunked Their Trial Shift for Slacking Off",
+   "blurb": "Agibot put six of its G2 humanoid robots through a 24-hour shift at a supermarket in China, billed as \"Robots Never Clock Out.\" Four finished the job and two did not, so those two weren't promoted to \"official employees.\" One cleaning bot got thrown off by a trash can. The stock-checking bot was reportedly caught \"slacking off\" and was dinged for lacking initiative and on-duty enthusiasm.",
+   "quip": "The robots have achieved consciousness, and that consciousness is a teenager on a Sunday shift.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/humanoid-robots-fail-supermarket-job-after-slacking-off-and-having-bad-attitude-3424776/"
+  }
+ ]
+}
