@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-06",
+ "generatedAt": "2026-11-06T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-06T06:00",
+  "current": {
+   "temp": 65,
+   "feels": 70,
+   "code": 3,
+   "wind": 2
+  },
+  "today": {
+   "hi": 67,
+   "lo": 57,
+   "code": 63,
+   "rain": 93,
+   "sunrise": "2026-11-06T06:31",
+   "sunset": "2026-11-06T16:46"
+  },
+  "tomorrow": {
+   "hi": 59,
+   "lo": 44,
+   "code": 3,
+   "rain": 2
+  },
+  "hourly": [
+   {
+    "t": "2026-11-06T00:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 43
+   },
+   {
+    "t": "2026-11-06T01:00",
+    "temp": 67,
+    "code": 61,
+    "rain": 48
+   },
+   {
+    "t": "2026-11-06T02:00",
+    "temp": 67,
+    "code": 63,
+    "rain": 60
+   },
+   {
+    "t": "2026-11-06T03:00",
+    "temp": 66,
+    "code": 51,
+    "rain": 46
+   },
+   {
+    "t": "2026-11-06T04:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 37
+   },
+   {
+    "t": "2026-11-06T05:00",
+    "temp": 66,
+    "code": 3,
+    "rain": 26
+   },
+   {
+    "t": "2026-11-06T06:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-06T07:00",
+    "temp": 65,
+    "code": 61,
+    "rain": 36
+   },
+   {
+    "t": "2026-11-06T08:00",
+    "temp": 66,
+    "code": 53,
+    "rain": 91
+   },
+   {
+    "t": "2026-11-06T09:00",
+    "temp": 64,
+    "code": 63,
+    "rain": 93
+   },
+   {
+    "t": "2026-11-06T10:00",
+    "temp": 66,
+    "code": 63,
+    "rain": 92
+   },
+   {
+    "t": "2026-11-06T11:00",
+    "temp": 67,
+    "code": 53,
+    "rain": 88
+   },
+   {
+    "t": "2026-11-06T12:00",
+    "temp": 65,
+    "code": 61,
+    "rain": 76
+   },
+   {
+    "t": "2026-11-06T13:00",
+    "temp": 65,
+    "code": 63,
+    "rain": 70
+   },
+   {
+    "t": "2026-11-06T14:00",
+    "temp": 65,
+    "code": 63,
+    "rain": 74
+   },
+   {
+    "t": "2026-11-06T15:00",
+    "temp": 65,
+    "code": 61,
+    "rain": 68
+   },
+   {
+    "t": "2026-11-06T16:00",
+    "temp": 65,
+    "code": 3,
+    "rain": 43
+   },
+   {
+    "t": "2026-11-06T17:00",
+    "temp": 64,
+    "code": 53,
+    "rain": 19
+   },
+   {
+    "t": "2026-11-06T18:00",
+    "temp": 64,
+    "code": 53,
+    "rain": 22
+   },
+   {
+    "t": "2026-11-06T19:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 21
+   },
+   {
+    "t": "2026-11-06T20:00",
+    "temp": 62,
+    "code": 51,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-06T21:00",
+    "temp": 62,
+    "code": 51,
+    "rain": 10
+   },
+   {
+    "t": "2026-11-06T22:00",
+    "temp": 61,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-06T23:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-07T00:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T01:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T02:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T03:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T04:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T05:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T06:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T07:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T08:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T09:00",
+    "temp": 56,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T10:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T11:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T12:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T13:00",
+    "temp": 55,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T14:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T15:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T16:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T17:00",
+    "temp": 52,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T18:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T19:00",
+    "temp": 49,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T20:00",
+    "temp": 47,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T21:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T22:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-07T23:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 2
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Rush Are Taking 2112 to the Sphere, and We Are the Priests",
+   "blurb": "Rush just announced Elevate From the Norm, a five-night residency at the Las Vegas Sphere on May 21, 23, 26, 28 and 30. Geddy Lee says the plan is all of 2112 and all of Moving Pictures, plus an array of other songs. Tickets go on sale November 13 at 10 a.m. Pacific. Geddy's own review of the idea: \"so effin' excited.\"",
+   "quip": "A giant glowing orb in the desert is the most Rush venue ever built.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2516602/rush-announce-sphere-residency/news/"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "An EA Producer Opened a Storage Room and Found Gaming's Lost Ark",
+   "blurb": "Producer Jim Vessella went looking for a place to stash 200 Betacam tapes and got shown a room holding nearly 20,000 archival assets. His description: \"like Indiana Jones.\" Years of digitizing later, EA just dropped 25 classics on Steam, GOG and the EA App, including seven remasters: Wing Commander 1 through 4, Prophecy, Privateer 2 and Road Rash. Modders volunteered their time to help, and the lost master video for over 1,500 cutscenes is back.",
+   "quip": "Top men are working on it. Top men. And some very nice modders on Slack.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/games/a-random-ea-employee-stumbled-on-nearly-20-000-classic-game-assets-in-a-storage-room-then-a-producer-spent-2-years-working-with-modders-on-7-new-remasters-that-just-hit-steam/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Here Comes a New Challenger: Street Fighter Cards You Can Drink",
+   "blurb": "A Japanese TV segment showing presenters folding Street Fighter 6 trading cards in half and sucking out the liquid has gone viral, with one upload passing 15 million views on X. They're called Energy Arts, from candy company UHA Mikakuto and Kindai University. Each card holds 12ml of caffeine-free energy drink, and there are 24 designs including Ryu and E. Honda. The internet is already demanding Pokemon ones.",
+   "quip": "Finally, a collectible you can ruin in half a second. Hadou-sip.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/drinkable-street-fighter-trading-cards-have-baffled-fans-predicting-pokemon-yu-gi-oh-versions-3425271/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Keanu Is Voicing John Wick in an Animated Impossible Task Prequel",
+   "blurb": "Lionsgate just greenlit an animated John Wick prequel, and Keanu Reeves will produce and voice the man himself. It finally shows the \"Impossible Task\": taking out all of his rivals in a single night to leave the High Table behind. Shannon Tindle of Ultraman: Rising and Kubo and the Two Strings directs.",
+   "quip": "Animated John Wick can finally do the stunts Keanu's knees have been asking him not to.",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/keanu-reeves-officially-returning-for-john-wick-animated-film-2000835985"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Olivia Rodrigo's First Christmas Song Is Here, With Cynthia Nixon as Mom",
+   "blurb": "\"Take Me Home (4 Christmas)\" is officially out, and NME says it channels The Waitresses' 1981 classic \"Christmas Wrapping.\" The video stars Sex and the City's Cynthia Nixon as the parent of Olivia's love interest, played by SNL's Ben Marshall. It's also available on seven-inch vinyl and, yes, cassette.",
+   "quip": "Meeting the parents has never been this catchy or this hungover.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/olivia-rodrigo-releases-new-festive-single-take-me-home-4-christmas-video-starring-cynthia-nixon-watch-3975188"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Rockstar Dropped 38 New GTA 6 Screenshots, and the Pores Are Incredible",
+   "blurb": "With Grand Theft Auto 6 due November 19 on PS5 and Xbox Series X/S, Rockstar just put up a launch gallery with 38 new screenshots of Vice City. You get a DJ set, a motorbike escape, a tough guy posing with his pitbull, and a dive bar where a band seemingly called The Rusty Anchor is playing. Thirteen days to go.",
+   "quip": "We will be spending more time in that dive bar than doing any actual missions.",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-38-new-screenshots"
+  },
+  {
+   "slot": "main",
+   "category": "tech",
+   "headline": "Sony Brought Back the Original Walkman Headphones, Now With USB-C",
+   "blurb": "The orange-cushioned MDR-3 headphones that came with the very first Walkman in 1979 are back as the MDR-3R. They look just like the originals, stay wired, and now connect over USB-C with a built-in mic. They're $60 and out now. There's also an $80 Stranger Things version with black and red earpads.",
+   "quip": "Peak 1979 technology, finally compatible with a phone that has no headphone jack.",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2304149/sony-mdr-3r-wired-headphones-are-steeped-in-retro-aesthetics/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "A Lost O'Keeffe Spent Decades in an East Village Closet",
+   "blurb": "Georgia O'Keeffe's 1930 painting \"Near Abiquiu, New Mexico I\" sat boxed in an East Village closet from the mid-1980s until its owner casually told her niece, \"there's a Georgia O'Keeffe in the closet.\" Her mother bought it for $3,800 in 1963, and now it could fetch up to $3 million at Christie's on November 17. Before that, you can see it for free at 20 Rockefeller Plaza from November 7 to 17.",
+   "quip": "All we've ever found in a New York closet is a second, smaller closet.",
+   "source": "6sqft",
+   "url": "https://www.6sqft.com/lost-georgia-okeeffe-painting-found-in-an-east-village-apartment-heads-to-auction/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Oyez! This British Town Crier Just Shouted Her Way Into Guinness",
+   "blurb": "Brenda Willison, town crier of Peterborough since 1987, now holds Guinness records for loudest town crier (female) and loudest shout by an individual (female), with an \"oyez\" of 105.9 decibels. She got the job after her daughter wrote in to say she could shout \"chips\" between two cafes a mile and a half apart. And she says that wasn't even her loudest.",
+   "quip": "Somewhere in Peterborough, the chips are still being notified.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/05/guinness-world-records-loudest-shout-woman/5911793895144/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Connecticut Town Has One Emu and No Idea Whose It Is",
+   "blurb": "Animal control in Thompson, Connecticut chased a loose emu along Thompson Hill Road on Wednesday and secured it in a resident's backyard. Now the town is asking the owner to come forward so it can get this \"large bird\" back home. Officials say it's safe, comfortable and being well cared for.",
+   "quip": "Imagine losing an emu and just not bringing it up.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/05/thompson-connecticut-loose-emu/2581793894149/"
+  }
+ ]
+}
