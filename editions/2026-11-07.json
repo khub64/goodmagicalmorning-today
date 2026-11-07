@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-07T06:00",
+  "current": {
+   "temp": 55,
+   "feels": 54,
+   "code": 3,
+   "wind": 6
+  },
+  "today": {
+   "hi": 61,
+   "lo": 45,
+   "code": 53,
+   "rain": 25,
+   "sunrise": "2026-11-07T06:33",
+   "sunset": "2026-11-07T16:45"
+  },
+  "tomorrow": {
+   "hi": 57,
+   "lo": 44,
+   "code": 3,
+   "rain": 20
+  },
+  "hourly": [
+   {
+    "t": "2026-11-07T00:00",
+    "temp": 59,
+    "code": 53,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-07T01:00",
+    "temp": 59,
+    "code": 51,
+    "rain": 25
+   },
+   {
+    "t": "2026-11-07T02:00",
+    "temp": 59,
+    "code": 51,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-07T03:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-07T04:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T05:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T06:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T07:00",
+    "temp": 56,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T08:00",
+    "temp": 57,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T09:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T10:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T11:00",
+    "temp": 60,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T12:00",
+    "temp": 60,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T13:00",
+    "temp": 60,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T14:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T15:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T16:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T17:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T18:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T19:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T20:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-07T21:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T22:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-07T23:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-08T00:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-08T01:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 20
+   },
+   {
+    "t": "2026-11-08T02:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T03:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T04:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T05:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T06:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T07:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T08:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T09:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T10:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T11:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T12:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T13:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T14:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T15:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T16:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T17:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T18:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T19:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T20:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T21:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T22:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T23:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Stranger Things Is Going Back to the 1950s With Other Worlds",
+   "blurb": "Netflix used Stranger Things Day to announce Other Worlds: A Stranger Things Adventure, a prequel set in the 1950s, before the show and before the stage play The First Shadow. It's co-created by the Duffer Brothers and longtime writer Kate Trefry, and Joe Wright of Pride & Prejudice fame directs the first three episodes. No cast yet, and it's due in 2028.",
+   "quip": "Same Upside Down, way better milkshakes.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/stranger-things-prequel-other-worlds-netflix/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Godzilla Minus Zero Stomps Into U.S. Box Office History",
+   "blurb": "After its record start in Japan, Godzilla Minus Zero is now heading for a $30 million to $33 million opening weekend in North America, after a $13.5 million Friday. That would be the biggest opening ever for a live-action foreign-language movie here, beating Hero's $17.8 million from 2002. Audiences give it a 96% score on Rotten Tomatoes.",
+   "quip": "The King of the Monsters is now also the King of the Multiplex.",
+   "source": "Deadline",
+   "url": "https://deadline.com/2026/11/box-office-godzilla-minus-zero-cat-in-the-hat-1237215161/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "IShowSpeed Picked a Fight With a Cucco and Lost",
+   "blurb": "Streamer IShowSpeed has been playing the Ocarina of Time remake dressed as Link, and his very first death came from a swarm of angry chickens. He kept swinging at a Cucco in Kakariko Village until it called in backup. Zelda fans loved it, calling it a rite of passage every new player has to learn the hard way.",
+   "quip": "Ganondorf: zero kills. Chickens: undefeated since 1998.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/gaming/ishowspeed-falls-for-zeldas-oldest-trick-in-the-book-in-ocarina-of-time-remake-3425376/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Celine Dion Shredded Some Serious Air Bass at Metallica's Sphere Show",
+   "blurb": "Celine Dion was spotted in a suite at Metallica's Las Vegas Sphere show on Thursday, slapping and plucking an invisible bass along with Robert Trujillo. Slash and members of No Doubt were in the house too. She's a longtime rock fan who once used AC/DC's \"Thunderstruck\" as her soundcheck warm-up.",
+   "quip": "My heart will go on... and on... and on, at full volume.",
+   "source": "Loudwire",
+   "url": "https://loudwire.com/celine-dion-air-bass-metallica-sphere/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Alanis Morissette Dropped Her First-Ever Christmas Album",
+   "blurb": "Alanis Morissette just released Good Weather for Immaculate Conception, a 14-song holiday album with classics like \"O Holy Night\" and \"Last Christmas\" plus two new originals, including \"Christmas on the Dance Floor.\" Guests include Martin Short, and an earlier single featured Brandi Carlile with Steve Martin on banjo.",
+   "quip": "Isn't it ironic? Jagged Little Pine.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/alanis-morissette-releases-christmas-album/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Burger King's Advent Calendar Builds You a Tiny Burger King",
+   "blurb": "Burger King's Advent calendar is back for year three, and its 12 doors add up to a miniature restaurant with a tiny Whopper, nuggets, a soda fountain and a Christmas tree. It costs $19.54, a nod to the year BK was founded. Only 110 drop each day at noon ET from November 16 to 20, and the last two sold out in under five minutes.",
+   "quip": "Finally, a Christmas village where every house has the King in it.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/burger-king-reveals-2026-advent-calendar-that-lets-fans-build-their-own-mini-restaurant-3425551/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Path of Exile 2 Hits 1.0 on December 11, and It's Loaded",
+   "blurb": "Path of Exile 2 leaves early access with its full release on December 11. It brings two new classes, including the Shadow, plus two new acts to finish the campaign, a new league, a new pinnacle boss and a pile of endgame and skill tree updates.",
+   "quip": "Goodbye, December social life. It was nice knowing you.",
+   "source": "PC Gamer",
+   "url": "https://www.pcgamer.com/games/rpg/heres-whats-in-path-of-exile-2s-huge-1-0-release-coming-in-december/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Believe It! A Shonen Jump Shop Opens in NYC Today",
+   "blurb": "Viz Media's Shonen Jump Shop pop-up opens today, November 7, at 1220 Broadway. Expect gear from One Piece, Jujutsu Kaisen, Demon Slayer, Naruto, My Hero Academia and more, NYC-exclusive items, photo spots and a Monkey D. Luffy statue. Spend over $70 and you get a free poster while supplies last.",
+   "quip": "Gear Fifth? Nah, we're going for Gear Fifth Avenue.",
+   "source": "Siliconera",
+   "url": "https://www.siliconera.com/shonen-jump-shop-opens-in-new-york-city-this-weekend/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Scientists Found Real Dinosaur Blood in 115-Million-Year-Old Bones",
+   "blurb": "A team led by Australia's Curtin University found fossilized red blood cells, with chemical traces of hemoglobin, inside the bones of Aratasaurus, a meat-eating dinosaur from Brazil. It's the first definitive chemical confirmation of those molecules in dinosaur blood cells. The study's lead called it a landmark discovery.",
+   "quip": "Life, uh, finds a way. Mostly a very slow, mineral-based way.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261105224542.htm"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "The Bacon Bits Were Busted for Fleeing and Squealing",
+   "blurb": "Two runaway piglets led a pair of police officers on a hoof chase in Beaufort, South Carolina, all caught on video by a witness. The tiny suspects, nicknamed the Bacon Bits, were detained on charges of \"fleeing and squealing\" and returned to their owner. Police said \"no ham was done.\"",
+   "quip": "They'll be out on bail by breakfast. Wait, bad choice of words.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/06/beaufort-south-carolina-escaped-piglets/7441793988332/"
+  }
+ ]
+}
