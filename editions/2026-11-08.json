@@ -1,0 +1,402 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-08T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-08T06:00",
+  "current": {
+   "temp": 47,
+   "feels": 42,
+   "code": 0,
+   "wind": 7
+  },
+  "today": {
+   "hi": 60,
+   "lo": 46,
+   "code": 51,
+   "rain": 17,
+   "sunrise": "2026-11-08T06:34",
+   "sunset": "2026-11-08T16:44"
+  },
+  "tomorrow": {
+   "hi": 56,
+   "lo": 43,
+   "code": 3,
+   "rain": 4
+  },
+  "hourly": [
+   {
+    "t": "2026-11-08T00:00",
+    "temp": 47,
+    "code": 51,
+    "rain": 17
+   },
+   {
+    "t": "2026-11-08T01:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T02:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T03:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T04:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T05:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T06:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T07:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T08:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T09:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T10:00",
+    "temp": 54,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T11:00",
+    "temp": 56,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T12:00",
+    "temp": 57,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T13:00",
+    "temp": 59,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T14:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T15:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T16:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T17:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T18:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T19:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T20:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-08T21:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-08T22:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-08T23:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T00:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T01:00",
+    "temp": 46,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T02:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T03:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T04:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T05:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-09T06:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-09T07:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-09T08:00",
+    "temp": 47,
+    "code": 1,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-09T09:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-09T10:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-09T11:00",
+    "temp": 54,
+    "code": 1,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-09T12:00",
+    "temp": 56,
+    "code": 2,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-09T13:00",
+    "temp": 56,
+    "code": 2,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-09T14:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-09T15:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-09T16:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-09T17:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T18:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T19:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T20:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T21:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T22:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T23:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "For the Horde! WoW: Forever Just Had the Biggest Launch in WoW History",
+   "blurb": "World of Warcraft: Forever launched November 4, and Blizzard says it's the biggest launch in WoW history by peak concurrent players. It also pulled in the highest number of returning players the game has ever seen. Forever is a new permanent branch built on Azeroth as it was in 2004, with new content, storylines and races on top. Turns out a lot of us never really logged off.",
+   "quip": "Somewhere a 2004 guild Ventrilo server just crackled back to life.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/games/world-of-warcraft/world-of-warcraft-forever-brought-back-a-record-number-of-lapsed-players-and-has-the-biggest-concurrent-player-launch-in-the-mmos-history/"
+  },
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Mark Hoppus Crashed Jimmy Eat World's Bleed American Party",
+   "blurb": "Jimmy Eat World played Bleed American in full at the Hollywood Bowl on November 7, and Blink-182's Mark Hoppus walked out as a surprise guest for \"A Praise Chorus.\" The bands go way back: Jimmy Eat World opened for Blink on their 2001 tour and joined the 2002 Pop Disaster Tour. Hoppus once said \"so much of Blink-182\" was influenced by Jimmy Eat World. Peak pop-punk friendship.",
+   "quip": "Crimson and clover, over and over, on repeat all morning.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/blink-182-mark-hoppus-jimmy-eat-world-a-praise-chorus-hollywood-bowl-3975382"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "The Strokes Played SNL, and Walton Goggins Brought the Bongos",
+   "blurb": "The Strokes were the musical guests on Saturday Night Live on November 7, playing \"Lonely In The Future\" and \"Going Shopping\" from their new album Reality Awaits. Walton Goggins joined them on bongos for \"Going Shopping,\" reprising his role from the song's Paul Simon-inspired music video. It was the band's fifth time on SNL, and their first since Halloween 2020.",
+   "quip": "Walton Goggins, bongo legend, is the crossover we never knew we needed.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/the-strokes-lonely-in-the-future-going-shopping-walton-goggins-snl-3975379"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "The Fist of the North Star Artist Just Drew a Pok\u00e9mon Card",
+   "blurb": "Legendary manga artist Tetsuo Hara, creator of Fist of the North Star, drew the \"Maxie's Passion\" Special Art Rare card for the Pok\u00e9mon TCG's Had\u014d Seeker set, launching November 27. It's his second Pok\u00e9mon card after a Palafin EX back in 2024. The original art goes on display at Pok\u00e9mon Center MEGA TOKYO from November 30 through January 11.",
+   "quip": "This card is already pulled. It just doesn't know it yet.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-07/fist-of-the-north-star-tetsuo-hara-illustrates-new-pokemon-card/.243611"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Outback's New Steak Is Shaped Like Thor's Hammer",
+   "blurb": "Outback Steakhouse Korea is joining the Avengers: Doomsday food frenzy with a giant bone-in steak made to look like Mjolnir, with the bone as the handle. The Marvel menu arrives November 10 and also has shrimp pasta, a chocolate dome dessert with Doctor Doom's emblem, and a green-and-red layered drink. Only the worthy may lift it. Everyone else gets a to-go box.",
+   "quip": "Whosoever eats this steak shall possess the power of a very long nap.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/outback-steakhouse-reveals-massive-thors-hammer-steak-in-yet-another-avengers-doomsday-menu-3425526/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Civilization VI Turned 10 and Got a Lo-Fi Album to Conquer the World To",
+   "blurb": "Firaxis and Laced Records released Sid Meier's Civilization VI: The Lo-Fi Sessions for the game's 10th anniversary. It has 12 chill new arrangements of the soundtrack by Firaxis sound designer Dmytro Nebesh, with touches like a thunderstorm on \"Germany\" and cafe noise on \"Brazil,\" plus traditional instruments and native bird calls. It's out now on streaming.",
+   "quip": "Lo-fi beats to declare war on Gandhi to.",
+   "source": "Bleeding Cool",
+   "url": "https://bleedingcool.com/pop-culture/civilization-vi-celebrates-its-10th-anniversary-with-a-lo-fi-album/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "I Yam What I Yam: Popeye Returns to the Macy's Parade",
+   "blurb": "Popeye is coming back to the Macy's Thanksgiving Day Parade on November 26 for its 100th march. He first appeared in 1939 and had a 29-year run, and this year he's bringing Olive Oyl and Swee'Pea along on a float. King Features is also running new Sunday comics about his parade comeback on Comics Kingdom all month.",
+   "quip": "Pack spinach. It's a long walk from the Upper West Side.",
+   "source": "amNY",
+   "url": "https://www.amny.com/lifestyle/holidays/popeye-macys-all-stars-return-thanksgiving-day-parade/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "After a 28-Year Walk Around the World, He Finally Hugged His Mom",
+   "blurb": "Karl Bushby set off from Hull, England in 1998 to walk all the way around the world and back, about 31,000 miles, with no cars, boats or planes allowed. He crossed the Darien Gap and swam across the Caspian Sea along the way. Now 57, he was welcomed home by hundreds of well-wishers in Hull on November 2, then walked the final three miles and hugged his mom Angela at her front gate.",
+   "quip": "Mom's first question was definitely \"Did you remember a jacket?\"",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/adventurer-finally-hugs-mom-after-28-year-walk-around-the-world-from-home-in-uk/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "This Guy Solved Four Rubik's Cubes While Running a Mile",
+   "blurb": "British runner George Scholey set the Guinness World Record for the fastest puzzle cube mile: solve a cube, run a lap, repeat, four times. His time was 5 minutes and 9.25 seconds. He already holds records for the most cubes solved on a skateboard (500) and in 24 hours (6,931).",
+   "quip": "Meanwhile we can't solve one cube sitting on the couch.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/06/guinness-world-records-puzzle-cube-mile/9871793989473/"
+  }
+ ]
+}
