@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-09T06:00",
+  "current": {
+   "temp": 48,
+   "feels": 41,
+   "code": 0,
+   "wind": 8
+  },
+  "today": {
+   "hi": 58,
+   "lo": 43,
+   "code": 3,
+   "rain": 10,
+   "sunrise": "2026-11-09T06:35",
+   "sunset": "2026-11-09T16:43"
+  },
+  "tomorrow": {
+   "hi": 62,
+   "lo": 40,
+   "code": 3,
+   "rain": 2
+  },
+  "hourly": [
+   {
+    "t": "2026-11-09T00:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T01:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T02:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T03:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T04:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T05:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T06:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T07:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-09T08:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-09T09:00",
+    "temp": 54,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-09T10:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-09T11:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-09T12:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 10
+   },
+   {
+    "t": "2026-11-09T13:00",
+    "temp": 58,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-09T14:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-09T15:00",
+    "temp": 56,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T16:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-09T17:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T18:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T19:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T20:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T21:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T22:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-09T23:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T00:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T01:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T02:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T03:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T04:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T05:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T06:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T07:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T08:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T09:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T10:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T11:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T12:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T13:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-10T14:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T15:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T16:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T17:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T18:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T19:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T20:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T21:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T22:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T23:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Accio Sequel! Hogwarts Legacy 2 Is Officially Happening",
+   "blurb": "Warner Bros. Discovery has confirmed a second Hogwarts Legacy game is on the way. The news didn't come in a flashy trailer, but in an official letter to shareholders. The 2023 original sold millions of copies and sent players back to the 1890s wizarding world, so a return trip was pretty much destined.",
+   "quip": "Start practicing your Revelio spam now. Five times a second, minimum.",
+   "source": "Collider",
+   "url": "https://collider.com/hogwarts-legacy-2-officially-confirmed/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Waku Waku! Spy x Family Gets Season 4 and a New Movie",
+   "blurb": "The Spy x Family anime is coming back in 2027 with a fourth season and a brand-new theatrical film in Japan. The staff announced it on Sunday along with a fresh visual for the new season. The last movie, Code: White, topped the Japanese box office in its first weekend back in 2023.",
+   "quip": "Anya already knew. Anya always knows.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-08/spy-family-anime-gets-4th-season-theatrical-film-in-2027/.243614"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Remember the Chunky Chicken-Eating Hawk? She's Flying Again!",
+   "blurb": "The internet's favorite red-shouldered hawk, who got too heavy to fly after weeks of snacking on a neighbor's chickens, is airborne again. The Southwest Virginia Wildlife Center says she's dropped about 130 grams in a little over a month with diet and exercise. She can only do 4 or 5 laps of her flight pen before she's pooped, so release is still a ways off.",
+   "quip": "Coming soon to Netflix: The Biggest Loser, Raptor Edition.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/viral-hawk-that-ate-too-many-chickens-is-flying-again-after-losing-weight-3425778/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Yoshi Is Hatching as Nintendo's Next Grown-Up LEGO Set",
+   "blurb": "Nintendo and LEGO just teased the next set in their 18+ Mario line, and it's Yoshi. A post on the Nintendo Today! app shows the dino's eyes and snout in brick form with the message \"Hatching soon\". No price or release date yet, but the previous adult Mario sets weren't cheap.",
+   "quip": "Finally, a Yoshi that won't flutter-jump off your shelf.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/marios-next-adults-welcome-lego-set-is-hatching-soon"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Muse Will Light Up Hyde Park and Leeds Next Summer",
+   "blurb": "Muse are headlining London's BST Hyde Park on June 26, 2027, with Nothing But Thieves and Chvrches in support, then Leeds' Roundhay Festival the next night. It's the space-rock trio's victory lap after their 10th album, The Wow! Signal, came out in June. Pre-sales start today, with general tickets on Friday, November 13.",
+   "quip": "Bring earplugs and a pair of sunglasses for the lasers.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/muse-headline-london-bst-hyde-park-leeds-roundhay-festival-2027-tour-tickets-3975390"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Son of a Nutcracker! U2's The Edge Wrote an Elf Sequel",
+   "blurb": "Andy Richter, who had a small role in Elf and just co-wrote a behind-the-scenes book about it, says U2 guitarist The Edge wrote a full sequel. Richter told The Daily Beast's Obsessed podcast that producer Shauna Robertson was approached about the script. Nobody knows what it was about or exactly why it never got made.",
+   "quip": "We would absolutely watch Buddy try to tune a guitar to the North Pole.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2517003/the-edge-wrote-an-elf-sequel-that-wasnt-made-for-some-reason/news/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Phasmophobia Ghost Hunters Raised $230K for Hearts",
+   "blurb": "The Phasmophobia community raised more than $230,000 for the American Heart Association, more than double last year's total of around $100,000. Over 500 streamers joined this year's Ghost Hunts for Hearts. Players blew past the $200,000 goal, which unlocked an animated ID card and badge for everyone.",
+   "quip": "Spooky game, big hearts. The ghosts are honestly a little moved.",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/phasmophobia-ghost-hunts-for-hearts-230000-american-heart-association"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "The Roaring '20s Took Over Governors Island This Weekend",
+   "blurb": "The Jazz Age Lawn Party threw a special autumn edition on Governors Island to celebrate its 21st anniversary. Ferries filled up with feathers, chiffon and tweed, and guests danced under yellow and orange sycamores while founder Michael Arenella led his Dreamland Orchestra. There were even Charleston competitions.",
+   "quip": "Twenty-three skidoo straight to the ferry.",
+   "source": "Gothamist",
+   "url": "https://gothamist.com/news/jazz-age-fashions-return-to-governors-island-for-the-lawn-partys-fall-edition"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Escape Artist Budgie Hid in a Storm Drain a Mile From Home",
+   "blurb": "Luna the budgie flew out of her owner's kitchen in Northampton, England, when a storm blew the window open. A passing driver spotted her hopping into a roadside drain and called the RSPCA, who found her beak peeking out of a pipe. She's back home now, squeaking away and bossing around the family dog.",
+   "quip": "Eleven months old and already has a prison break on her record.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/lucky-bird-found-in-storm-drain-a-mile-from-home/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Good Boys Are Now Sniffing Out Invasive Weeds",
+   "blurb": "Scientists in Leipzig, Germany, trained 31 volunteer dogs and their owners to sniff out invasive plants like Japanese knotweed and ragweed. Of the 12 teams that took the final field test, 11 passed, with an average detection rate of 75%. The study was published in PLOS One.",
+   "quip": "Finally, a job where yelling SQUIRREL counts as a false positive.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/dogs-can-sniff-out-invasive-plant-species-with-75pt-accuracy/"
+  }
+ ]
+}
