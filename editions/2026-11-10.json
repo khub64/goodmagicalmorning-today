@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-10",
+ "generatedAt": "2026-11-10T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-10T06:00",
+  "current": {
+   "temp": 46,
+   "feels": 40,
+   "code": 1,
+   "wind": 5
+  },
+  "today": {
+   "hi": 61,
+   "lo": 45,
+   "code": 3,
+   "rain": 1,
+   "sunrise": "2026-11-10T06:36",
+   "sunset": "2026-11-10T16:42"
+  },
+  "tomorrow": {
+   "hi": 59,
+   "lo": 42,
+   "code": 3,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-11-10T00:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T01:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T02:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T03:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T04:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T05:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T06:00",
+    "temp": 46,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T07:00",
+    "temp": 45,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T08:00",
+    "temp": 48,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T09:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T10:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T11:00",
+    "temp": 56,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T12:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T13:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-10T14:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T15:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T16:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T17:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T18:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T19:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T20:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T21:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T22:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-10T23:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T00:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T01:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T02:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T03:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T04:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T05:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T06:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T07:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T08:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T09:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T10:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T11:00",
+    "temp": 55,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T12:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T13:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T14:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T15:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T16:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T17:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T18:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T19:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T20:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T21:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T22:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T23:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Fall Out Boy Drop 'Aces' and a Pop-Punk Stadium Tour",
+   "blurb": "Fall Out Boy just released \"Aces,\" their first single since last year's \"It Feels Like Christmas,\" and announced the 2027 Twilight of the Punks stadium tour. The North American leg runs July 13 to August 26 with The Offspring, Good Charlotte and The Story So Far, including an August 1 stop at Citi Field in Queens. Tickets go on sale November 12.",
+   "quip": "Fall Out Boy, The Offspring and Good Charlotte on one bill? Somebody dig out the studded belt.",
+   "source": "Loudwire",
+   "url": "https://loudwire.com/fall-out-boy-2027-tour-aces-song/"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Welcome to Vice City: GTA 6 Is Throwing a Real Music Festival",
+   "blurb": "Rockstar is celebrating the launch of GTA 6 with Grand Theft Auto VI: The Festival on November 21 at Mana Wynwood in Miami. Travis Scott, Cardi B, Kodak Black and Justice are on the lineup, and tickets are a lottery through DICE. GTA 6: The Album, with 34 original tracks, drops November 19 alongside the game.",
+   "quip": "The only festival where the parking lot has a five-star wanted level.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/rockstar-announces-grand-theft-auto-6-music-festival-taking-place-in-miami/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Chicago Tried to Push The Bean to Free the Man Inside",
+   "blurb": "Flyers that went viral on November 7 asked people to push The Bean, Chicago's Cloud Gate sculpture, about seven inches to the left. The reason? A man trapped inside needed \"resources.\" Around 250 people actually showed up on Sunday to lean on it. The Bean did not budge.",
+   "quip": "Area 51 had a million RSVPs and nobody came. The Bean got 250 real heroes.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/viral-campaign-urged-people-to-push-chicagos-bean-to-help-man-trapped-inside-3426031/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "With a Little Help From Their Friend: Paul and Ringo Reunite",
+   "blurb": "Paul McCartney and Ringo Starr will share the stage at Joe Walsh's VetsAid benefit on January 29 at the MGM Grand Garden Arena in Las Vegas. The Killers, St. Vincent, The War on Drugs and Lucius are on the bill too. The last time the two Beatles played together live was a surprise at Paul's O2 show in December 2024.",
+   "quip": "Half of the Beatles is still more Beatles than most of us will ever see.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/paul-mccartney-ringo-starr-reunion/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Silksong's Physical Manual Spills the Beans on Free Content Packs",
+   "blurb": "Hollow Knight: Silksong's physical edition is arriving, and its booklet says the game \"will expand with free content packs.\" It also calls Sea of Sorrow the \"first giant expansion,\" an ocean adventure that's listed as coming soon. Team Cherry hasn't given a date yet, but the box comes with a big map of Pharloom.",
+   "quip": "Reading the manual pays off. Somewhere a 1990s kid feels very vindicated.",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/hollow-knight-silksong-physical-free-content-packs-sea-of-sorrow"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Do Not Go Gentle: A Fan's Interstellar Ranger Is Becoming a Real LEGO Set",
+   "blurb": "LEGO Ideas approved a fan-made Interstellar build by Minibrick41587, one of just three picks from 97 submissions. The 561-piece Ranger comes with Cooper and Dr. Brand minifigures plus brick-built TARS and CASE. The creator's first version got rejected, so they rebuilt it and hit 10,000 supporters again.",
+   "quip": "Honesty setting at 90 percent: we need this on our shelf.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/lego/lego-is-turning-a-fan-made-interstellar-spaceship-into-an-official-set-3426749/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Deftones Played 'Melanie' Live for the First Time in 18 Years",
+   "blurb": "At Saturday's D\u00eda De Los Deftones at San Diego's Petco Park, Deftones pulled out \"Melanie,\" an unreleased song from their long-shelved album Eros. It was its first live outing since 2008. Afterward, Chino Moreno joked that the song \"doesn't exist.\"",
+   "quip": "A ghost song at a D\u00eda de los Muertos party. Spooky season never really ends.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2517063/deftones-play-melanie-for-the-first-time-in-18-years-at-dia-de-los-deftones/news/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Lace Up! Domino Park's Waterfront Rink Is Back in Williamsburg",
+   "blurb": "SKATE at Domino Park opened November 9 for its third season, turning 7,000 square feet of Domino Square into Williamsburg's waterfront ice rink. Glass boards keep the East River and Manhattan skyline views clear. New this year: expanded Learn to Skate lessons, plus outdoor saunas to thaw out after.",
+   "quip": "Skate, sauna, skyline. That's the Brooklyn triathlon.",
+   "source": "Brooklyn Paper",
+   "url": "https://www.brooklynpaper.com/skate-at-domino-park-williamsburg-returns-2026/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Blindfolded Dad and Son Become Hungry Hungry Hippo Champions",
+   "blurb": "Idaho's David Rush and his 7-year-old son Peter cleared a game of Hungry Hungry Hippos blindfolded in 7.03 seconds, earning a Guinness World Records title. It's the fourth Guinness title for each of them. David, who holds more than 200 records, said playing blind was both easier and harder.",
+   "quip": "Peter is 7 and has four world records. We are 0 for life.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/09/guinness-world-records-david-rush-hungry-hippos-blindfolded/3501794246098/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Guy Raising Glowworms in His Shed Lit Up Yorkshire Again",
+   "blurb": "Peter Cooper breeds glowworms in his garden shed and releases the larvae at North Yorkshire's Nosterfield Nature Reserve, where they hadn't been seen in 100 years. He's counted 1,900 larvae due for release this year. Volunteers on the project are called the \"glow-getters.\"",
+   "quip": "Most sheds hold a lawnmower. This one holds a fairy light factory.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/glowworms-shine-again-in-the-uk-from-larvae-reared-pro-bono-in-garden-shed/"
+  }
+ ]
+}
