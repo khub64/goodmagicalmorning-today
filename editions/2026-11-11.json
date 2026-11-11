@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-11",
+ "generatedAt": "2026-11-11T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-11T06:00",
+  "current": {
+   "temp": 48,
+   "feels": 42,
+   "code": 1,
+   "wind": 6
+  },
+  "today": {
+   "hi": 63,
+   "lo": 47,
+   "code": 3,
+   "rain": 2,
+   "sunrise": "2026-11-11T06:37",
+   "sunset": "2026-11-11T16:41"
+  },
+  "tomorrow": {
+   "hi": 59,
+   "lo": 46,
+   "code": 65,
+   "rain": 96
+  },
+  "hourly": [
+   {
+    "t": "2026-11-11T00:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T01:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T02:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T03:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T04:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T05:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T06:00",
+    "temp": 48,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T07:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T08:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T09:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T10:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T11:00",
+    "temp": 60,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T12:00",
+    "temp": 62,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T13:00",
+    "temp": 63,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T14:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T15:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T16:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-11T17:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-11T18:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-11T19:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-11T20:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-11T21:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-11T22:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-11T23:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-12T00:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-12T01:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-12T02:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-12T03:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-12T04:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 12
+   },
+   {
+    "t": "2026-11-12T05:00",
+    "temp": 50,
+    "code": 1,
+    "rain": 30
+   },
+   {
+    "t": "2026-11-12T06:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-12T07:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 6
+   },
+   {
+    "t": "2026-11-12T08:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 10
+   },
+   {
+    "t": "2026-11-12T09:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 19
+   },
+   {
+    "t": "2026-11-12T10:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 22
+   },
+   {
+    "t": "2026-11-12T11:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 40
+   },
+   {
+    "t": "2026-11-12T12:00",
+    "temp": 58,
+    "code": 3,
+    "rain": 53
+   },
+   {
+    "t": "2026-11-12T13:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 83
+   },
+   {
+    "t": "2026-11-12T14:00",
+    "temp": 54,
+    "code": 63,
+    "rain": 84
+   },
+   {
+    "t": "2026-11-12T15:00",
+    "temp": 53,
+    "code": 63,
+    "rain": 66
+   },
+   {
+    "t": "2026-11-12T16:00",
+    "temp": 51,
+    "code": 65,
+    "rain": 79
+   },
+   {
+    "t": "2026-11-12T17:00",
+    "temp": 50,
+    "code": 63,
+    "rain": 75
+   },
+   {
+    "t": "2026-11-12T18:00",
+    "temp": 50,
+    "code": 51,
+    "rain": 96
+   },
+   {
+    "t": "2026-11-12T19:00",
+    "temp": 49,
+    "code": 1,
+    "rain": 96
+   },
+   {
+    "t": "2026-11-12T20:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 57
+   },
+   {
+    "t": "2026-11-12T21:00",
+    "temp": 48,
+    "code": 51,
+    "rain": 57
+   },
+   {
+    "t": "2026-11-12T22:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 57
+   },
+   {
+    "t": "2026-11-12T23:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 57
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Coachella 2027 Is Here: SZA, Tame Impala, Dua Lipa and Madonna",
+   "blurb": "Coachella finally dropped its 2027 lineup, with SZA, Tame Impala and Dua Lipa headlining. Madonna returns to the dance tent for the first time since 2006, and the poster also packs in Weezer, Phoebe Bridgers, Robyn, Social Distortion, American Football and a newly reunited Pinegrove. It runs April 9 to 11 and April 16 to 18, and tickets go on sale Friday, November 13.",
+   "quip": "Madonna in a tent and Weezer in the desert. Somebody hydrate the elder millennials.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/coachella-2027-lineup-sza-tame-impala-dua-lipa/"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "It's Dangerous to Go Alone, So 5.2 Million People Went Together",
+   "blurb": "Nintendo says the Ocarina of Time remake sold 5.2 million copies in its first four days, including 810,000 in Japan. That makes it the fastest-selling Nintendo-published Switch 2 game yet, and it has already passed Donkey Kong Bananza's lifetime total. Only Mario Kart World has sold more on the console.",
+   "quip": "Five million people are stuck in the Water Temple right now, and they are happy about it.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/its-official-zelda-ocarina-of-time-has-sold-over-5-million-copies-in-4-days"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "This YouTuber Built the Tinytanic, and It Actually Floats",
+   "blurb": "YouTuber David Rule, who has close to 885,000 subscribers, built what he calls the world's smallest houseboat. The Tinytanic is eight feet long and three and a half feet wide, and it fits in the back of a truck. It still has a working stove, a small fridge and a sink, and he took it on a three-day, 12-mile trip down the Pend Oreille River in Washington.",
+   "quip": "Near, far, wherever you are, you will have to sit down inside.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/youtube/youtuber-builds-worlds-smallest-houseboat-and-it-actually-works-3427235/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Bueller? Bueller? Jeanie Is Still Looking, 40 Years Later",
+   "blurb": "Jennifer Grey is back as Jeanie Bueller in a new Home Instead commercial called Save Jeanie, and Charlie Sheen returns as the guy she met at the police station in 1986. Cindy Pickett is back as Mom too. Ferris is still dodging responsibility and still covering for himself with a mannequin in his bed.",
+   "quip": "Life moves pretty fast. Ferris, apparently, has not moved at all.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/ferris-bueller-sequel-video-reunites-charlie-sheen-jennifer-grey-after-40-years/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Faith No More Bring Back Trey Spruance for Their 2027 Reunion",
+   "blurb": "Faith No More's 2027 reunion tour has a returning face: guitarist Trey Spruance, who played on 1995's King for a Day... Fool for a Lifetime and is Mike Patton's bandmate in Mr. Bungle. Dates run January through July, including stadium shows with System of a Down. So far the only North American stops are Welcome to Rockville and Sonic Temple in May.",
+   "quip": "You want it all but you can't have it. Unless you live near Daytona Beach or Columbus.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/faith-no-more-guitarist-trey-spruance-2027-reunion-tour/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Bamf! Nightcrawler and Dracula Are Joining Marvel Rivals",
+   "blurb": "Marvel Rivals confirmed two new heroes for season 11. Nightcrawler arrives first as a strategist when the season starts November 13, and Dracula follows in the half-season update expected in December. Everyone was betting on Doctor Doom, since the season is literally called Doomsday.",
+   "quip": "Doom got bumped by a vampire. He is going to be so normal about this.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/marvel-rivals-confirms-nightcrawler-and-dracula-as-playable-characters/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Hidden Valley Ranch Will Pay for Your Wedding on Super Bowl Sunday",
+   "blurb": "Valentine's Day and the Super Bowl land on the same day in 2027, so Hidden Valley Ranch is throwing one engaged couple a free Los Angeles wedding for 50 guests. Entries open November 19 and close December 4, and you need essay answers plus a video of 90 seconds or less. The ceremony happens before kickoff, with game-day food and plenty of ranch at the reception.",
+   "quip": "Do you take this dressing, in dipping and in drizzling?",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/hidden-valley-ranch-will-pay-for-your-wedding-if-you-can-prove-your-love-for-ranch-3427137/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "All Aboard! Grand Central's Free Holiday Train Show Returns Friday",
+   "blurb": "The New York Transit Museum's Holiday Train Show pulls back into its Grand Central gallery this Friday, November 13, for its 22nd year. The 34-foot, two-level layout sends Lionel subway cars and a Polar Express past tiny New York landmarks, plus miniatures by Bushwick artist Danny Cortes, including a Crazy Eddie. It's free and runs through February.",
+   "quip": "A tiny subway that always runs on time. Truly a holiday miracle.",
+   "source": "amNewYork",
+   "url": "https://www.amny.com/news/ny-transit-museum-annual-holiday-train-show-2026/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Case Closed: A Detective Conan Episode Saved a Driver's Life",
+   "blurb": "A driver in Japan posted that his car ended up in a river and started flooding after a collision. He says a scene from Detective Conan episode 1078 popped into his head, the one where an FBI agent escapes a sinking car once the water pressure evens out. He got out safely and thanked the series' creator.",
+   "quip": "Everyone who ever said anime would not teach you anything owes this man an apology.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-10/detective-conan-saves-man-from-drowning-in-car/.243683"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "After 10 Days, the Pumpkin-Head Deer Is Finally Free",
+   "blurb": "A young buck near Detroit got a plastic Halloween pumpkin bucket stuck on his head, and volunteers spent 10 days tracking him with help from drone pilots. The Detroit Animal Welfare Group finally caught up with him in Hines Park, removed the bucket and gave him fluids. The group says he stopped to groom himself and looked back before heading off.",
+   "quip": "Longest Halloween costume commitment of 2026, and he did not even get candy.",
+   "source": "FOX 2 Detroit",
+   "url": "https://www.fox2detroit.com/news/pumpkin-bucket-removed-from-elusive-detroit-deer-after-10-day-search"
+  }
+ ]
+}
