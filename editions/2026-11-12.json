@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-12T06:00",
+  "current": {
+   "temp": 52,
+   "feels": 48,
+   "code": 0,
+   "wind": 8
+  },
+  "today": {
+   "hi": 61,
+   "lo": 48,
+   "code": 65,
+   "rain": 89,
+   "sunrise": "2026-11-12T06:39",
+   "sunset": "2026-11-12T16:40"
+  },
+  "tomorrow": {
+   "hi": 49,
+   "lo": 39,
+   "code": 63,
+   "rain": 99
+  },
+  "hourly": [
+   {
+    "t": "2026-11-12T00:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-12T01:00",
+    "temp": 52,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-12T02:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-12T03:00",
+    "temp": 52,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-12T04:00",
+    "temp": 52,
+    "code": 2,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-12T05:00",
+    "temp": 53,
+    "code": 2,
+    "rain": 6
+   },
+   {
+    "t": "2026-11-12T06:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-12T07:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-12T08:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-12T09:00",
+    "temp": 56,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-12T10:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-12T11:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 13
+   },
+   {
+    "t": "2026-11-12T12:00",
+    "temp": 61,
+    "code": 3,
+    "rain": 20
+   },
+   {
+    "t": "2026-11-12T13:00",
+    "temp": 59,
+    "code": 51,
+    "rain": 35
+   },
+   {
+    "t": "2026-11-12T14:00",
+    "temp": 55,
+    "code": 61,
+    "rain": 62
+   },
+   {
+    "t": "2026-11-12T15:00",
+    "temp": 54,
+    "code": 63,
+    "rain": 80
+   },
+   {
+    "t": "2026-11-12T16:00",
+    "temp": 53,
+    "code": 65,
+    "rain": 89
+   },
+   {
+    "t": "2026-11-12T17:00",
+    "temp": 51,
+    "code": 63,
+    "rain": 84
+   },
+   {
+    "t": "2026-11-12T18:00",
+    "temp": 50,
+    "code": 63,
+    "rain": 68
+   },
+   {
+    "t": "2026-11-12T19:00",
+    "temp": 49,
+    "code": 51,
+    "rain": 43
+   },
+   {
+    "t": "2026-11-12T20:00",
+    "temp": 48,
+    "code": 51,
+    "rain": 25
+   },
+   {
+    "t": "2026-11-12T21:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 32
+   },
+   {
+    "t": "2026-11-12T22:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 41
+   },
+   {
+    "t": "2026-11-12T23:00",
+    "temp": 49,
+    "code": 63,
+    "rain": 41
+   },
+   {
+    "t": "2026-11-13T00:00",
+    "temp": 49,
+    "code": 53,
+    "rain": 56
+   },
+   {
+    "t": "2026-11-13T01:00",
+    "temp": 47,
+    "code": 61,
+    "rain": 58
+   },
+   {
+    "t": "2026-11-13T02:00",
+    "temp": 46,
+    "code": 51,
+    "rain": 62
+   },
+   {
+    "t": "2026-11-13T03:00",
+    "temp": 46,
+    "code": 61,
+    "rain": 66
+   },
+   {
+    "t": "2026-11-13T04:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 87
+   },
+   {
+    "t": "2026-11-13T05:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 71
+   },
+   {
+    "t": "2026-11-13T06:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 69
+   },
+   {
+    "t": "2026-11-13T07:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 77
+   },
+   {
+    "t": "2026-11-13T08:00",
+    "temp": 42,
+    "code": 51,
+    "rain": 84
+   },
+   {
+    "t": "2026-11-13T09:00",
+    "temp": 41,
+    "code": 51,
+    "rain": 90
+   },
+   {
+    "t": "2026-11-13T10:00",
+    "temp": 39,
+    "code": 61,
+    "rain": 99
+   },
+   {
+    "t": "2026-11-13T11:00",
+    "temp": 39,
+    "code": 63,
+    "rain": 97
+   },
+   {
+    "t": "2026-11-13T12:00",
+    "temp": 40,
+    "code": 61,
+    "rain": 84
+   },
+   {
+    "t": "2026-11-13T13:00",
+    "temp": 41,
+    "code": 61,
+    "rain": 66
+   },
+   {
+    "t": "2026-11-13T14:00",
+    "temp": 41,
+    "code": 55,
+    "rain": 55
+   },
+   {
+    "t": "2026-11-13T15:00",
+    "temp": 40,
+    "code": 53,
+    "rain": 48
+   },
+   {
+    "t": "2026-11-13T16:00",
+    "temp": 40,
+    "code": 51,
+    "rain": 40
+   },
+   {
+    "t": "2026-11-13T17:00",
+    "temp": 39,
+    "code": 51,
+    "rain": 28
+   },
+   {
+    "t": "2026-11-13T18:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 71
+   },
+   {
+    "t": "2026-11-13T19:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 71
+   },
+   {
+    "t": "2026-11-13T20:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 35
+   },
+   {
+    "t": "2026-11-13T21:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 35
+   },
+   {
+    "t": "2026-11-13T22:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 35
+   },
+   {
+    "t": "2026-11-13T23:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 35
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Resident Evil Requiem Is the Golden Joysticks' Ultimate Game of the Year",
+   "blurb": "Resident Evil Requiem took the biggest prize at the 2026 Golden Joystick Awards, beating 11 other nominees including Crimson Desert, 007: First Light and Pokemon Pokopia. It went home with four trophies total, including Console Game of the Year and Best Lead Performer for Grace Ashcroft actress Angela Sant'Albano. The twist: it tied for most wins with Meccha Chameleon, a hide-and-seek game made by two people.",
+   "quip": "A two-person paint-yourself-into-the-wallpaper game tying Capcom is the real jump scare.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/games/resident-evil/resident-evil-requiem-wins-ultimate-game-of-the-year-at-the-golden-joystick-awards-2026/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "That's a Wrap, Precious: The Hunt for Gollum Is Done Filming",
+   "blurb": "Andy Serkis says principal photography has wrapped on The Hunt for Gollum, which he both directs and stars in. He called it \"an incredible journey\" back into the character. Ian McKellen's Gandalf, Elijah Wood's Frodo and Lee Pace's Thranduil are all back, Jamie Dornan plays a younger Aragorn, and Kate Winslet and Anya Taylor-Joy are among the newcomers.",
+   "quip": "Directing yourself as Gollum means every note you give is technically an argument with yourself. Perfect casting.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/entertainment/lord-of-the-rings-movies/the-hunt-for-gollum-wraps-filming-as-andy-serkis-praises-incredible-journey-back-to-playing-endlessly-complex-gollum-again/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Punch the Monkey Is a Big Brother Now",
+   "blurb": "Remember Punch, the baby macaque in Japan who went viral for hugging a stuffed orangutan after his mom abandoned him? Ichikawa City Zoo posted a new video on November 8 showing him cuddling and grooming an infant monkey in his troop. The zoo says he's living healthily thanks to his keepers, and commenters are thrilled the former outsider has found his spot in the group.",
+   "quip": "From clinging to a plushie to being somebody's plushie. That is character development.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/viral-monkey-punch-is-now-caring-for-a-baby-monkey-after-being-rejected-by-his-own-mom-3427601/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Logitech Is Giving Its Workers a Day Off to Play GTA 6",
+   "blurb": "Logitech is rolling out \"Gaming Time Off,\" an extra day of holiday employees can spend on a new game of their choice. It works for any game, but the company says if people use it on GTA 6's November 19 launch day, there will be no complaints. As chief people officer Elaine Laird put it, play \"is not the opposite of work.\"",
+   "quip": "Finally, a company brave enough to make \"calling in sick for Vice City\" an official HR policy.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/play-is-not-the-opposite-of-work-logitech-is-giving-workers-time-off-for-gta-6/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Imhotep Lives! Arnold Vosloo Confirms He's Back for The Mummy 4",
+   "blurb": "Arnold Vosloo says he just signed his deal to return as Imhotep in The Mummy: Book of the Dead, due in theaters October 15, 2027. He shared the news on Jack Carr's Danger Close podcast, and even explained the comeback: somebody reads from the Book of the Dead and wakes him up. Brendan Fraser, Rachel Weisz and Oded Fehr are all returning too.",
+   "quip": "Nobody in this franchise has ever learned to stop reading that book out loud, and we thank them for it.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/arnold-vosloo-confirms-mummy-4-return-reveals-how-imhotep-is-back/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Gang of Youths Announce New Album Compa\u00f1ero and a Spring Tour",
+   "blurb": "The Australian indie rockers will release their fourth album, Compa\u00f1ero, on March 12, and new single \"Benny's Video\" is out now. A 19-date North American tour kicks off March 17 in Boston, hits Brooklyn Steel on March 18, and wraps with the band's second-weekend Coachella set. General on-sale is Friday, November 20 at 10 a.m. local time.",
+   "quip": "They had to cancel their last North American run in 2022, so this one is a proper do-over.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/gang-of-youths-new-album-companero-2027-tour/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Hyrule Warriors: Age of Calamity Charges Onto Switch 2 in February",
+   "blurb": "The Zelda 40th anniversary party keeps going. Hyrule Warriors: Age of Calamity - Definitive Edition, a Switch 2 remaster of the 2020 spinoff set 100 years before Breath of the Wild, arrives February 25. If you still have your original Switch save, you can carry it over to the new version.",
+   "quip": "Ocarina this month, a thousand Bokoblins at once in February. Link does not get vacation days.",
+   "source": "Screen Rant",
+   "url": "https://screenrant.com/legend-of-zelda-february-2027-remaster-switch-2/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "The Upper East Side Just Got a Marie Curie Way",
+   "blurb": "East 66th Street and York Avenue is now Marie Sklodowska-Curie Way, unveiled Tuesday by the City Council and Poland's consulate, right by Rockefeller University and Memorial Sloan Kettering. The city once had a Marie Curie Avenue along the East River, but it vanished during waterfront road work. The new sign comes 105 years after the two-time Nobel winner's first visit to the U.S., when she was welcomed at Carnegie Hall.",
+   "quip": "Two Nobel Prizes and it still took her 105 years to get a street in Manhattan. Tough town.",
+   "source": "Patch",
+   "url": "https://patch.com/new-york/upper-east-side-nyc/marie-sklodowska-curie-way-unveiled-upper-east-side"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A 3,300-Year-Old Sword Came Out of an Italian Lake Still Sharp",
+   "blurb": "Experts in central Italy pulled a Bronze Age sword out of Lake Mezzano in October, and it's at least 3,300 years old. Italian officials say it's in excellent condition and still has a sharp edge. It's the third sword found at similar sites there since the 1970s, and researchers plan to keep looking for more.",
+   "quip": "Strange lakes distributing swords is no basis for a system of government, but it is a great morning.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/mysterious-3300-year-old-sword-found-at-bottom-of-lake-in-excellent-condition-3427318/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Stranded Chimp Gets His Bananas Delivered by Drone",
+   "blurb": "When heavy rain flooded the Save the Chimps sanctuary near Fort Pierce, Florida, a 38-year-old chimp named Kaleb ended up cut off on a small island. So his caregivers loaded food and blankets onto a drone and flew them over. Video shows him pulling a banana out of the paper bag. All the animals stayed safe, and the water has since receded.",
+   "quip": "Kaleb now has faster delivery than most of Brooklyn.",
+   "source": "Sunny Skyz",
+   "url": "https://www.sunnyskyz.com/good-news/6353/Chimp-Gets-Food-Delivered-by-Drone-After-Floodwaters-Leave-Him-Stranded"
+  }
+ ]
+}
