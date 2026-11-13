@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-13",
+ "generatedAt": "2026-11-13T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-13T06:00",
+  "current": {
+   "temp": 44,
+   "feels": 37,
+   "code": 3,
+   "wind": 12
+  },
+  "today": {
+   "hi": 48,
+   "lo": 38,
+   "code": 55,
+   "rain": 65,
+   "sunrise": "2026-11-13T06:40",
+   "sunset": "2026-11-13T16:39"
+  },
+  "tomorrow": {
+   "hi": 42,
+   "lo": 34,
+   "code": 3,
+   "rain": 18
+  },
+  "hourly": [
+   {
+    "t": "2026-11-13T00:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 17
+   },
+   {
+    "t": "2026-11-13T01:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 24
+   },
+   {
+    "t": "2026-11-13T02:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 41
+   },
+   {
+    "t": "2026-11-13T03:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 58
+   },
+   {
+    "t": "2026-11-13T04:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 65
+   },
+   {
+    "t": "2026-11-13T05:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 57
+   },
+   {
+    "t": "2026-11-13T06:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 52
+   },
+   {
+    "t": "2026-11-13T07:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 52
+   },
+   {
+    "t": "2026-11-13T08:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 59
+   },
+   {
+    "t": "2026-11-13T09:00",
+    "temp": 41,
+    "code": 55,
+    "rain": 52
+   },
+   {
+    "t": "2026-11-13T10:00",
+    "temp": 41,
+    "code": 51,
+    "rain": 44
+   },
+   {
+    "t": "2026-11-13T11:00",
+    "temp": 41,
+    "code": 53,
+    "rain": 38
+   },
+   {
+    "t": "2026-11-13T12:00",
+    "temp": 42,
+    "code": 51,
+    "rain": 38
+   },
+   {
+    "t": "2026-11-13T13:00",
+    "temp": 42,
+    "code": 51,
+    "rain": 39
+   },
+   {
+    "t": "2026-11-13T14:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 37
+   },
+   {
+    "t": "2026-11-13T15:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 32
+   },
+   {
+    "t": "2026-11-13T16:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 29
+   },
+   {
+    "t": "2026-11-13T17:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 24
+   },
+   {
+    "t": "2026-11-13T18:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 22
+   },
+   {
+    "t": "2026-11-13T19:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 21
+   },
+   {
+    "t": "2026-11-13T20:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 11
+   },
+   {
+    "t": "2026-11-13T21:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-13T22:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-13T23:00",
+    "temp": 39,
+    "code": 51,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-14T00:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-14T01:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-14T02:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-14T03:00",
+    "temp": 37,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-14T04:00",
+    "temp": 37,
+    "code": 3,
+    "rain": 18
+   },
+   {
+    "t": "2026-11-14T05:00",
+    "temp": 37,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T06:00",
+    "temp": 36,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T07:00",
+    "temp": 34,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T08:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T09:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T10:00",
+    "temp": 40,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T11:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T12:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T13:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T14:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T15:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T16:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T17:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-14T18:00",
+    "temp": 39,
+    "code": 2,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-14T19:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-14T20:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-14T21:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-14T22:00",
+    "temp": 40,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-14T23:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Blink-182 Are Headlining Download for the Very First Time",
+   "blurb": "Download Festival 2027 revealed its lineup Thursday night, and Blink-182, Bring Me The Horizon and Evanescence are your headliners. It runs June 9 to 13 at Donington Park, with more than 100 other bands including M\u00f6tley Cr\u00fce, Turnstile, The Prodigy, The Hives, Pierce The Veil, Hawthorne Heights and Faith No More. Early Bird tickets are already gone, and organizers say it's the fastest-selling Download ever.",
+   "quip": "Blink, Evanescence and Hawthorne Heights on one bill. Somebody check on our 2004 selves.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/download-2027-blink-182-bring-me-the-horizon-and-evanescence-lead-stacked-line-up-3975835"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Xbox Turned 25 and Gave Us Wolfenstein 3",
+   "blurb": "Xbox CEO Asha Sharma spent the console's 25th anniversary handing out announcements, and the big one is that Wolfenstein 3 is officially in production at MachineGames. It's the first mainline Wolfenstein since The New Colossus back in 2017. She also confirmed that id Software is working on a new game. No dates or trailers yet, just a promise of more to share.",
+   "quip": "B.J. Blazkowicz has been on break for nine years. Lunch is over.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/games/fps/wolfenstein-3-is-in-the-works-at-machinegames-xbox-ceo-announces-one-of-gamings-most-important-franchises/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "But Hey, That's Just a Comeback: MatPat Returns to YouTube",
+   "blurb": "MatPat, the Game Theory host who retired from his Theory channels in 2024 after 13 years, just announced a brand-new YouTube channel with his wife, Stephanie. In the announcement video he counts 943 days since his final Theory video. The new channel will cover internet culture, entertainment and tech, with no weekly upload schedule. Stephanie calls it a reset and \"back to basics.\"",
+   "quip": "Our theory: he lasted 943 days before he needed to explain something to somebody.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/youtube/matpat-announces-surprise-youtube-return-with-brand-new-channel-3427943/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Pixar's Gatto Trailer Stars a Stray Cat With Mob Problems",
+   "blurb": "The full trailer for Pixar's Gatto is here, and it looks nothing like a Pixar movie. It mixes a hand-painted 2D style with CG, so the characters look like concept sketches come to life. Mark Ruffalo voices Nero, a small black stray in Venice, and Laurence Fishburne plays Rocco, the cat godfather who is his criminal boss. Luca director Enrico Casarosa is behind it, and the new cast list includes Jason Schwartzman as a cat named Vivaldi.",
+   "quip": "A cat godfather in Venice. He'll make you an offer you can't refuse, then knock it off the table.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/pixar-confirms-its-most-unique-animated-movie-in-years-watch-the-gatto-trailer-now/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "LEGO's Star Wars 50th Sets Include a 3,209-Piece Movie Poster",
+   "blurb": "LEGO announced its first wave of Star Wars 50th anniversary sets, and all seven land January 1, 2027. The showpiece is a 3,209-piece brick version of the original A New Hope poster for $299.99. There's also a 10-inch Luke Skywalker \"minifigure\" in X-Wing pilot gear, a Darth Vader wall art set, and a Stormtrooper helmet based on Ralph McQuarrie's original concept art.",
+   "quip": "A 10-inch minifigure is just a figure. We will not be taking questions.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/lego-star-wars-50th-anniversary-sets/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Gotta Go Watch: Sonic's 35th Anniversary Short Is Out",
+   "blurb": "Sega released Memories and Beyond, a roughly 13-minute animated short for Sonic the Hedgehog's 35th anniversary. Sonic and friends have to stop Dr. Eggman from using the Chaos Emeralds to turn Metal Sonic into the \"ultimate fighting machine.\" The story is by Sonic Team's Takashi Iizuka and it's written by Ian Flynn. Sega says it was a year in the making, and there's a matching t-shirt in the Sega Shop.",
+   "quip": "Thirteen minutes of Sonic. By his standards that's a feature film.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/video-sonics-memories-and-beyond-35th-anniversary-animation-released"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Alexisonfire Announce New Album Bleed It",
+   "blurb": "Alexisonfire have a new album called Bleed It coming March 19 on Dine Alone Records, and the first single, \"Push the River,\" is out now with a video. The band walked into the studio with nothing written and built the record from loops and demos over 16 months. They also have a co-headlining U.S. tour with Poison the Well kicking off March 25, with Touch\u00e9 Amor\u00e9 along for the ride.",
+   "quip": "Showing up to the studio with zero songs is the most relatable thing a band has ever done.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/alexisonfire-new-album-unleash-push-the-river/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Williamsburg Is Getting a New Music Venue at the Domino Sugar Refinery",
+   "blurb": "Domino, a new all-ages, 750-capacity venue, is set to open on the Williamsburg waterfront in April 2027, at the site of the landmarked Domino Sugar Refinery. It's being built and run by tvg Hospitality, the company of Mumford & Sons founder Ben Lovett, and will host concerts, club nights, art and community programs. The venue has also promised not to take a cut of artists' merch sales.",
+   "quip": "A sugar refinery turned concert hall. Finally, a venue where the sweet spot is the whole room.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/domino-venue-brooklyn-williamsburg-waterfront/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Gashapon Machines Are More Than Meets the Eye Now",
+   "blurb": "Bandai is celebrating 50 years of Gashapon capsule machines with a toy capsule machine that transforms into a robot. The Gashapon Station Robo stands about 4 inches tall as a machine and about 6 inches as a robot, and it comes with a gun and three capsules. It launches next April for 11,000 yen, about $70, and pre-orders are already open.",
+   "quip": "We put in a coin and now it's asking us to join the Autobots.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-12/bandai-gashapon-capsule-prize-machine-now-transforms-into-a-robot/.243757"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Hello Kitty Toilet Paper Now Smells Like Dessert",
+   "blurb": "Japanese paper maker Marutomi Seishi teamed up with Sanrio on winter-themed toilet paper with a \"sweets fragrance.\" The light purple rolls show 16 characters, including Hello Kitty, Kuromi, Cinnamoroll and Pompompurin, bundled up and ice skating. It's rolling out across Japan in 12-packs, made entirely from recycled paper. The company has not said which dessert it's supposed to smell like.",
+   "quip": "Mystery dessert scent in the bathroom. That's a bold game to play.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/hello-kitty-is-selling-toilet-paper-that-smells-like-dessert-3427867/"
+  }
+ ]
+}
