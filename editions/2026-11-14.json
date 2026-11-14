@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-14T06:00",
+  "current": {
+   "temp": 38,
+   "feels": 32,
+   "code": 3,
+   "wind": 4
+  },
+  "today": {
+   "hi": 44,
+   "lo": 36,
+   "code": 3,
+   "rain": 8,
+   "sunrise": "2026-11-14T06:41",
+   "sunset": "2026-11-14T16:38"
+  },
+  "tomorrow": {
+   "hi": 46,
+   "lo": 35,
+   "code": 3,
+   "rain": 2
+  },
+  "hourly": [
+   {
+    "t": "2026-11-14T00:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-14T01:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T02:00",
+    "temp": 38,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T03:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T04:00",
+    "temp": 37,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T05:00",
+    "temp": 37,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T06:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T07:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T08:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T09:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T10:00",
+    "temp": 41,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T11:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T12:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T13:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T14:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T15:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-14T16:00",
+    "temp": 42,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T17:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-14T18:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-14T19:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-14T20:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-14T21:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-14T22:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-14T23:00",
+    "temp": 39,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-15T00:00",
+    "temp": 38,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-15T01:00",
+    "temp": 38,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-15T02:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-15T03:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-15T04:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-15T05:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T06:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T07:00",
+    "temp": 35,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T08:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T09:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T10:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T11:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T12:00",
+    "temp": 45,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T13:00",
+    "temp": 46,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T14:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T15:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T16:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T17:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T18:00",
+    "temp": 40,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T19:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T20:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T21:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T22:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T23:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "popculture",
+   "headline": "HUNTR/X Is Going on Tour: KPop Demon Hunters Hits Arenas in 2027",
+   "blurb": "The KPop Demon Hunters \"Golden World Tour\" is official: 35 cities and 61 shows across North America, the UK and Europe, kicking off June 5 in Baltimore. It's an arena show mixing animation, live stunts and performers, and lots of audience participation, with the Saja Boys and Derpy Tiger along for the ride. Newark's Prudential Center gets two shows on June 12, and general tickets go on sale Friday, November 20 at 10 a.m. local time.",
+   "quip": "Start stretching now. Sealing the Honmoon is a full-body workout.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/kpop-demon-hunters-golden-world-tour-dates/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Tap Your Lands: Netflix's Magic: The Gathering Show Is Finally Real",
+   "blurb": "Netflix's Magic: The Gathering animated series has a name, Planeswalker, and it's coming in 2027. The title was revealed at MagicCon Atlanta, and Netflix followed it with a first-look teaser. The story follows Chandra Nalaar, described as \"a volatile pyromancer,\" as she teams up with other legendary Planeswalkers. Netflix first announced a Magic series back in June 2019, so this one has been in the graveyard and back.",
+   "quip": "Seven years of waiting. That's a lot of turns to hold priority.",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/magic-the-gathering-planeswalker-netflix-animated-series-2027"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "The Drunk Liquor Store Raccoon Raised $290K for His Rescuers",
+   "blurb": "Remember the raccoon who fell through the ceiling of a Virginia liquor store last Black Friday, sampled the rum, scotch, moonshine and eggnog, and passed out by the employee toilet? The photos went around the world, and Hanover County's animal shelter put him on \"Trashed Panda\" merch. It has now brought in more than $290,000 for a shelter that usually collects under $20,000 a year in donations. The money is going to new animal housing, toys and a community pet pantry.",
+   "quip": "Worst customer in the store's history, best fundraiser in the county's.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/drunk-raccoon-who-went-viral-passing-out-in-bathroom-raises-290k-for-shelter-that-rescued-him-3428094/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Rosal\u00eda Makes Latin Grammy History With a Third Album of the Year",
+   "blurb": "Rosal\u00eda won Album of the Year at the Latin Grammys in Las Vegas for Lux, making her the first woman to win it three times as a lead artist, after El Mal Querer in 2019 and Motomami in 2022. She also took Song of the Year for \"La Perla\" and opened the show with a three-song Lux medley in a gold gown, surrounded by clouds and dancers in golden halos. She called the album \"a leap into the void.\"",
+   "quip": "Three for three on the big one. At this point just engrave the next trophy in advance.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/rosalia-album-year-award-latin-grammys-performs-lux-medley-3975928"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Darth Vader's Lightsaber Just Sold for $4.875 Million",
+   "blurb": "The lightsaber prop Darth Vader used in the \"I am your father\" duel in The Empire Strikes Back, and throughout Return of the Jedi, sold at auction for $4,875,000. That makes it the most expensive piece of Star Wars memorabilia ever sold at auction. It also beat the record set earlier this year by Luke's lightsaber from the same fight, which went for $3.75 million. The buyer is staying anonymous.",
+   "quip": "The dark side wins this round, and it paid a million-dollar premium to do it.",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/darth-vaders-lightsaber-from-the-empire-strikes-back-just-obliterated-a-star-wars-auction-record-2000839807"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "GTA 6 Has Its Own Cartoon, and the Cartoon Has a Trailer",
+   "blurb": "A new Grand Theft Auto 6 trailer popped up, and it's for a TV show that exists inside the game. Macca and Friends is an animated series about a gang of animal cops, and it's billed as \"coming November 19 on Weazel,\" the in-game TV channel. A Macca and Friends mural and billboard had already turned up in Miami. Rockstar hasn't said how much of the show actually exists.",
+   "quip": "We're going to buy the biggest game of the year and then sit on a virtual couch watching cartoons.",
+   "source": "PC Gamer",
+   "url": "https://www.pcgamer.com/games/grand-theft-auto/new-grand-theft-auto-6-trailer-is-for-a-tv-show-that-exists-within-grand-theft-auto-6/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Dress Like a Pickle Today, Get a Free Picklewich",
+   "blurb": "Today, November 14, is National Pickle Day, and Jimmy John's is doing buy-one, get-one-free Picklewiches for anyone who shows up dressed as a pickle. You don't need a full costume: an all-green outfit counts. The Picklewich swaps the bread for a large pickle, and the chain also rolled out five collectible Pickle Pals plushie keychains.",
+   "quip": "Finally, a use for that green tracksuit that isn't a Luigi costume.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/jimmy-johns-is-giving-away-free-picklewiches-to-customers-who-dress-as-pickles-3428113/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "The High Line's Wild North End Is Back, and Open All Winter",
+   "blurb": "The Rail Yard Preserve, the High Line's northernmost stretch from West 30th to West 34th Street, reopened Friday after a major restoration. It keeps the wild, self-seeded look that inspired the park in the first place, with a smoother new path and restored Art Deco railings. The new path can handle snow removal equipment, so this section can stay open through the winter for the first time. The West 34th Street entrance also got a new garden with 52 trees and shrubs.",
+   "quip": "A snowy walk on the wild side of the High Line. Bring cocoa.",
+   "source": "6sqft",
+   "url": "https://www.6sqft.com/rail-yard-preserve-reopens-bringing-back-the-high-line-wild-beauty/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A 13-Year-Old Cowgirl Lassoed a Sheep That Dodged Everyone for 45 Days",
+   "blurb": "A sheep had been on the loose in Wadsworth, Ohio since September, with a local animal sanctuary and a \"Catching the Wadsworth Sheep\" Facebook event on her trail. After 45 days, 13-year-old Reagan Crumpler and her horse, Catalena, tracked her down in a field and got a rope around her after hours of chasing and near-misses. The sheep is now safe at Whispering Acres Farm Animal Sanctuary and has been named Gerri Reagan after her rescuer.",
+   "quip": "Forty-five days on the run, and it took one 13-year-old with a horse and a rope.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/13/sheep-wadsworth-ohio-lassoed/6691794592131/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "The Sick Alligator Was a Runaway Pool Floatie",
+   "blurb": "Sugar Land Animal Services in Texas got a call about a gator that appeared to be sick. When the officer arrived to investigate, the patient turned out to be an inflatable alligator pool toy. The agency said it looked very real from a distance, called it a \"runaway pool floatie,\" and added that the caller did exactly the right thing.",
+   "quip": "Diagnosis: slow leak. Treatment: bike pump.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/13/sugar-land-texas-inflatable-alligator/4041794588013/"
+  }
+ ]
+}
