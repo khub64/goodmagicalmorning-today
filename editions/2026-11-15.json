@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-15T06:00",
+  "current": {
+   "temp": 38,
+   "feels": 31,
+   "code": 0,
+   "wind": 8
+  },
+  "today": {
+   "hi": 47,
+   "lo": 35,
+   "code": 3,
+   "rain": 1,
+   "sunrise": "2026-11-15T06:42",
+   "sunset": "2026-11-15T16:37"
+  },
+  "tomorrow": {
+   "hi": 46,
+   "lo": 33,
+   "code": 3,
+   "rain": 1
+  },
+  "hourly": [
+   {
+    "t": "2026-11-15T00:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T01:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T02:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T03:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T04:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T05:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T06:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T07:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T08:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T09:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T10:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T11:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T12:00",
+    "temp": 46,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T13:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T14:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T15:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T16:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-15T17:00",
+    "temp": 42,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T18:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T19:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T20:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T21:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T22:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-15T23:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T00:00",
+    "temp": 35,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T01:00",
+    "temp": 35,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T02:00",
+    "temp": 34,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T03:00",
+    "temp": 34,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T04:00",
+    "temp": 34,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T05:00",
+    "temp": 33,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T06:00",
+    "temp": 33,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T07:00",
+    "temp": 33,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T08:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T09:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T10:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T11:00",
+    "temp": 44,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T12:00",
+    "temp": 45,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T13:00",
+    "temp": 46,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T14:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T15:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T16:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T17:00",
+    "temp": 42,
+    "code": 2,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T18:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T19:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T20:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T21:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T22:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T23:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Up the Irons! Jack Black Inducts Iron Maiden Into the Rock Hall",
+   "blurb": "Iron Maiden are officially in the Rock & Roll Hall of Fame as of Saturday night in Los Angeles. The band was busy touring Australia, so Jack Black inducted them and then sang \"The Trooper\" with St. Vincent, Metallica's Kirk Hammett and Robert Trujillo, Rage Against the Machine's Brad Wilk and guitarist John 5. Black named the one-night supergroup \"St. RageTallica 5.\" The ceremony airs December 8 on ABC.",
+   "quip": "Too busy rocking to pick up your rock award is the most Iron Maiden move possible.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/iron-maiden-rock-hall-induction-jack-black-st-vincent-metallica-ratm-motley-crue/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "HBO Just Served a Surprise Look at the Hogwarts Feast",
+   "blurb": "HBO dropped a surprise 90-second clip from its Harry Potter series, showing the start-of-term banquet right after the Sorting. Harry asks if Dumbledore is \"a bit mad,\" Ron confirms it, and then John Lithgow's Dumbledore clicks his fingers and the food appears. The series premieres December 25 on HBO.",
+   "quip": "Our dinner has never once appeared with a finger click, and we've tried.",
+   "source": "Deadline",
+   "url": "https://deadline.com/2026/11/hbo-surprise-harry-potter-clip-hogwarts-banquet-1237224436/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Simple Plan, Hoobastank and The Used Played a Surprise Show Mid-Flight",
+   "blurb": "Passengers on a Southwest flight from Los Angeles to Orlando got a surprise emo night in the aisle on Friday. Hoobastank led the cabin through \"The Reason,\" Simple Plan did \"Perfect\" and \"I'm Just a Kid,\" and The Used played \"The Taste of Ink\" while everyone sang along. The clips are making the rounds on TikTok. All three bands were headed to the final stop of the 2026 Vans Warped Tour.",
+   "quip": "Finally, a middle seat worth fighting for.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/simple-plan-hoobastank-and-the-used-turn-southwest-flight-into-in-air-concert/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "A Self-Deleting Pok\u00e9mon Fishing Game Just Resurfaced After 20 Years",
+   "blurb": "Pok\u00e9Park: Fishing Rally was a Nintendo DS mini game you could only download at a pop-up Pok\u00e9mon theme park in Nagoya in the summer of 2005. It was built to delete itself after 12 hours or when you reset the DS, so it became lost media. Now collector Daniel Quadri has what appears to be the only confirmed fully playable copy, and he says he wants to help preserve it. He already reeled in a Gyarados.",
+   "quip": "A game that deletes itself is just a Magikarp using Splash on your save file.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/long-lost-self-deleting-pokemon-fishing-game-for-nintendo-ds-resurfaces-20-years-later-2000756876"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Ohana Means a New Cat: Lilo & Stitch Is Back in Classic 2D Style",
+   "blurb": "Disney shared the first look at Lilo & Scratch, a new animated short that brings back the look of the original movie. Lilo takes in a mysterious cat that turns out to be a lot more chaos than she and Stitch planned for. Chris Sanders is back as the voice of Stitch, and it plays in theaters before Hexed starting November 25. It's the first new short from Walt Disney Animation Studios in five years.",
+   "quip": "Stitch meeting a cat is Experiment 626 finally meeting his match.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/movies/news/lilo-stitch-drops-first-look-at-new-animated-revival-ahead-of-release-in-theaters/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "The Philippines Wins the Very First Eurovision Asia",
+   "blurb": "Eurovision Asia held its first-ever final in Bangkok on Saturday, with 11 countries competing. The winner is 19-year-old Carmelle from the Philippines, whose song \"Sobra-Sobra\" scored 211 points and topped both the jury and the public vote. The song mixes dance-pop and rap with traditional Filipino instruments. Bangladesh's entry performed entirely a cappella, with beatboxing for the drums and bass.",
+   "quip": "Eurovision, but in Asia, and still nobody can explain the name. We love it.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/philippines-crowned-first-eurovision-asia-winners-as-carmelle-triumphs-with-sobra-sobra-3975977"
+  },
+  {
+   "slot": "main",
+   "category": "tech",
+   "headline": "Giant Robot Chopsticks Just Caught a Starship From Orbit",
+   "blurb": "SpaceX caught the Starship upper stage for the first time, grabbing it out of the air with the arms of the same South Texas launch tower it left from. The Ship spent roughly 22 hours in orbit on the 15th test flight before coming back down. SpaceX has caught boosters this way before, but never the Ship itself. The tower's nickname is Mechazilla, which is correct.",
+   "quip": "We can't catch our keys when someone tosses them from three feet away.",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2316926/watch-spacex-attempt-to-catch-the-starship-upper-stage-for-the-first-time/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Midtown Now Has a Three-Lane Snow Tubing Slide",
+   "blurb": "The Herald Holiday Fair is open in Greeley Square, at 33rd Street and Broadway, and this year it has a brand-new Snow Slide. It's three lanes of tubing right next to the double-decker Christmas carousel, and a $15 ticket gets you three runs. Rides go daily from 10 AM to 10 PM. A holiday market joins the fun in Herald Square starting December 2.",
+   "quip": "Sledding to Macy's is the only acceptable way to commute in December.",
+   "source": "Secret NYC",
+   "url": "https://secretnyc.co/nyc-first-of-its-kind-snow-slide-herald-holiday-fair/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Peacock Broke Into a House Just to Stare at Himself",
+   "blurb": "A couple in a suburb of Brisbane, Australia came home from an evening coffee and found a peacock in their bathroom, gazing into the vanity mirror. He wouldn't leave it, even for crackers. The bird turned out to be Hex, a tattoo artist's missing pet, and he spent a week on the run with hundreds of locals tracking his sightings. A family friend finally grabbed him by the legs, and Hex is back home with his peahen, Nyx.",
+   "quip": "Honestly, if we looked like a peacock, we'd break in to check too.",
+   "source": "Upworthy",
+   "url": "https://www.upworthy.com/pn-runaway-pet-peacock-mirror-rescue/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Pluto Might Be Getting a New Dwarf Planet Buddy",
+   "blurb": "Astronomers using the Vera C. Rubin Observatory found a giant icy world out beyond Pluto, roughly 1,000 kilometers across. For now it's called 2026 ED138, and if it's confirmed it would be the sixth official dwarf planet, joining Pluto, Ceres, Eris, Haumea and Makemake. The team says it's the largest object found past Neptune in about 20 years, and it was spotted while the telescope was still being set up.",
+   "quip": "ED138 is a terrible name. We're calling it Pluto's Little Buddy until further notice.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+  }
+ ]
+}
