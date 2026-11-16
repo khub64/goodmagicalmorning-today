@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-16T06:00",
+  "current": {
+   "temp": 35,
+   "feels": 30,
+   "code": 0,
+   "wind": 4
+  },
+  "today": {
+   "hi": 51,
+   "lo": 35,
+   "code": 3,
+   "rain": 1,
+   "sunrise": "2026-11-16T06:43",
+   "sunset": "2026-11-16T16:36"
+  },
+  "tomorrow": {
+   "hi": 52,
+   "lo": 34,
+   "code": 3,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-11-16T00:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T01:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T02:00",
+    "temp": 39,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T03:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T04:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-16T05:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T06:00",
+    "temp": 35,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T07:00",
+    "temp": 35,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T08:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T09:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T10:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T11:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T12:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T13:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T14:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T15:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T16:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T17:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T18:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T19:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T20:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T21:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T22:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-16T23:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T00:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T01:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T02:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T03:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T04:00",
+    "temp": 35,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T05:00",
+    "temp": 34,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T06:00",
+    "temp": 34,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T07:00",
+    "temp": 34,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T08:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T09:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T10:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T11:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T12:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T13:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T14:00",
+    "temp": 52,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T15:00",
+    "temp": 52,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T16:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T17:00",
+    "temp": 46,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T18:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T19:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T20:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T21:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T22:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T23:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "It's GTA 6 Week: Vice City Unlocks at Midnight Thursday",
+   "blurb": "We have officially reached launch week. Grand Theft Auto 6 arrives Thursday, November 19 on PS5 and Xbox Series X and S, 13 years after the last entry in 2013. It unlocks at midnight local time around the world, which means New Zealand gets the keys first. Preloads are already live, so start clearing space now.",
+   "quip": "Everyone suddenly has a mysterious cough scheduled for Thursday.",
+   "source": "Pure Xbox",
+   "url": "https://www.purexbox.com/guides/gta-6-release-times-all-the-key-details-xbox-players-need-to-know"
+  },
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Foo Fighters Announce a Giant 2027 Stadium Tour With Friends",
+   "blurb": "Foo Fighters are hitting UK and European stadiums next summer, starting June 9 in Reykjavik and wrapping September 18 at Dublin's Croke Park, with two Wembley Stadium nights on September 9 and 11. The support bill is ridiculous: Iggy Pop, Queens of the Stone Age, Garbage, St. Vincent, The Hives, Slowdive and more. Dave Grohl told NME these shows are the tour's \"final hundred yards.\"",
+   "quip": "That's not a list of opening acts, that's a whole festival with a headliner.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/foo-fighters-2027-uk-european-tour-interview-dates-tickets-support-acts-3975793"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Seoul's Viral Scarf Man Keeps Begging People Not to Buy His Scarves",
+   "blurb": "A scarf seller at Seoul's Namdaemun Market went viral in late October for talking customers out of buying: the scarf doesn't suit you, you're overspending, you won't even wear it. The clips pulled in millions of views, and the crowds got so big he had to hire security. So he opened an online store with the warning \"Absolutely no overspending.\" It logged more than 157,000 visits and everything sold out.",
+   "quip": "The only salesman on Earth whose pitch is \"please go home.\"",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/south-koreas-viral-scarf-man-begs-shoppers-to-stop-buying-as-police-manage-crowds-3428338/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Red Hot Chili Peppers Played the Rock Hall Dressed as Five Rick Rubins",
+   "blurb": "Rick Rubin was inducted into the Rock & Roll Hall of Fame on Saturday night, introduced by Neil Young. His whole speech: \"You can't kill rock and roll. Thank you.\" Then five fake Rick Rubins walked out. It was the Red Hot Chili Peppers in masks, beards and matching hair, tearing through \"Give It Away\" while the real Rubin gave them a standing ovation.",
+   "quip": "Give it away, give it away, give it away now. The beard, specifically.",
+   "source": "Loudwire",
+   "url": "https://loudwire.com/red-hot-chili-peppers-rick-rubin-rock-hall-of-fame/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Believe! Ted Lasso and Rebecca Reunite for a Dolly Duet",
+   "blurb": "Three years after their version of \"Shallow\" went viral, Jason Sudeikis and Hannah Waddingham got back onstage together at the annual Thundergong! benefit. This time the Ted Lasso co-stars sang \"Islands in the Stream\" as a Dolly Parton tribute. Sudeikis started it solo, then Waddingham walked out and took it to another level. The benefit supports amputees through the Steps of Faith Foundation.",
+   "quip": "Sudeikis brought the biscuits. Waddingham brought the vocals.",
+   "source": "Deadline",
+   "url": "https://deadline.com/2026/11/jason-sudeikis-hanna-waddingham-islands-in-the-stream-1237224834/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "A Fan-Designed Detergent Robot Is Mega Man's Newest Boss",
+   "blurb": "Capcom picked the winner of its Mega Man: Dual Override Robot Master design contest, and it is Cleanser Man, a detergent-themed robot submitted by an artist called iregyuradabii. He will show up as a real boss in the game, and the other five finalists get their names in the credits. Dual Override hits Switch and Switch 2 in spring 2027.",
+   "quip": "Finally, a boss whose weakness is a red sock in the whites.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/mega-man-dual-override-reveals-robot-master-design-contest-winner"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "A Modder Turned the Nintendo DS Into a Home Console",
+   "blurb": "Meet the DualStation. Modder KOUZEX built it around an original DS motherboard, and it puts both screens on your TV over HDMI at 60Hz. It runs real DS and Game Boy Advance cartridges, works with Bluetooth controllers, and handles the touch screen with a mouse, a Joy-Con or even a drawing tablet. The plan is to sell both self-install kits and pre-built systems down the line.",
+   "quip": "Nintendogs on a 65-inch TV. The puppies are now life-size.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/random-modder-transforms-ds-into-a-home-console-and-its-super-cool"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "One Guy in Syracuse Makes Every Subway Mosaic, and He Won't Be Rushed",
+   "blurb": "When a station-name mosaic needs replacing, the MTA calls exactly one person: Robert Shenfeld, a 73-year-old former art teacher with a ceramic studio 250 miles north in Syracuse. His team has recreated mosaics at 50 stations by hand, including Brooklyn's Borough Hall, which took more than 300 color tests to match 60 different colors. Union Square is on his workbench now.",
+   "quip": "He told the head of NYC Transit he might retire. The answer: \"You're not retiring.\"",
+   "source": "Gothamist",
+   "url": "https://gothamist.com/news/meet-the-syracuse-tile-guy-with-a-monopoly-on-nyc-subway-mosaics"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A 13-Year-Old Invented a Solar Tracker to Dodge a Christmas Chore",
+   "blurb": "Jason Chang, a seventh grader in Massachusetts, was tired of his mom asking him to move the family's solar-powered Christmas lights into the sun. So he built a seesaw-style solar tracker that uses dripping water and gravity to tilt the panel all day. No motor, no sensor, no electricity. The prototype cost under $25 and made about 20 percent more voltage than a panel sitting still in outdoor tests.",
+   "quip": "Never underestimate what a kid will engineer to avoid going outside.",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2313927/13-year-old-solving-solar-panel-limitation/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "TSA Officer Checks a Pillowcase. The Pillowcase Wiggles.",
+   "blurb": "At Ontario International Airport in California, TSA officer Benjamin Andrade-Carillo thought he was holding a bundle of rope inside a pillowcase. Then it moved. Inside were two live pet snakes. Nobody was hurt, and the passenger handed the snakes off to a family member who wasn't flying. The officer says his previous weirdest find was a man with live lobsters in his carry-on.",
+   "quip": "Samuel L. Jackson has been warning us about this exact thing since 2006.",
+   "source": "The Mary Sue",
+   "url": "https://www.themarysue.com/tsa-officer-at-ontario-international-airport-grabs-a-pillowcase-out-of-a-passengers-bag-then-he-feels-it-move-i-need-to-escalate-this-immediately/"
+  }
+ ]
+}
