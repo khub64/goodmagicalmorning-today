@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-17",
+ "generatedAt": "2026-11-17T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-17T06:00",
+  "current": {
+   "temp": 37,
+   "feels": 30,
+   "code": 0,
+   "wind": 5
+  },
+  "today": {
+   "hi": 59,
+   "lo": 36,
+   "code": 0,
+   "rain": 0,
+   "sunrise": "2026-11-17T06:44",
+   "sunset": "2026-11-17T16:36"
+  },
+  "tomorrow": {
+   "hi": 62,
+   "lo": 39,
+   "code": 3,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-11-17T00:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T01:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T02:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T03:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T04:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T05:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T06:00",
+    "temp": 37,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T07:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T08:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T09:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T10:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T11:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T12:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T13:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T14:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T15:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T16:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T17:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T18:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T19:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T20:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T21:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T22:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-17T23:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T00:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T01:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T02:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T03:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T04:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T05:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T06:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T07:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T08:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T09:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T10:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T11:00",
+    "temp": 53,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T12:00",
+    "temp": 56,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T13:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T14:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T15:00",
+    "temp": 62,
+    "code": 1,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T16:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T17:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T18:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T19:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T20:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T21:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T22:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T23:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Pattinson. Robert Pattinson. Batman Is the New 007",
+   "blurb": "It's official: Robert Pattinson is the new James Bond, and the official Bond account already dropped a first look. He takes over from Daniel Craig, who left the tux behind after 2021's No Time to Die. His first mission is Bond 26, directed by Dune's Denis Villeneuve, with no release date set yet. Five years of casting speculation, finally shaken and stirred.",
+   "quip": "Same guy, new car, still brooding in a tuxedo. We are so back.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/entertainment/james-bond-movies/robert-pattinson-james-bond-confirmed-first-look/"
+  },
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Grammy Noms Are Here, and RAYE Leads the Pack With 11",
+   "blurb": "The 2027 Grammy nominations dropped, with RAYE out front at 11 nods. Album of the Year features Phoebe Bridgers, Olivia Dean, Ella Langley, Bruno Mars, RAYE, Olivia Rodrigo, Rosal\u00eda and Taylor Swift, who just tied Frank Sinatra for the most AOTY noms ever with her eighth. Geese and Tinashe are among the first-time nominees. The show is February 7 in Los Angeles.",
+   "quip": "Start your office pool now. Pep already has a spreadsheet.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2518141/album-of-the-year-grammy-nominees-2027-include-rosalia-phoebe-bridgers-taylor-swift/news/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "KFC Is Throwing a Fake Funeral So You Can Skip Work for GTA 6",
+   "blurb": "A KFC in Robina, Queensland, Australia, is holding a full memorial for one Ann Alibi, timed to start right as Grand Theft Auto 6 goes live. The invite promises a hearse, a coffin, a book of condolences and a eulogy from a surprise guest. Mourners get free fried chicken. Brands are going wild ahead of Thursday's launch.",
+   "quip": "Rest in peace, Ann. You were the excuse we needed.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/gta/kfc-is-hosting-a-fake-funeral-so-gta-6-fans-can-take-the-day-off-3428598/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Shigeru Miyamoto Gets the First-Ever D.I.C.E. Legend Award",
+   "blurb": "The Academy of Interactive Arts & Sciences will give Mario and Zelda creator Shigeru Miyamoto its brand-new Legend Award at the 30th D.I.C.E. Awards on February 18, 2027. The award will only be handed out once per decade. These days he's busy with Nintendo's movies and theme parks, but he'll always be the guy who gave us the Mushroom Kingdom.",
+   "quip": "Only once a decade? For Miyamoto they should hand it out annually.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Hayley Williams Curates Outbreak Fest, With American Football Along for the Ride",
+   "blurb": "Hayley Williams is headlining both nights of Manchester's Outbreak Fest on June 19 and 20, 2027, billed as The Hayley Williams Show. She also curated the lineup, with American Football, Dinosaur Jr. and Wednesday at the top. Julien Baker, Mannequin Pussy, Soul Glo and Rival Schools are among the 34 acts announced so far, with more on the way.",
+   "quip": "An emo kid's dream bill. Somebody pack us a hoodie and a passport.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/outbreak-fest-2027-lineup-hayley-williams/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Spider-Man: Brand New Day Swings Back With an Extended Cut",
+   "blurb": "An extended cut of Spider-Man: Brand New Day hits theaters December 4, promising new scenes and a couple more surprises. It lands just ahead of Avengers: Doomsday, and tickets go on sale Thursday. The original web-slung its way into theaters back on July 31.",
+   "quip": "More Tom Holland, more surprises. Our popcorn budget is not ready for December.",
+   "source": "Bleeding Cool",
+   "url": "https://bleedingcool.com/movies/an-extended-cut-of-spider-man-brand-new-day-comes-to-theaters-dec-4th/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Taco Bell Pours Zero-Sugar Baja Midnight, Naked Chicken Chalupa Returns",
+   "blurb": "Taco Bell launched Mountain Dew Baja Midnight Zero Sugar nationwide, the same passionfruit flavor with no sugar or calories, starting at $2.59 for a small. Even better, the Naked Chicken Chalupa is coming back, the one where the shell is literally fried chicken. It'll run $5.99, with a nationwide date still to come.",
+   "quip": "The shell is chicken. The drink is midnight. Fourth meal has never been so powerful.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/taco-bells-launches-new-baja-blast-alongside-naked-chicken-chalupa-return-3428604/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "BagelFest Took Over Citi Field, and Every Sample Was Free",
+   "blurb": "Thousands of people packed Citi Field on Saturday for BagelFest, where 27 bagel makers from around the world handed out free samples. Dallas-based Starship Bagels went for a third straight Best Bagel title with a s'mores bagel, while Bodega Bagels came all the way from Belfast with Guinness-infused bagels. Madrid's Sisi Bagels made New York pizza bagels just for us.",
+   "quip": "Citi Field finally hosted a lineup with no strikeouts.",
+   "source": "amNY",
+   "url": "https://www.amny.com/lifestyle/battle-best-bagel-at-bagelfest/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Yo, Adrian! 570 Rockys Just Set a World Record in Philly",
+   "blurb": "For Rocky's 50th anniversary, 570 fans in full Balboa gear, gray hoodie, gray sweatpants, black knit hat and black high-tops, gathered on the Philadelphia Museum of Art steps for a Guinness World Record. Guinness only needed 250. Once it was official, the whole crowd ran up the steps for a group photo.",
+   "quip": "Somewhere a trumpet is playing and 570 people are punching the air.",
+   "source": "NY1 (AP)",
+   "url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/11/13/50-years-after-iconic-film-a-gathering-of-rocky-fans-in-philadelphia-breaks-a-world-record"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Banana Man Rides Again: A Kid in a Costume Is His Town's Superhero",
+   "blurb": "A boy in Linton, Indiana, put on a banana costume his mom found at Goodwill and rode his bike around town as a joke. People loved it so much he became Banana Man, a local legend. Residents wave and honk when he pedals by, a girls' cross-country team ran in his honor, and his autographed cards are now collector's items.",
+   "quip": "Not every hero wears a cape. Some wear a peel.",
+   "source": "Sunny Skyz",
+   "url": "https://www.sunnyskyz.com/good-news/6356/Banana-Man-Has-Become-an-Unlikely-Superhero-Bringing-Smiles-to-an-Indiana-Town"
+  }
+ ]
+}
