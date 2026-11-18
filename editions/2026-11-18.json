@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-18",
+ "generatedAt": "2026-11-18T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-18T06:00",
+  "current": {
+   "temp": 40,
+   "feels": 34,
+   "code": 0,
+   "wind": 5
+  },
+  "today": {
+   "hi": 62,
+   "lo": 39,
+   "code": 0,
+   "rain": 0,
+   "sunrise": "2026-11-18T06:46",
+   "sunset": "2026-11-18T16:35"
+  },
+  "tomorrow": {
+   "hi": 62,
+   "lo": 41,
+   "code": 0,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-11-18T00:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T01:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T02:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T03:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T04:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T05:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T06:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T07:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T08:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T09:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T10:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T11:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T12:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T13:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T14:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T15:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T16:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T17:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T18:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T19:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T20:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T21:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T22:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-18T23:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T00:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T01:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T02:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T03:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T04:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T05:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T06:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T07:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T08:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T09:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T10:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T11:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T12:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T13:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T14:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T15:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T16:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T17:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T18:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T19:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T20:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T21:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T22:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T23:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Glastonbury 2027: Harry Styles, Billie Eilish, Sam Fender and Cher!",
+   "blurb": "Glastonbury dropped its 2027 poster by surprise today, and Sam Fender, Harry Styles and Billie Eilish are headlining Worthy Farm next June. All three are under 35, making them the youngest headliners in the festival's history. Cher takes the Sunday legends slot, with Massive Attack, Robyn, Kraftwerk, The xx and Little Simz also on the bill. It's the first Glasto since 2025 after this summer's fallow year.",
+   "quip": "Cher in the legends slot is the most Glastonbury sentence ever written.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/glastonbury-2027-line-up-announced-headliners-3976266"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "GTA 6 Grabs 8 Game Awards Nominations Before It Even Launches",
+   "blurb": "The Game Awards 2026 nominees are out, and Grand Theft Auto 6 leads with eight nods, two days before release. It's up for Game of the Year against 007 First Light, Control Resonant, Phantom Blade Zero, Resident Evil Requiem and the Ocarina of Time remake. Nintendo is the most-nominated publisher with 12. Winners are revealed December 10 in Los Angeles, and fan voting is open until December 9.",
+   "quip": "Imagine getting nominated for prom king before you've even shown up to school.",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/game-awards-2026-nominees-full-list-gta-6"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Kevin McCallister Is Home Alone at McDonald's Now",
+   "blurb": "Macaulay Culkin is back as a grown-up Kevin in a new McDonald's ad for a Home Alone Happy Meal arriving December 1. He wanders into an empty McDonald's, declares he made everyone disappear again, messes with the McFlurry machine and serves himself a \"Big McCallister.\" It's his fourth Home Alone throwback commercial since 2018.",
+   "quip": "Somewhere, the Wet Bandits are filing for royalties.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/macaulay-culkin-home-alone-mcdonalds-commercial/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "When We Were Young Is Back for 2027 With Blink-182 on Top",
+   "blurb": "After skipping 2026, When We Were Young returns to the Las Vegas Festival Grounds on October 16, 2027. Blink-182 and Pierce the Veil headline, with Third Eye Blind, Limp Bizkit, Taking Back Sunday, New Found Glory, Simple Plan, All Time Low and Wheatus on the poster too. Presale sign-ups are open now.",
+   "quip": "Dust off the studded belt. It still fits. Probably.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2518452/when-we-were-young-announces-2027-lineup-with-blink-182-limp-bizkit-third-eye-blind-more/news/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Only Murders Heads to London With Three Doctors in Tow",
+   "blurb": "The first trailer for Season 6 confirms the Hulu show is now called Only Murders in London. Steve Martin, Martin Short and Selena Gomez are joined by three former Doctor Who stars: David Tennant, Peter Capaldi and Jodie Whittaker. Olivia Colman, Nicola Coughlan, Jim Broadbent, Richard Ayoade and Martin Freeman are in it too.",
+   "quip": "Three Doctors and still nobody can solve a murder? Allons-y anyway.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/tv-shows/news/only-murders-in-the-building-changes-title-for-season-6-reveals-all-3-doctor-whos-in-the-cast/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Bus Driving DLC Sends Euro Truck Simulator 2 to a Record 100K Players",
+   "blurb": "Euro Truck Simulator 2's new Coaches DLC, which lets you drive passenger buses across Europe, launched November 12. Three days later the 14-year-old game hit an all-time Steam record of 101,783 concurrent players, smashing its old high of 73,887 from February.",
+   "quip": "GTA 6 is out tomorrow, and 100,000 people would rather check tickets on a bus. Respect.",
+   "source": "GamesRadar",
+   "url": "https://www.gamesradar.com/games/simulation/after-14-years-on-steam-euro-truck-simulator-2-devs-are-in-disbelief-as-new-dlc-pushes-the-game-over-100-000-concurrent-players/"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Burger King's Chocolate Whopper Swaps the Beef for a Brownie",
+   "blurb": "Burger King Korea is making its Chocolate Whopper real: a brownie patty between chocolate buns, with jelly tomatoes and onions, chocolate lettuce and pickles, plus Nutella and raspberry sauce. It launches November 19 at the chain's Flameground flagship in Seoul for 9,800 won, with limited batches each day. It started as an April Fools' joke back in 2018.",
+   "quip": "The prank that became a dessert. Have it your way, indeed.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/burger-king-is-releasing-a-chocolate-whopper-packed-with-dessert-toppings-3429033/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "You Can Adopt the Whale That Breached by Chelsea Piers",
+   "blurb": "A humpback whale swam up into the Upper Bay last Thursday, breaching between Chelsea Piers, Pier 40 and Brookfield Place. Gotham Whale says it's a newcomer, the 515th humpback they've documented around NYC since 2012, and it has since safely headed back out past East Rockaway Inlet. For $100 you can symbolically adopt it and support the nonprofit.",
+   "quip": "Best holiday gift idea yet: a whale who doesn't pay rent.",
+   "source": "6sqft",
+   "url": "https://www.6sqft.com/you-can-adopt-the-hudson-river-humpback-whale/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "James Blunt Is Now Ryan Air, Because a Promise Is a Promise",
+   "blurb": "James Blunt vowed to change his name to Ryan Air if his album Airplane Mode hit Number One in the UK. It did, his first chart-topper in 19 years, and he posted his name change application on Instagram. The paperwork reads \"Ryan Bel Air,\" and he says it cost him \u00a353.05.",
+   "quip": "You're beautiful. Please keep your seatbelt fastened.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/james-blunt-legally-changes-name-to-ryan-air-after-scoring-number-one-album-3976308"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "The West Coast's First Sea Turtle Babies Just Hit the Pacific",
+   "blurb": "In late September, olive ridley sea turtles laid the first nests ever recorded on the West Coast, on Southern California beaches. With a storm coming, the eggs were moved to the Aquarium of the Pacific in Long Beach. The hatchlings were released on Orange County beaches over the weekend and scurried down to the water on their own.",
+   "quip": "California really is where everybody goes to make it big.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/west-coasts-first-ever-sea-turtle-hatchlings-released-into-the-pacific-look/"
+  }
+ ]
+}
