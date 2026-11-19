@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-19",
+ "generatedAt": "2026-11-19T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-19T06:00",
+  "current": {
+   "temp": 42,
+   "feels": 36,
+   "code": 0,
+   "wind": 5
+  },
+  "today": {
+   "hi": 61,
+   "lo": 41,
+   "code": 3,
+   "rain": 0,
+   "sunrise": "2026-11-19T06:47",
+   "sunset": "2026-11-19T16:34"
+  },
+  "tomorrow": {
+   "hi": 64,
+   "lo": 41,
+   "code": 3,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-11-19T00:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T01:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T02:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T03:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T04:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T05:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T06:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T07:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T08:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T09:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T10:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T11:00",
+    "temp": 56,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T12:00",
+    "temp": 59,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T13:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T14:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T15:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T16:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T17:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T18:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T19:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T20:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T21:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T22:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-19T23:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T00:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T01:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T02:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T03:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T04:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T05:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T06:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T07:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T08:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T09:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T10:00",
+    "temp": 55,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T11:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T12:00",
+    "temp": 62,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T13:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T14:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T15:00",
+    "temp": 64,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T16:00",
+    "temp": 60,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T17:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T18:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T19:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T20:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T21:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T22:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T23:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Welcome to Vice City: GTA 6 Is Out and Tied for Best Game Ever",
+   "blurb": "Grand Theft Auto 6 is rolling out right now on PS5 and Xbox Series X/S, launching at midnight local time around the world. The reviews landed first, and they're glowing: a 99 on Metacritic, tying The Legend of Zelda: Ocarina of Time for the highest-rated game of all time. Critics say it mixes Red Dead Redemption 2's immersion with GTA V's freedom.",
+   "quip": "Thirteen years of waiting, and it turns out it was worth every single meme.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/gta-6-review-scores-highest-rated-game-metacritic/"
+  },
+  {
+   "slot": "top",
+   "category": "tech",
+   "headline": "Voyager 1 Is Now One Whole Light-Day From Home",
+   "blurb": "NASA estimates Voyager 1 crossed the one light-day mark on November 18, making it the first human-made object ever to get that far. A message to the probe now takes 24 hours to arrive, and another 24 hours for the reply. It launched back in 1977 and has been in interstellar space since 2012. Still going, still texting back.",
+   "quip": "Forty-nine years on the road and it still has better signal than the subway.",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2320267/nasa-voyager-1-space-probe-one-light-day-away-from-earth/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Squidward's Bold and Brash Painting Is Worth $58,560 Now",
+   "blurb": "A one-of-a-kind gold Superfractor card of Squidward's famous Bold and Brash self-portrait sold for $58,560 at a Goldin auction. It comes from Topps' SpongeBob 25th anniversary set, and PSA's post about the sale had fans cracking up. In the 2001 episode, an art collector said it belonged in the trash. Who's laughing now, Monty P. Moneybags?",
+   "quip": "Squidward finally got his gallery moment. It only took 25 years and a foil finish.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/spongebob-squarepants-trading-card-of-squidwards-trash-painting-sells-for-nearly-60000-3429426/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Taylor Swift Went Back to the CMAs for the First Time in 13 Years",
+   "blurb": "Taylor Swift returned to the CMA Awards stage Wednesday night in Nashville, her first performance there since 2013. She walked through the arena hallways singing \"I Knew It, I Knew You\" from the Toy Story 5 soundtrack, joined by stars like Brad Paisley and Lainey Wilson. Then Keith Urban grabbed a banjo for \"Our Song\" from her debut album. Her outfit? Very Jessie from Toy Story.",
+   "quip": "Yee-haw meets You've Got a Friend in Me. We're not crying, you're crying.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/taylor-swift-2026-cma-awards-performance/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Turn Up the Radio: Weird Al Is a DJ in GTA 6",
+   "blurb": "Kotaku confirmed with Rockstar that Weird Al Yankovic is one of the two hosts on Vice City FM, GTA 6's '80s hits station. His on-air persona is extra wild, sometimes screaming about a song or a past life experience. Sadly, none of his own parodies made the playlist.",
+   "quip": "Dare to Be Stupid while doing 90 down Ocean Drive. Sounds about right.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/yes-thats-weird-al-hosting-a-radio-station-in-gta-6-2000758140"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Waka Waka! Pac-Man Floats Back Into the Macy's Parade",
+   "blurb": "A new animated short shows Blinky, Inky, Clyde and Pinky leading the Pac-Man balloon at Macy's 100th Thanksgiving Day Parade. He's back after his parade debut last year, along with Goku, Mario, Pikachu, Eevee and KPop Demon Hunters' Derpy Tiger and Sussie. Hello Kitty is getting a brand new balloon too.",
+   "quip": "For once the ghosts are chasing Pac-Man for a good reason.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-18/pac-man-new-animated-short-reveals-return-to-macy-thanksgiving-parade/.243943"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "WoW: Forever Has Azeroth Busier Than It's Been in 15 Years",
+   "blurb": "World of Warcraft: Forever has more people playing weekly than WoW has seen in 15 years, according to Blizzard VP Holly Longdale. The remixed take on the original world has only been out for two weeks. And the raids don't even unlock for another three weeks.",
+   "quip": "Leeroy Jenkins would like everyone to know he's back and has learned nothing.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/world-of-warcraft-forever-just-broke-15-year-old-record-2000758182"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "The East River Esplanade Is One Big 3.5-Mile Stroll Again",
+   "blurb": "The stretch of the East River Esplanade between East 72nd and East 78th streets reopened Wednesday after more than four years of construction. That links up about 3.5 miles of waterfront path from East Harlem to East Midtown. The fix-up added a stronger seawall, new pavers, landscaping and outdoor fitness equipment.",
+   "quip": "Sixty blocks of river views and zero crosswalks. Lace up those sneakers.",
+   "source": "Patch",
+   "url": "https://patch.com/new-york/upper-east-side-nyc/east-river-esplanade-reopens-connecting-3-5-miles-waterfront"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Man Painted Lady Liberty in 43.5 Seconds Flat",
+   "blurb": "Performance painter David Garibaldi set a Guinness World Record for the fastest time to paint a landmark statue, knocking out the Statue of Liberty in 43.5 seconds from the NYC waterfront. It's one of the new records for Guinness World Records Day, which is today. Others include 249 rope skips in one minute while wearing flip flops.",
+   "quip": "It took longer to read this blurb than to paint a national monument.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/19/Guinness-World-Records-Day-2026/1211795031689/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "This Good Boy Joined a Coyote Pack and Never Looked Back",
+   "blurb": "A Tucson woman's backyard wildlife camera caught a pack of coyotes stopping by her water bowl with a big dog tagging along. The pack keeps coming back, and the dog comes with them every time. She named him Sombra, Spanish for \"shadow.\" The local animal center is keeping an eye out and will step in if he needs help.",
+   "quip": "Some dogs want a couch. Sombra wanted a gang.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/18/tucson-dog-coyote-pack/4721795027869/"
+  }
+ ]
+}
