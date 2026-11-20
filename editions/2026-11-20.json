@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-20",
+ "generatedAt": "2026-11-20T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-20T06:00",
+  "current": {
+   "temp": 42,
+   "feels": 36,
+   "code": 0,
+   "wind": 6
+  },
+  "today": {
+   "hi": 68,
+   "lo": 41,
+   "code": 3,
+   "rain": 0,
+   "sunrise": "2026-11-20T06:48",
+   "sunset": "2026-11-20T16:34"
+  },
+  "tomorrow": {
+   "hi": 63,
+   "lo": 42,
+   "code": 45,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-11-20T00:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T01:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T02:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T03:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T04:00",
+    "temp": 47,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T05:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T06:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T07:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T08:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T09:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T10:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T11:00",
+    "temp": 61,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T12:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T13:00",
+    "temp": 67,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T14:00",
+    "temp": 68,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T15:00",
+    "temp": 67,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T16:00",
+    "temp": 65,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T17:00",
+    "temp": 58,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T18:00",
+    "temp": 57,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T19:00",
+    "temp": 54,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T20:00",
+    "temp": 53,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T21:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T22:00",
+    "temp": 51,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-20T23:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T00:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T01:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T02:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T03:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T04:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T05:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T06:00",
+    "temp": 42,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T07:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T08:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T09:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T10:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T11:00",
+    "temp": 60,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T12:00",
+    "temp": 62,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T13:00",
+    "temp": 63,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T14:00",
+    "temp": 61,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T15:00",
+    "temp": 59,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T16:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T17:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T18:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T19:00",
+    "temp": 51,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T20:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T21:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T22:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-21T23:00",
+    "temp": 48,
+    "code": 45,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Invincible Season 5 Teaser Says Sorry for the Hell Side Quest",
+   "blurb": "Prime Video dropped the first Invincible Season 5 teaser, and it's back in the classic Burger Mart booth. This time Mark sits across from Damien Darkblood and grumbles about getting dragged to Hell for a side quest last season, the exact complaint fans had. Damien makes a \"demon promise\" not to do it again, while disguised Viltrumites Kregg, Anissa and Lucan hang out in the diner.",
+   "quip": "A demon promise is legally binding in at least three dimensions.",
+   "source": "ComicBook.com",
+   "url": "https://comicbook.com/tv-shows/news/invincible-season-5-first-trailer-just-apologized-to-fans-for-season-4s-weirdest-episode/"
+  },
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "GTA 6 Broke the Internet's Download Record. Twice.",
+   "blurb": "Internet exchange DE-CIX says GTA 6 downloads peaked at 33.03 terabits per second the night before launch, enough for 13 copies of the game every second. That's a new record, beating the one GTA 6 set a week earlier when downloads opened on November 10. With no physical edition, every player had to pull down 200-plus gigs.",
+   "quip": "Somewhere a router is lying in a dark room with a cold towel on its face.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/gta-6-release-was-so-big-it-broke-internet-download-records-twice-in-one-week-2000758654"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Umamusume's Horse Girls Are Galloping Into a Broncos Game",
+   "blurb": "The anime horse girls of Umamusume: Pretty Derby keep popping up at real sports events, and now the Denver Broncos made it official. At the December 6 home game against the Dolphins, Gold Ship and Mejiro McQueen take over the stadium screens and LED ribbon, with life-size cutouts, postcards and rally flags at a booth near Gate 8. You don't even need a game ticket for the booth.",
+   "quip": "Finally, a football game with the correct number of horses.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/umamusume-horse-girls-are-taking-over-a-denver-broncos-nfl-game-3430038/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Deryck Whibley Rebuilds Sum 41's Classics for His First Solo Album",
+   "blurb": "Sum 41's Deryck Whibley announced Diamonds of the Night: Vol. 1, out March 19, 2027 on Rise Records. It reworks 12 Sum 41 songs, including Fat Lip, Still Waiting and Over My Head, with live strings and piano. The first single is a \"First Dance Version\" of With Me, and a European tour follows in April.",
+   "quip": "Fat Lip with a string section is the glow-up our inner skate kid needed.",
+   "source": "Blabbermouth",
+   "url": "https://blabbermouth.net/news/deryck-whibley-reimagines-sum-41s-signature-songs-on-diamonds-of-the-night-vol-1-solo-album"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Pikachu Joined Duolingo, and the Owl Is Thrilled",
+   "blurb": "Pok\u00e9mon teamed up with Duolingo for Duo's Pok\u00e9mon Party, running in the app through December 21. Finish the limited-time quests by December 29 to earn in-app rewards plus a code for Timed Research in Pok\u00e9mon GO. No word yet on Pok\u00e9mon as an actual language course.",
+   "quip": "Pika pika means \"do your lesson or else.\" Probably.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/interest/2026-11-19/pokemon-joins-duolingo-for-duo-pokemon-party-event/.243987"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Deltarune Chapter 6 Is Playable Start to Finish",
+   "blurb": "Toby Fox's fall newsletter says Deltarune Chapter 6 is now a structurally complete draft, though some scenes still need polish before full testing. Queen won the fan vote with 65 percent, earning a bonus scene. And Chapter 7 has started: Fox read the story aloud to his team, then stopped right at the big moment until they finish more of the game.",
+   "quip": "Toby Fox spoiling his own team is the most Toby Fox thing possible.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/toby-fox-shares-deltarune-chapter-6-and-7-development-update"
+  },
+  {
+   "slot": "main",
+   "category": "popculture",
+   "headline": "Good Grief! Burger King's Peanuts Meals Come in a Doghouse",
+   "blurb": "Burger King's Peanuts holiday menu hits participating US spots December 1. The Peanuts Pack comes in a collectible Snoopy Doghouse Box with one of two Snoopy beanies, plus Charlie Brown Loaded Potato Tots, Woodstock Golden Ranch sauce and a Snoopy Cookies & Creme Pie. Kids' meals come with one of eight Peanuts toys.",
+   "quip": "Lucy will charge you five cents for the dipping sauce advice.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/food/burger-king-unveils-snoopy-meals-for-adults-and-kids-with-exclusive-peanuts-collectibles-3429988/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Central Park's Newest Rink Is Back With DJ Nights and a Grinch Party",
+   "blurb": "The Gottesman Rink at the Davis Center reopened for its second season after welcoming more than 40,000 skaters in its first. Harlem Nights brings a live DJ every Saturday from 8:20 to 11 p.m. In December there's a How the Grinch Stole Skate Night on Dec. 24 and an Ugly Sweater Skate Party on Dec. 28. Most events are $20 for adults, $10 for kids.",
+   "quip": "Skate in an ugly sweater and call it athleisure.",
+   "source": "Patch",
+   "url": "https://patch.com/new-york/central-park/dj-skate-nights-grinch-party-set-central-park-rink"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Mountain Guide Found a Secret Cave Full of Ice Age Bears",
+   "blurb": "Mountain guide Kurt Walde found a cave around 9,100 feet up a cliff in South Tyrol, Italy, holding the skeletons of more than 100 extinct cave bears. Officials kept it quiet and installed a metal gate to stop looters. Scientists, including ancient DNA specialists, will start digging in next June.",
+   "quip": "The original bear cave, and nobody's even been in it since the Ice Age.",
+   "source": "Good News Network",
+   "url": "https://www.goodnewsnetwork.org/over-100-cave-bear-skeletons-found-in-sensational-discovery-by-alpine-guide/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Meet the Whale With the Most Crooked Face in History",
+   "blurb": "Scientists described Scaphokogia huachafo, a pygmy sperm whale from Peru that lived 6.3 to 5.6 million years ago. Its skull is so lopsided that researchers first thought the fossil got squished, but nope: both nostrils sit fully on the left. Its name comes from \"huachafo,\" Peruvian slang for flashy and over the top.",
+   "quip": "It wasn't crooked. It was just looking at you from a jaunty angle.",
+   "source": "ScienceDaily",
+   "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+  }
+ ]
+}
