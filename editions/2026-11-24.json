@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-24",
+ "generatedAt": "2026-11-24T06:10-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-24T06:00",
+  "current": {
+   "temp": 41,
+   "feels": 33,
+   "code": 0,
+   "wind": 9
+  },
+  "today": {
+   "hi": 50,
+   "lo": 32,
+   "code": 2,
+   "rain": 2,
+   "sunrise": "2026-11-24T06:52",
+   "sunset": "2026-11-24T16:31"
+  },
+  "tomorrow": {
+   "hi": 47,
+   "lo": 31,
+   "code": 3,
+   "rain": 0
+  },
+  "hourly": [
+   {
+    "t": "2026-11-24T00:00",
+    "temp": 50,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-24T01:00",
+    "temp": 48,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-24T02:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-24T03:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T04:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T05:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T06:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T07:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T08:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T09:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T10:00",
+    "temp": 45,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T11:00",
+    "temp": 47,
+    "code": 0,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-24T12:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T13:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T14:00",
+    "temp": 49,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T15:00",
+    "temp": 48,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T16:00",
+    "temp": 46,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T17:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T18:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T19:00",
+    "temp": 39,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T20:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T21:00",
+    "temp": 36,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T22:00",
+    "temp": 35,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-24T23:00",
+    "temp": 33,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T00:00",
+    "temp": 32,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T01:00",
+    "temp": 32,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T02:00",
+    "temp": 31,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T03:00",
+    "temp": 31,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T04:00",
+    "temp": 31,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T05:00",
+    "temp": 31,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T06:00",
+    "temp": 31,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T07:00",
+    "temp": 31,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T08:00",
+    "temp": 33,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T09:00",
+    "temp": 38,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T10:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T11:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T12:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T13:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T14:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T15:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T16:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T17:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T18:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T19:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T20:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T21:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T22:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-25T23:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Everybody Assemble: The Final Avengers: Doomsday Trailer Is Here",
+   "blurb": "Marvel just dropped the last trailer before Avengers: Doomsday hits theaters December 18, and it packs in pretty much every hero the MCU has ever had. Robert Downey Jr. is Doctor Doom, Chris Evans' Steve Rogers is back in action, and the Avengers, Fantastic Four and the original X-Men all collide. Cyclops even gets to shout the classic \"To me, my X-Men!\" line.",
+   "quip": "Bring a notepad. You will need to keep score of the cameos.",
+   "source": "Ars Technica",
+   "url": "https://arstechnica.com/culture/2026/11/marvel-crams-every-superhero-ever-into-avengers-doomsday-final-trailer/"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Believe! Ted Lasso Is Coming Back for Season 5",
+   "blurb": "Apple has officially renewed Ted Lasso for a fifth season, fresh off a fourth season that moved the action to the Lady Greyhounds. That season ended with the team promoted to the women's Super League and scored a 90 percent on Rotten Tomatoes. No story details yet, but the coach is headed back to the pitch.",
+   "quip": "Somebody preheat the oven. Biscuits with the boss are back on.",
+   "source": "Engadget",
+   "url": "https://www.engadget.com/2326238/apple-confirms-ted-lasso-will-return-for-season-5/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Zeus the Cat Took a 37-Mile Solo Train Trip to London",
+   "blurb": "An orange cat named Zeus hopped the 8:08pm train from Braintree in Essex on November 10 and rode 37 miles to London Liverpool Street. Station staff found him, kept him in an office, then escorted him home on another train. His owner told the BBC her first thought was \"he's done it again,\" since Zeus used to wander to Stansted Airport.",
+   "quip": "No ticket, no luggage, no regrets. Iconic commuter behavior.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/cat-takes-37-mile-train-trip-to-london-before-staff-escort-him-home-3430634/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Olivia Rodrigo Cut a Live Record in Jack White's Blue Room",
+   "blurb": "Olivia Rodrigo played a pop-up show Sunday at Third Man Records in Nashville, covering the White Stripes' \"Dead Leaves and the Dirty Ground.\" She even wore a copy of Jack White's old \"New York Confuses Me\" shirt. White says she recorded it live to acetate and a record is coming.",
+   "quip": "From running a White Stripes fan account at 13 to this. Dream big, kids.",
+   "source": "Stereogum",
+   "url": "https://stereogum.com/2520238/olivia-rodrigo-covers-another-white-stripes-song-at-third-man-records-pop-up-show/news/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "God of War's Faye Is Jumping From the Game to the TV Show",
+   "blurb": "Deborah Ann Woll, who voices Faye in God of War Ragnarok and next year's God of War Laufey, will play the same role in Amazon's live-action series. She joins Dave Bautista as Kratos and Alastair Duncan, who's also reprising Mimir from the games. Amazon ordered two seasons, filmed back to back.",
+   "quip": "Kratos finally has someone who can out-glare him.",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/god-of-war-laufey-faye-amazon-series"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Surf's Up: Wave Race: Blue Storm Splashes Onto Switch 2",
+   "blurb": "The GameCube launch title Wave Race: Blue Storm is now in the Nintendo Classics GameCube app for Switch Online + Expansion Pass members. It's the 12th GameCube game added to the library. Yes, the cheat code that unlocks the sarcastic, insult-spewing announcer is part of the fun.",
+   "quip": "Getting roasted by a jet ski announcer is the cozy content we needed.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Tamagotchi and Digimon Are Swapping Homes for Their 30th",
+   "blurb": "Bandai Namco is celebrating 30 years of Tamagotchi and Digimon with two crossover virtual pets: an egg-shaped Tamagotchi where you raise Digimon, and a Digimon-style device in Tamagotchi colors. Each costs 8,800 yen, about $55. Pre-orders are open in Japan until December 22, with a June 2027 release.",
+   "quip": "Finally, a Tamagotchi that can digivolve when you forget to feed it.",
+   "source": "Siliconera",
+   "url": "https://www.siliconera.com/tamagotchi-digimon-crossover-virtual-pets-announced/"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "The 1930s Nostalgia Subway Trains Roll Again This Sunday",
+   "blurb": "The Transit Museum and MTA's Holiday Nostalgia Rides return Sunday, November 28, running Sundays from 10 a.m. to 5 p.m. through December 27. The vintage R1 and R9 cars, with rattan seats, ceiling fans and old-timey ads, run between 2 Av on the F and 96 St on the Q. It's just a regular subway fare, and there's a scavenger hunt in the museum's app this year.",
+   "quip": "Same price as your normal commute, way more ceiling fans.",
+   "source": "amNY",
+   "url": "https://www.amny.com/news/subway-nostalgia-trains-mta-holidays-2026/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "This Man Ran a Half Marathon Holding a Whole Pizza",
+   "blurb": "Steven Ericson of Lubbock, Texas, ran the Williams Route 66 Half Marathon in Tulsa carrying a 16-inch boxed pizza from Andolini's. He finished the 13.1 miles in 1 hour, 44 minutes and 40 seconds, and hopes Guinness makes it official as the fastest half marathon carrying a pizza. The box was styled like a Metallica album cover.",
+   "quip": "Master of Pepperoni. We'll see ourselves out.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/23/guinness-world-records-pizza-marathon/7561795456749/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "An Idaho Man Juggled on Skates for Nearly 20 Miles",
+   "blurb": "Record-collecting juggler David Rush skated 31,816 meters, or 19.77 miles, on the Boise Greenbelt while juggling three balls. Guinness confirmed it as the farthest distance on skates while juggling three objects, beating the old record by more than six times. He hand-cleared the path first, since a pea-sized pebble can lock up a wheel.",
+   "quip": "We can't even carry three grocery bags and walk at the same time.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/23/guinness-world-records-david-rush-juggling-skates/2691795457460/"
+  }
+ ]
+}
