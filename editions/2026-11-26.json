@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-26",
+ "generatedAt": "2026-11-26T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-26T06:00",
+  "current": {
+   "temp": 41,
+   "feels": 32,
+   "code": 3,
+   "wind": 15
+  },
+  "today": {
+   "hi": 54,
+   "lo": 41,
+   "code": 65,
+   "rain": 100,
+   "sunrise": "2026-11-26T06:55",
+   "sunset": "2026-11-26T16:30"
+  },
+  "tomorrow": {
+   "hi": 55,
+   "lo": 43,
+   "code": 53,
+   "rain": 44
+  },
+  "hourly": [
+   {
+    "t": "2026-11-26T00:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-26T01:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-26T02:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-26T03:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-26T04:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-26T05:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-26T06:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-26T07:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-26T08:00",
+    "temp": 42,
+    "code": 51,
+    "rain": 27
+   },
+   {
+    "t": "2026-11-26T09:00",
+    "temp": 44,
+    "code": 53,
+    "rain": 41
+   },
+   {
+    "t": "2026-11-26T10:00",
+    "temp": 45,
+    "code": 53,
+    "rain": 41
+   },
+   {
+    "t": "2026-11-26T11:00",
+    "temp": 46,
+    "code": 51,
+    "rain": 43
+   },
+   {
+    "t": "2026-11-26T12:00",
+    "temp": 46,
+    "code": 51,
+    "rain": 57
+   },
+   {
+    "t": "2026-11-26T13:00",
+    "temp": 46,
+    "code": 61,
+    "rain": 90
+   },
+   {
+    "t": "2026-11-26T14:00",
+    "temp": 47,
+    "code": 63,
+    "rain": 94
+   },
+   {
+    "t": "2026-11-26T15:00",
+    "temp": 47,
+    "code": 63,
+    "rain": 100
+   },
+   {
+    "t": "2026-11-26T16:00",
+    "temp": 47,
+    "code": 63,
+    "rain": 100
+   },
+   {
+    "t": "2026-11-26T17:00",
+    "temp": 48,
+    "code": 61,
+    "rain": 100
+   },
+   {
+    "t": "2026-11-26T18:00",
+    "temp": 48,
+    "code": 63,
+    "rain": 100
+   },
+   {
+    "t": "2026-11-26T19:00",
+    "temp": 49,
+    "code": 65,
+    "rain": 100
+   },
+   {
+    "t": "2026-11-26T20:00",
+    "temp": 50,
+    "code": 63,
+    "rain": 93
+   },
+   {
+    "t": "2026-11-26T21:00",
+    "temp": 52,
+    "code": 63,
+    "rain": 87
+   },
+   {
+    "t": "2026-11-26T22:00",
+    "temp": 53,
+    "code": 61,
+    "rain": 79
+   },
+   {
+    "t": "2026-11-26T23:00",
+    "temp": 53,
+    "code": 61,
+    "rain": 62
+   },
+   {
+    "t": "2026-11-27T00:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 44
+   },
+   {
+    "t": "2026-11-27T01:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 30
+   },
+   {
+    "t": "2026-11-27T02:00",
+    "temp": 54,
+    "code": 53,
+    "rain": 23
+   },
+   {
+    "t": "2026-11-27T03:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-27T04:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-27T05:00",
+    "temp": 52,
+    "code": 0,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-27T06:00",
+    "temp": 51,
+    "code": 2,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-27T07:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 13
+   },
+   {
+    "t": "2026-11-27T08:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-27T09:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-27T10:00",
+    "temp": 49,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-27T11:00",
+    "temp": 47,
+    "code": 53,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-27T12:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-27T13:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-27T14:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 10
+   },
+   {
+    "t": "2026-11-27T15:00",
+    "temp": 44,
+    "code": 53,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-27T16:00",
+    "temp": 44,
+    "code": 51,
+    "rain": 28
+   },
+   {
+    "t": "2026-11-27T17:00",
+    "temp": 43,
+    "code": 51,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-27T18:00",
+    "temp": 44,
+    "code": 51,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-27T19:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 14
+   },
+   {
+    "t": "2026-11-27T20:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-27T21:00",
+    "temp": 43,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-27T22:00",
+    "temp": 43,
+    "code": 2,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-27T23:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 2
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "Team Cherry Has Posted! Silksong DLC News Drops Friday",
+   "blurb": "The famously quiet Hollow Knight: Silksong team is holding a YouTube livestream on Friday, November 27 at 10 AM ET. Team Cherry says it'll share an update on the nautical Sea of Sorrow DLC, plus other \"exciting\" announcements. Kotaku is even daring to dream of a surprise stealth drop.",
+   "quip": "Black Friday plans: canceled. Hornet plans: confirmed.",
+   "source": "Kotaku",
+   "url": "https://kotaku.com/team-cherry-will-break-its-long-silence-on-silksong-dlc-with-a-livestream-update-later-this-week-2001000355"
+  },
+  {
+   "slot": "top",
+   "category": "fandom",
+   "headline": "Precious News: The Hunt for Gollum Has Wrapped Filming",
+   "blurb": "Warner Bros. says The Lord of the Rings: The Hunt for Gollum is done shooting, more than a year before it hits theaters on December 17, 2027. Andy Serkis directs and returns as Gollum, with Elijah Wood as Frodo and Ian McKellen as Gandalf. The wrap video suggests Gollum is not ready for it to be over.",
+   "quip": "Second breakfast at the wrap party, obviously.",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/the-lord-of-the-rings-the-hunt-for-gollum-has-officially-wrapped-production-2000845069"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Tom Petty's Drummer Hears Evanescence for the First Time. Nails It.",
+   "blurb": "Drumeo's \"For the First Time\" series spent five years hunting for a drummer who had never heard \"Bring Me to Life.\" They finally found one: Steve Ferrone, Heartbreakers drummer from 1994 on. He locked in fast and played something very close to Josh Freese's original part, and Evanescence's current drummer Will Hunt was very impressed.",
+   "quip": "Wake him up inside? He was already awake. He was grooving.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/tom-petty-drummer-steve-ferrone-evanescences-bring-me-to-life-drumeo/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Taylor Swift Hand-Delivers Brenda Lee's Diamond Plaque",
+   "blurb": "\"Rockin' Around the Christmas Tree\" just went RIAA Diamond for passing 10 million copies, and Taylor Swift surprised 81-year-old Brenda Lee with the plaque in person. Lee recorded the classic as a teen. Swift called her \"the original queen of Christmas,\" and Lee was brought to tears.",
+   "quip": "Officially rockin' around the plaque on the wall.",
+   "source": "Upworthy",
+   "url": "https://www.upworthy.com/taylor-swift-surprises-81-year-old-brenda-lee-with-diamond-plaque-for-rockin-around-the-christmas-tree/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "HBO's Harry Potter Goes LEGO Before It Even Airs",
+   "blurb": "LEGO revealed its first sets for HBO's Harry Potter series: a 738-piece Gryffindor common room ($89.99), Number Four, Privet Drive ($59.99), a Hogwarts Express and Platform 9 3/4 set ($99.99) and BrickHeadz of Harry, Draco and Hagrid ($24.99). They all land January 1, 2027, a week after the show debuts on Christmas Day.",
+   "quip": "The cupboard under the stairs is finally getting the respect it deserves.",
+   "source": "Collider",
+   "url": "https://collider.com/hbo-harry-potter-lego-set-images/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Kickflip Into December: Tony Hawk 3 + 4 Joins PS Plus",
+   "blurb": "Sony's December PS Plus Essential lineup is Tony Hawk's Pro Skater 3 + 4, Dragon Ball XenoVerse 2 and Amnesia: The Bunker. All three are claimable from Tuesday, December 1 until January 4, 2027. Push Square gave the skateboarding remake an 8/10.",
+   "quip": "Leftovers in one hand, controller in the other, 900 on the half-pipe.",
+   "source": "Push Square",
+   "url": "https://www.pushsquare.com/news/2026/11/ps-plus-essential-games-for-december-2026-announced"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "K-ON's Director and Madhouse Made a Pokemon Music Video",
+   "blurb": "Pokemon teamed up with J-rock band Official HiGE DANdism for \"Evergreen,\" a song written just for the 30th anniversary. Naoko Yamada (K-ON!, The Colors Within) directed the music video with animation by Madhouse. It premieres on YouTube Monday at 9 AM EST, and the song arrives digitally December 1.",
+   "quip": "Thirty years in and Pokemon still knows how to make us cry on purpose.",
+   "source": "Anime News Network",
+   "url": "https://www.animenewsnetwork.com/news/2026-11-25/k-on-naoko-yamada-helms-official-hige-dandism-pokemon-music-video-with-madhouse/.244183"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Brooklyn's Four & Twenty Blackbirds Baked About 30,000 Pies",
+   "blurb": "Thanksgiving prep at the Brooklyn pie shop starts in August, with a dough team assembled in September. The last two weeks are pure oven madness for pickup orders, deliveries and wholesale batches for spots like the Park Slope Food Coop. This year they made something like 30,000 pies.",
+   "quip": "That's four and twenty blackbirds times a whole lot of crust.",
+   "source": "Gothamist",
+   "url": "https://gothamist.com/food/inside-the-thanksgiving-pie-rush-at-the-brooklyn-bakery-four-twenty-blackbirds"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "A Sealed-Up Super Mario Bros. Just Sold for $96,875",
+   "blurb": "A complete-in-box 1985 copy of Super Mario Bros., graded PSA 9.0, sold for a record $96,875 at Heritage Auctions' Nov. 20-21 video game sale. It set records for a first-production copy and for any complete-in-box game. Somewhere, a mom who tossed the box in 1986 is feeling it.",
+   "quip": "Thank you Mario, but your retirement fund is in another castle.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/25/super-mario-bros-heritage-auctions/8461795632257/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Hope the Donkey Lost Her Ear Record, So She Got One for Her Tail",
+   "blurb": "Hope, a mammoth jackstock donkey in Byron, Georgia, is now Guinness-certified for the longest tail on a donkey at 19.97 inches. She used to hold the longest-ears record until a Pennsylvania donkey named Hank beat her in August. Her owner Hannah Frost just pivoted to the other end.",
+   "quip": "Pin the tail on the donkey has never been easier.",
+   "source": "UPI Odd News",
+   "url": "https://www.upi.com/Odd_News/2026/11/25/guinness-world-records-longest-tail-donkey/9861795625258/"
+  }
+ ]
+}
