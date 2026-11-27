@@ -1,0 +1,411 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T06:11-05:00",
+ "weather": {
+  "place": "Brooklyn, NY",
+  "tz": "America/New_York",
+  "fetchedAt": "2026-11-27T06:00",
+  "current": {
+   "temp": 57,
+   "feels": 53,
+   "code": 2,
+   "wind": 11
+  },
+  "today": {
+   "hi": 57,
+   "lo": 43,
+   "code": 51,
+   "rain": 45,
+   "sunrise": "2026-11-27T06:56",
+   "sunset": "2026-11-27T16:30"
+  },
+  "tomorrow": {
+   "hi": 46,
+   "lo": 40,
+   "code": 3,
+   "rain": 4
+  },
+  "hourly": [
+   {
+    "t": "2026-11-27T00:00",
+    "temp": 53,
+    "code": 51,
+    "rain": 45
+   },
+   {
+    "t": "2026-11-27T01:00",
+    "temp": 54,
+    "code": 3,
+    "rain": 17
+   },
+   {
+    "t": "2026-11-27T02:00",
+    "temp": 55,
+    "code": 51,
+    "rain": 18
+   },
+   {
+    "t": "2026-11-27T03:00",
+    "temp": 56,
+    "code": 45,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-27T04:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 26
+   },
+   {
+    "t": "2026-11-27T05:00",
+    "temp": 57,
+    "code": 3,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-27T06:00",
+    "temp": 57,
+    "code": 2,
+    "rain": 9
+   },
+   {
+    "t": "2026-11-27T07:00",
+    "temp": 55,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-27T08:00",
+    "temp": 54,
+    "code": 2,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-27T09:00",
+    "temp": 53,
+    "code": 1,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-27T10:00",
+    "temp": 53,
+    "code": 3,
+    "rain": 1
+   },
+   {
+    "t": "2026-11-27T11:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-27T12:00",
+    "temp": 52,
+    "code": 3,
+    "rain": 5
+   },
+   {
+    "t": "2026-11-27T13:00",
+    "temp": 50,
+    "code": 3,
+    "rain": 8
+   },
+   {
+    "t": "2026-11-27T14:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 7
+   },
+   {
+    "t": "2026-11-27T15:00",
+    "temp": 48,
+    "code": 3,
+    "rain": 15
+   },
+   {
+    "t": "2026-11-27T16:00",
+    "temp": 47,
+    "code": 3,
+    "rain": 17
+   },
+   {
+    "t": "2026-11-27T17:00",
+    "temp": 46,
+    "code": 51,
+    "rain": 12
+   },
+   {
+    "t": "2026-11-27T18:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-27T19:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-27T20:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-27T21:00",
+    "temp": 45,
+    "code": 51,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-27T22:00",
+    "temp": 44,
+    "code": 51,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-27T23:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-28T00:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-28T01:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-28T02:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-28T03:00",
+    "temp": 40,
+    "code": 0,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T04:00",
+    "temp": 40,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T05:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T06:00",
+    "temp": 41,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T07:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-28T08:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T09:00",
+    "temp": 42,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T10:00",
+    "temp": 43,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T11:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T12:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T13:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 4
+   },
+   {
+    "t": "2026-11-28T14:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-28T15:00",
+    "temp": 46,
+    "code": 3,
+    "rain": 3
+   },
+   {
+    "t": "2026-11-28T16:00",
+    "temp": 45,
+    "code": 3,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-28T17:00",
+    "temp": 44,
+    "code": 1,
+    "rain": 2
+   },
+   {
+    "t": "2026-11-28T18:00",
+    "temp": 44,
+    "code": 3,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-28T19:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-28T20:00",
+    "temp": 44,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-28T21:00",
+    "temp": 43,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-28T22:00",
+    "temp": 42,
+    "code": 0,
+    "rain": 0
+   },
+   {
+    "t": "2026-11-28T23:00",
+    "temp": 41,
+    "code": 0,
+    "rain": 0
+   }
+  ]
+ },
+ "stories": [
+  {
+   "slot": "top",
+   "category": "games",
+   "headline": "GTA 6 Was Watched for 420 Million Hours in One Week",
+   "blurb": "Over its first seven days, GTA 6 racked up more than 420 million hours watched on Twitch, YouTube and Kick, according to Streams Charts. That's nearly triple the old record from Valorant's 2020 closed beta, and more than Valorant, Elden Ring, Diablo 4 and Lost Ark's first weeks combined. Over 1,056 channels hit new all-time viewer peaks while streaming it.",
+   "quip": "420 million hours is roughly how long we've been waiting for this game, so it checks out.",
+   "source": "Eurogamer",
+   "url": "https://www.eurogamer.net/grand-theft-auto-6-first-week-hours-watched-record"
+  },
+  {
+   "slot": "top",
+   "category": "music",
+   "headline": "Wu-Tang Clan Brought Da Ruckus to Thanksgiving Football",
+   "blurb": "Wu-Tang Clan headlined halftime at the Detroit Lions and Chicago Bears Thanksgiving game, with Red Hot Chili Peppers drummer Chad Smith on live drums. They ran through \"Protect Ya Neck,\" \"C.R.E.A.M.,\" \"Shimmy Shimmy Ya\" and more, with ODB's son Young Dirty Bastard joining in. The booking came from Eminem and his manager Paul Rosenberg, who curate the Lions' halftime show.",
+   "quip": "Cash rules everything around me, except the leftover pie. The pie rules.",
+   "source": "Consequence",
+   "url": "https://consequence.net/2026/11/wu-tang-clan-nfl-thanksgiving-show/"
+  },
+  {
+   "slot": "trending",
+   "category": "trending",
+   "headline": "Sloppy Joe, the 24-Pound Cat, Finally Got His Forever Home",
+   "blurb": "Sloppy Joe is a 12-year-old, 24-pound cat who landed at the Humane Society of Chittenden County in Vermont this fall. He spent his stay hanging out in a staff office, and on November 22 the shelter announced his office mate Sydnie had adopted him. The Instagram post pulled in more than 41,000 likes from a very smitten internet.",
+   "quip": "He's not chunky, he's just got a lot of love to store.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/24lb-cat-sloppy-joe-gets-adopted-and-the-internet-is-delighted-3431634/"
+  },
+  {
+   "slot": "main",
+   "category": "music",
+   "headline": "Faith No More, The Strokes and Tame Impala Head to Madrid",
+   "blurb": "Mad Cool 2027 just dropped 71 names for its July 7 to 10 run in Madrid. The newly reformed Faith No More headline night one, with Tame Impala, The Strokes, The xx and ENHYPEN also on the bill. Placebo will play their debut album in full, and Kneecap, IDLES, Primus and The Mars Volta are in too.",
+   "quip": "Faith No More reunited, The Strokes showed up. It's 2001 in the best way.",
+   "source": "NME",
+   "url": "https://www.nme.com/news/music/mad-cool-2027-line-up-announced-the-strokes-the-xx-tame-impala-faith-no-more-enhyphen-more-3977083"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Rare's Co-Founder Dug Up the Lost Conker 64",
+   "blurb": "Rare co-founder Tim Stamper posted a YouTube video digging through archived concept art, level maps and notes for Conker 64, the family-friendly game that later became Conker's Bad Fur Day. He even shows off a 1998 dev build stored on a Nintendo 64 cartridge. It looks surprisingly close to finished.",
+   "quip": "Imagine the squirrel before he discovered being rude. Simpler times.",
+   "source": "VGC",
+   "url": "https://www.videogameschronicle.com/news/rare-co-founder-reveals-footage-of-cancelled-conker-64/"
+  },
+  {
+   "slot": "main",
+   "category": "fandom",
+   "headline": "Very Important People Is Back, and So Are the Wild Makeovers",
+   "blurb": "Dropout's improv interview show Very Important People returns for season 4 on December 10, with 15 episodes rolling out biweekly through June 24. Host Vic Michaelis interviews comedians who get surprise makeovers and invent a character on the spot. This season's guests include Ben Schwartz, Bobby Moynihan, Lou Wilson, Bob The Drag Queen and Brennan Lee Mulligan.",
+   "quip": "Brennan Lee Mulligan in prosthetics with zero prep? Clear the whole calendar.",
+   "source": "Bleeding Cool",
+   "url": "https://bleedingcool.com/tv/dropout-brings-vic-michaelis-very-important-people-back-for-season-4/"
+  },
+  {
+   "slot": "main",
+   "category": "games",
+   "headline": "Pokemon GO and Pokemon Champions Are Teaming Up in December",
+   "blurb": "From December 8 to 18, bringing Pokemon you befriended in Pokemon GO over to Pokemon Champions unlocks a Professor Willow Outfit Set and up to 10 Training Tickets. Over in GO, a Champions Celebration Event from December 8 to 14 brings out Charmander, Starly, Grookey, Absol, Gible and more. It works on both the Switch and mobile versions.",
+   "quip": "Finally, a reason to dress like Professor Willow. We've been ready for years.",
+   "source": "Nintendo Life",
+   "url": "https://www.nintendolife.com/news/2026/11/pokemon-champions-x-pokemon-go-collab-taking-place-next-month"
+  },
+  {
+   "slot": "local",
+   "category": "local",
+   "headline": "Astoria the Turkey Rules Battery Park Every Day of the Year",
+   "blurb": "Meet Astoria, a wild turkey who, as far as birdwatchers know, is the only one living in Manhattan. She was first spotted in Western Queens in spring 2024, moved to Roosevelt Island, then flew back to Manhattan in 2025 and settled at The Battery. She roosts in the trees at night and forages for seeds, nuts and bugs by day.",
+   "quip": "Queens, Roosevelt Island, then Manhattan. She's more New York than most of us.",
+   "source": "Gothamist",
+   "url": "https://gothamist.com/news/every-day-is-turkey-day-in-battery-park-for-fans-of-astoria-the-bird"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "Rolo the Runaway Horse Made a McDonald's Run First",
+   "blurb": "A Virginia horse named Rolo rolled under an electric fence at his stable and was spotted at a Colonial Heights McDonald's on November 17. Police and two state troopers followed him through a neighborhood before lassoing him at Shepard Stadium. His stable says he obeyed every traffic law, even stopping fully at the stop sign.",
+   "quip": "He didn't order anything. Just wanted to see the hay-ppy meal menu.",
+   "source": "Dexerto",
+   "url": "https://www.dexerto.com/entertainment/runaway-horse-visits-mcdonalds-before-leading-police-on-neighborhood-chase-3431439/"
+  },
+  {
+   "slot": "offbeat",
+   "category": "offbeat",
+   "headline": "We Finally Saw the Dent NASA Put in an Asteroid",
+   "blurb": "Back in 2022, NASA's DART spacecraft smashed into the asteroid Dimorphos to test planetary defense. Now the European Space Agency's Hera probe has sent back the first close-ups, showing a stadium-sized crater, one flattened side and hundreds of loose boulders. The asteroid is also tumbling chaotically after the hit.",
+   "quip": "Four years later, the asteroid is still not over it.",
+   "source": "Gizmodo",
+   "url": "https://gizmodo.com/nasas-dart-mission-left-a-stadium-sized-crater-on-an-asteroid-and-we-just-got-the-pictures-to-prove-it-2000845935"
+  }
+ ]
+}
